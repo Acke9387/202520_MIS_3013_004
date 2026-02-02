@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Conditional_Example2/Conditional_Example2.csproj" Id="b24ecdbd-aa02-45d5-92a3-ef4e78868b5c" />
+  <Project Path="Loops_For/Loops_For.csproj" Id="749033af-9531-47d0-ad49-1c52a29d3539" />
+  <Project Path="Loops_While/Loops_While.csproj" Id="f29b1433-9837-4b77-b1bc-03f05d6e214d" />
   <Project Path="VariablesAndExpressions/VariablesAndExpressions.csproj" />
 </Solution>
