@@ -25,6 +25,12 @@ else// if (toss == 1)
 Console.WriteLine("Please guess either 'Heads' or 'Tails' <<");
 string userGuess = Console.ReadLine(); // Users guess of either Heads or Tails
 
+while (userGuess.ToLower() != "heads" && userGuess.ToLower() != "tails")
+{
+    Console.WriteLine("Invalid input. Please enter either 'Heads' or 'Tails'.");
+    userGuess = Console.ReadLine();
+}
+
 Console.WriteLine($"The coin came up {tossAsString}");
 
 if (userGuess.ToLower() == tossAsString.ToLower())
