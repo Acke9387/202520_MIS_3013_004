@@ -44,24 +44,18 @@ average = sum / studentGrades.Count;
 
 Console.WriteLine($"Your average on your {studentGrades.Count.ToString("N0")} is {(average / 100).ToString("P")}");
 
-//Console.WriteLine("Do you want to see everyone's grade? yes or no <<");
+Console.WriteLine("Do you want to see everyone's grade? yes or no <<");
 
-//if (Console.ReadLine().ToLower() == "yes")
-//{
-//    Console.WriteLine($"Student:\t\tExam Grade:");
-//    for (int x = 0; x < exams.Count; x++)
-//    {
-//        Console.WriteLine($"{ids[x]}\t\t\t{exams[x]}");
-//    }
-//}
+if (Console.ReadLine().ToLower() == "yes")
+{
+    Console.WriteLine($"Student:\t\tExam Grade:");
+    foreach (int studentID in studentGrades.Keys)
+    {
+        Console.WriteLine($"{studentID}\t\t\t{studentGrades[studentID]}");
+    }
+}
 
-//Console.WriteLine("What student do you want to look up, please enter their id <<");
-//int idToLookUp = int.Parse(Console.ReadLine());
+Console.WriteLine("What student do you want to look up, please enter their id <<");
+int idToLookUp = int.Parse(Console.ReadLine());
 
-//for (int x = 0; x < ids.Count; x++)
-//{
-//    if (ids[x] == idToLookUp)
-//    {
-//        Console.WriteLine($"Student {ids[x]} has a grade of {exams[x]}");
-//    }
-//}
+Console.WriteLine($"Student {idToLookUp} has a grade of {studentGrades[idToLookUp]}");
