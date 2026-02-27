@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Collections_Grocery-List/Collections_Grocery-List.csproj" Id="9745a723-1c3f-4230-8393-53f66778bc47" />
   <Project Path="Collections_Min_Max_Avg-Arrays/Collections_Min_Max_Avg-Arrays.csproj" Id="231d6e35-719e-4ff1-b495-d2e2ed609f57" />
   <Project Path="Conditional_Coin_Toss/Conditional_Coin_Toss.csproj" />
   <Project Path="Loops_Bank-Account-Info/Loops_Bank-Account-Info.csproj" Id="3a2f35d0-b538-4083-8bf4-a5a9613d2cef" />
