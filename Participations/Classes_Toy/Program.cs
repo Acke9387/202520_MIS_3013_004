@@ -6,6 +6,8 @@ Toy t1 = new Toy();
 t1.Manufacturer = "Hasbro";
 t1.Name = "Monopoly";
 t1.Price = 19.99;
+
+// Can't access the Notes property directly because it's private, so we use the AddNotes method instead
 //t1.Notes = "Classic board game";
 t1.AddNotes("Classic board game");
 t1.AddNotes("Great for family game night");
