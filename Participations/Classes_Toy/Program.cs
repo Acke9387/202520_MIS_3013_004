@@ -23,6 +23,9 @@ toys.Add(t1);
 toys.Add(t2);
 
 
+// Whenever you are creating objects in a loop, make sure to create the toy object
+// inside the loop so you don't keep changing the values of the same object and adding it multiple times
+
 //while (true)
 //{
 //    Toy toy = new Toy();
