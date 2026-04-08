@@ -7,6 +7,8 @@
   <Project Path="Functions_Min_Max/Functions_Min_Max.csproj" Id="4f044c91-70c7-4dd9-9518-e1941376108d" />
   <Project Path="Loops_For/Loops_For.csproj" Id="749033af-9531-47d0-ad49-1c52a29d3539" />
   <Project Path="Loops_While/Loops_While.csproj" Id="f29b1433-9837-4b77-b1bc-03f05d6e214d" />
+  <Project Path="Module2_ExamReview-Part1/Module2_ExamReview-Part1.csproj" Id="01f3880b-0de0-4e56-b1cc-70d125203d0a" />
+  <Project Path="Module2_ExamReview-Part2/Module2_ExamReview-Part2.csproj" Id="ea00665f-608f-4cce-8c7c-5b39dcc53b5c" />
   <Project Path="Stringmanipulation_Example1/Stringmanipulation_Example1.csproj" Id="5641a0b7-aee1-4f5a-b0a6-64f956ab4ba0" />
   <Project Path="VariablesAndExpressions/VariablesAndExpressions.csproj" />
 </Solution>
