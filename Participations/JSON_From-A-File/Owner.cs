@@ -8,11 +8,11 @@ namespace JSON_From_A_File
     public class Owner
     {
 
-        public String FirstName{get;set;}
-        public String LastName {get;set;}
-        public String Make     {get;set;}
-        public int Year     {get;set;}
-        public String Model    {get;set;}
+        public String FirstName { get; set; }
+        public String LastName { get; set; }
+        public String Make { get; set; }
+        public int Year { get; set; }
+        public String Model { get; set; }
         public String Color { get; set; }
 
         public Owner()
