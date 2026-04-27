@@ -1,0 +1,1 @@
+﻿string fileContents = File.ReadAllText("stock_sales.json");

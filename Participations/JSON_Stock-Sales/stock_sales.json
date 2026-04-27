@@ -1,0 +1,8002 @@
+[
+  {
+    "BuyerName": "Janeczka Smitheram",
+    "PurchasePrice": 406652.79,
+    "SalePrice": 100272.5,
+    "StockSymbol": "MGEE",
+    "PurchaseDate": "3/25/2002",
+    "SaleDate": "1/10/2007"
+  },
+  {
+    "BuyerName": "Bogey Fourmy",
+    "PurchasePrice": 229167.73,
+    "SalePrice": 951237.92,
+    "StockSymbol": "DTJ",
+    "PurchaseDate": "12/11/2002",
+    "SaleDate": "10/19/2007"
+  },
+  {
+    "BuyerName": "Chrysa Ost",
+    "PurchasePrice": 341616.8,
+    "SalePrice": 2303.44,
+    "StockSymbol": "CXO",
+    "PurchaseDate": "10/25/2020",
+    "SaleDate": "7/20/2010"
+  },
+  {
+    "BuyerName": "Meta Guerry",
+    "PurchasePrice": 834779.75,
+    "SalePrice": 385779.04,
+    "StockSymbol": "STKS",
+    "PurchaseDate": "11/11/2004",
+    "SaleDate": "2/5/2004"
+  },
+  {
+    "BuyerName": "Terese Shrive",
+    "PurchasePrice": 188635.33,
+    "SalePrice": 401476.3,
+    "StockSymbol": "IDT",
+    "PurchaseDate": "2/8/2020",
+    "SaleDate": "8/22/2014"
+  },
+  {
+    "BuyerName": "Amity Mulcock",
+    "PurchasePrice": 894318.74,
+    "SalePrice": 301589.17,
+    "StockSymbol": "SPE",
+    "PurchaseDate": "8/21/2010",
+    "SaleDate": "11/21/2002"
+  },
+  {
+    "BuyerName": "Fanechka Delhanty",
+    "PurchasePrice": 470357.33,
+    "SalePrice": 701894.31,
+    "StockSymbol": "AFH",
+    "PurchaseDate": "4/10/2002",
+    "SaleDate": "9/10/2005"
+  },
+  {
+    "BuyerName": "Heddi Huey",
+    "PurchasePrice": 684910.72,
+    "SalePrice": 511565.74,
+    "StockSymbol": "EC",
+    "PurchaseDate": "5/17/2004",
+    "SaleDate": "2/15/2002"
+  },
+  {
+    "BuyerName": "Ruddy Ferrotti",
+    "PurchasePrice": 424608.04,
+    "SalePrice": 938053.34,
+    "StockSymbol": "FANG",
+    "PurchaseDate": "10/17/2008",
+    "SaleDate": "2/12/2001"
+  },
+  {
+    "BuyerName": "Leigha Ilewicz",
+    "PurchasePrice": 972513.76,
+    "SalePrice": 179175.91,
+    "StockSymbol": "PRAH",
+    "PurchaseDate": "1/19/2021",
+    "SaleDate": "3/28/2000"
+  },
+  {
+    "BuyerName": "Lizette Pellamont",
+    "PurchasePrice": 240040.74,
+    "SalePrice": 890303.3,
+    "StockSymbol": "MUE",
+    "PurchaseDate": "11/1/2002",
+    "SaleDate": "3/26/2012"
+  },
+  {
+    "BuyerName": "Beatrice Sparrowe",
+    "PurchasePrice": 905111.95,
+    "SalePrice": 69231.27,
+    "StockSymbol": "MIE",
+    "PurchaseDate": "5/23/2001",
+    "SaleDate": "1/18/2005"
+  },
+  {
+    "BuyerName": "Jeremias Eagleton",
+    "PurchasePrice": 321247.64,
+    "SalePrice": 179738.93,
+    "StockSymbol": "NURO",
+    "PurchaseDate": "8/23/2005",
+    "SaleDate": "11/15/2010"
+  },
+  {
+    "BuyerName": "Marchelle Bramer",
+    "PurchasePrice": 937417.64,
+    "SalePrice": 177803.68,
+    "StockSymbol": "BTO",
+    "PurchaseDate": "11/10/2012",
+    "SaleDate": "1/23/2013"
+  },
+  {
+    "BuyerName": "Mala Matevosian",
+    "PurchasePrice": 242288.91,
+    "SalePrice": 319401.28,
+    "StockSymbol": "TROW",
+    "PurchaseDate": "11/30/2005",
+    "SaleDate": "5/8/2003"
+  },
+  {
+    "BuyerName": "Mariya Peattie",
+    "PurchasePrice": 108298.63,
+    "SalePrice": 882360.48,
+    "StockSymbol": "MSBI",
+    "PurchaseDate": "8/2/2007",
+    "SaleDate": "9/25/2022"
+  },
+  {
+    "BuyerName": "Claudianus Caldeiro",
+    "PurchasePrice": 889299.3,
+    "SalePrice": 45498.03,
+    "StockSymbol": "HR",
+    "PurchaseDate": "8/5/2018",
+    "SaleDate": "10/2/2007"
+  },
+  {
+    "BuyerName": "Ashla Vasiliu",
+    "PurchasePrice": 724545.78,
+    "SalePrice": 481280.78,
+    "StockSymbol": "MTRX",
+    "PurchaseDate": "9/13/2015",
+    "SaleDate": "5/3/2018"
+  },
+  {
+    "BuyerName": "Peri Briddock",
+    "PurchasePrice": 77607.77,
+    "SalePrice": 294537.49,
+    "StockSymbol": "HTBK",
+    "PurchaseDate": "11/19/2013",
+    "SaleDate": "8/20/2014"
+  },
+  {
+    "BuyerName": "Ali Dearness",
+    "PurchasePrice": 334665.37,
+    "SalePrice": 553130.42,
+    "StockSymbol": "CDR^B",
+    "PurchaseDate": "8/5/2004",
+    "SaleDate": "7/17/2021"
+  },
+  {
+    "BuyerName": "Marguerite Scothorne",
+    "PurchasePrice": 675027.1,
+    "SalePrice": 75706.93,
+    "StockSymbol": "VEON",
+    "PurchaseDate": "10/17/2014",
+    "SaleDate": "9/13/2018"
+  },
+  {
+    "BuyerName": "Gary Tear",
+    "PurchasePrice": 713615.41,
+    "SalePrice": 776565.59,
+    "StockSymbol": "ICFI",
+    "PurchaseDate": "6/3/2007",
+    "SaleDate": "2/27/2019"
+  },
+  {
+    "BuyerName": "Heath Jahncke",
+    "PurchasePrice": 931272.0,
+    "SalePrice": 779428.06,
+    "StockSymbol": "COLB",
+    "PurchaseDate": "11/1/2015",
+    "SaleDate": "1/20/2007"
+  },
+  {
+    "BuyerName": "Franklyn Scotter",
+    "PurchasePrice": 397471.11,
+    "SalePrice": 330372.78,
+    "StockSymbol": "BSRR",
+    "PurchaseDate": "6/18/2020",
+    "SaleDate": "7/21/2007"
+  },
+  {
+    "BuyerName": "Adey Fisher",
+    "PurchasePrice": 794569.13,
+    "SalePrice": 523745.57,
+    "StockSymbol": "SGEN",
+    "PurchaseDate": "10/26/2001",
+    "SaleDate": "6/24/2006"
+  },
+  {
+    "BuyerName": "Roberta Westcott",
+    "PurchasePrice": 19045.64,
+    "SalePrice": 101564.02,
+    "StockSymbol": "AXARU",
+    "PurchaseDate": "2/13/2003",
+    "SaleDate": "2/15/2020"
+  },
+  {
+    "BuyerName": "Damara Cossins",
+    "PurchasePrice": 452089.07,
+    "SalePrice": 784672.39,
+    "StockSymbol": "RNR^E",
+    "PurchaseDate": "7/4/2003",
+    "SaleDate": "2/2/2012"
+  },
+  {
+    "BuyerName": "Quentin Provost",
+    "PurchasePrice": 375393.45,
+    "SalePrice": 531638.3,
+    "StockSymbol": "IGOV",
+    "PurchaseDate": "7/23/2003",
+    "SaleDate": "5/26/2017"
+  },
+  {
+    "BuyerName": "Roshelle McElrea",
+    "PurchasePrice": 241106.44,
+    "SalePrice": 705580.03,
+    "StockSymbol": "TUTI",
+    "PurchaseDate": "10/14/2009",
+    "SaleDate": "7/13/2003"
+  },
+  {
+    "BuyerName": "Flora Binnall",
+    "PurchasePrice": 447009.18,
+    "SalePrice": 482841.5,
+    "StockSymbol": "CEA",
+    "PurchaseDate": "9/20/2016",
+    "SaleDate": "7/28/2007"
+  },
+  {
+    "BuyerName": "Stephanus Foat",
+    "PurchasePrice": 381469.87,
+    "SalePrice": 913846.41,
+    "StockSymbol": "SYMX",
+    "PurchaseDate": "6/6/2011",
+    "SaleDate": "10/16/2011"
+  },
+  {
+    "BuyerName": "Tine Brannigan",
+    "PurchasePrice": 481608.44,
+    "SalePrice": 300150.09,
+    "StockSymbol": "HMLP",
+    "PurchaseDate": "12/20/2004",
+    "SaleDate": "9/5/2008"
+  },
+  {
+    "BuyerName": "Haydon Snoad",
+    "PurchasePrice": 886955.1,
+    "SalePrice": 189969.49,
+    "StockSymbol": "MKC.V",
+    "PurchaseDate": "12/27/2005",
+    "SaleDate": "7/10/2010"
+  },
+  {
+    "BuyerName": "Marci Jennions",
+    "PurchasePrice": 154512.39,
+    "SalePrice": 105688.66,
+    "StockSymbol": "UAN",
+    "PurchaseDate": "7/24/2014",
+    "SaleDate": "1/3/2003"
+  },
+  {
+    "BuyerName": "Rosalyn Jakubowicz",
+    "PurchasePrice": 55283.58,
+    "SalePrice": 209426.91,
+    "StockSymbol": "AL",
+    "PurchaseDate": "2/25/2007",
+    "SaleDate": "4/18/2016"
+  },
+  {
+    "BuyerName": "Phil Battelle",
+    "PurchasePrice": 772278.64,
+    "SalePrice": 532395.16,
+    "StockSymbol": "NXEOW",
+    "PurchaseDate": "4/13/2002",
+    "SaleDate": "12/18/2018"
+  },
+  {
+    "BuyerName": "Gretal Licciardo",
+    "PurchasePrice": 652175.37,
+    "SalePrice": 744978.13,
+    "StockSymbol": "SR",
+    "PurchaseDate": "12/13/2007",
+    "SaleDate": "4/3/2007"
+  },
+  {
+    "BuyerName": "Kathye Jimmison",
+    "PurchasePrice": 249913.44,
+    "SalePrice": 548718.17,
+    "StockSymbol": "AOS",
+    "PurchaseDate": "4/18/2009",
+    "SaleDate": "9/3/2012"
+  },
+  {
+    "BuyerName": "Aridatha Jills",
+    "PurchasePrice": 904875.12,
+    "SalePrice": 552789.56,
+    "StockSymbol": "DFS",
+    "PurchaseDate": "5/22/2016",
+    "SaleDate": "4/22/2013"
+  },
+  {
+    "BuyerName": "Patty Weekley",
+    "PurchasePrice": 847376.62,
+    "SalePrice": 580591.45,
+    "StockSymbol": "KYE",
+    "PurchaseDate": "3/6/2011",
+    "SaleDate": "2/28/2020"
+  },
+  {
+    "BuyerName": "Tiebold Bodman",
+    "PurchasePrice": 529899.78,
+    "SalePrice": 427659.12,
+    "StockSymbol": "ZNH",
+    "PurchaseDate": "9/17/2006",
+    "SaleDate": "5/26/2007"
+  },
+  {
+    "BuyerName": "Ari MacGebenay",
+    "PurchasePrice": 620427.46,
+    "SalePrice": 945887.99,
+    "StockSymbol": "CHCI",
+    "PurchaseDate": "11/15/2007",
+    "SaleDate": "10/24/2001"
+  },
+  {
+    "BuyerName": "Jenn Whiles",
+    "PurchasePrice": 828043.7,
+    "SalePrice": 367070.68,
+    "StockSymbol": "TCBK",
+    "PurchaseDate": "4/12/2002",
+    "SaleDate": "12/9/2004"
+  },
+  {
+    "BuyerName": "Delores Hawtin",
+    "PurchasePrice": 327161.73,
+    "SalePrice": 635978.05,
+    "StockSymbol": "SYNL",
+    "PurchaseDate": "9/19/2006",
+    "SaleDate": "7/14/2007"
+  },
+  {
+    "BuyerName": "Kerk Lafoy",
+    "PurchasePrice": 531818.92,
+    "SalePrice": 240623.81,
+    "StockSymbol": "SGBK",
+    "PurchaseDate": "6/15/2014",
+    "SaleDate": "12/20/2018"
+  },
+  {
+    "BuyerName": "Carlynne Yashin",
+    "PurchasePrice": 797286.86,
+    "SalePrice": 709062.18,
+    "StockSymbol": "BBVA",
+    "PurchaseDate": "7/31/2010",
+    "SaleDate": "4/2/2016"
+  },
+  {
+    "BuyerName": "Alric Dryden",
+    "PurchasePrice": 349195.05,
+    "SalePrice": 32789.61,
+    "StockSymbol": "SAFM",
+    "PurchaseDate": "1/10/2007",
+    "SaleDate": "2/10/2004"
+  },
+  {
+    "BuyerName": "Reine Chattelaine",
+    "PurchasePrice": 527984.13,
+    "SalePrice": 436441.19,
+    "StockSymbol": "UZB",
+    "PurchaseDate": "6/28/2001",
+    "SaleDate": "9/29/2012"
+  },
+  {
+    "BuyerName": "Neil Cannon",
+    "PurchasePrice": 596769.17,
+    "SalePrice": 446293.61,
+    "StockSymbol": "CNBKA",
+    "PurchaseDate": "5/26/2017",
+    "SaleDate": "12/22/2001"
+  },
+  {
+    "BuyerName": "Dyanna Borg-Bartolo",
+    "PurchasePrice": 559941.92,
+    "SalePrice": 631950.99,
+    "StockSymbol": "DS^C",
+    "PurchaseDate": "2/4/2004",
+    "SaleDate": "8/3/2016"
+  },
+  {
+    "BuyerName": "Gil Castle",
+    "PurchasePrice": 960827.44,
+    "SalePrice": 835815.73,
+    "StockSymbol": "WLFC",
+    "PurchaseDate": "7/27/2011",
+    "SaleDate": "12/1/2010"
+  },
+  {
+    "BuyerName": "Gloria Corrao",
+    "PurchasePrice": 747631.58,
+    "SalePrice": 49626.02,
+    "StockSymbol": "WDAY",
+    "PurchaseDate": "5/18/2013",
+    "SaleDate": "3/18/2007"
+  },
+  {
+    "BuyerName": "Alena Martino",
+    "PurchasePrice": 12294.17,
+    "SalePrice": 903871.79,
+    "StockSymbol": "CBIO",
+    "PurchaseDate": "1/9/2015",
+    "SaleDate": "2/26/2005"
+  },
+  {
+    "BuyerName": "Ira Slegg",
+    "PurchasePrice": 415534.84,
+    "SalePrice": 732356.44,
+    "StockSymbol": "PI",
+    "PurchaseDate": "7/14/2007",
+    "SaleDate": "1/15/2021"
+  },
+  {
+    "BuyerName": "Boone Megahey",
+    "PurchasePrice": 232290.08,
+    "SalePrice": 339519.07,
+    "StockSymbol": "YPF",
+    "PurchaseDate": "12/12/2003",
+    "SaleDate": "10/23/2009"
+  },
+  {
+    "BuyerName": "Jenn Tripet",
+    "PurchasePrice": 961016.33,
+    "SalePrice": 231224.16,
+    "StockSymbol": "KBR",
+    "PurchaseDate": "8/1/2004",
+    "SaleDate": "2/24/2020"
+  },
+  {
+    "BuyerName": "Orel Kem",
+    "PurchasePrice": 120174.54,
+    "SalePrice": 772998.09,
+    "StockSymbol": "ANF",
+    "PurchaseDate": "8/11/2022",
+    "SaleDate": "11/23/2003"
+  },
+  {
+    "BuyerName": "Daffi Giorgeschi",
+    "PurchasePrice": 614112.11,
+    "SalePrice": 987281.81,
+    "StockSymbol": "EXPD",
+    "PurchaseDate": "8/26/2013",
+    "SaleDate": "7/20/2013"
+  },
+  {
+    "BuyerName": "Myrlene Stockill",
+    "PurchasePrice": 481899.81,
+    "SalePrice": 158287.05,
+    "StockSymbol": "RPT^D",
+    "PurchaseDate": "1/14/2013",
+    "SaleDate": "3/17/2008"
+  },
+  {
+    "BuyerName": "Cassius Scrace",
+    "PurchasePrice": 929187.23,
+    "SalePrice": 286859.34,
+    "StockSymbol": "EGRX",
+    "PurchaseDate": "9/13/2009",
+    "SaleDate": "11/11/2015"
+  },
+  {
+    "BuyerName": "Ludovico Taffarello",
+    "PurchasePrice": 903200.88,
+    "SalePrice": 981324.11,
+    "StockSymbol": "WYNN",
+    "PurchaseDate": "3/19/2005",
+    "SaleDate": "12/14/2005"
+  },
+  {
+    "BuyerName": "Cilka Melody",
+    "PurchasePrice": 212449.34,
+    "SalePrice": 913187.69,
+    "StockSymbol": "TUSK",
+    "PurchaseDate": "3/14/2022",
+    "SaleDate": "9/21/2005"
+  },
+  {
+    "BuyerName": "Ignace Housen",
+    "PurchasePrice": 21938.73,
+    "SalePrice": 130458.11,
+    "StockSymbol": "FENX",
+    "PurchaseDate": "8/9/2009",
+    "SaleDate": "3/28/2012"
+  },
+  {
+    "BuyerName": "Koressa Gages",
+    "PurchasePrice": 156263.32,
+    "SalePrice": 524361.57,
+    "StockSymbol": "GMZ",
+    "PurchaseDate": "2/5/2019",
+    "SaleDate": "3/8/2000"
+  },
+  {
+    "BuyerName": "Bambi Bowcock",
+    "PurchasePrice": 943102.75,
+    "SalePrice": 100926.47,
+    "StockSymbol": "MGA",
+    "PurchaseDate": "7/10/2019",
+    "SaleDate": "7/29/2000"
+  },
+  {
+    "BuyerName": "Terry Mingo",
+    "PurchasePrice": 314627.87,
+    "SalePrice": 825237.11,
+    "StockSymbol": "BLRX",
+    "PurchaseDate": "1/6/2005",
+    "SaleDate": "3/8/2006"
+  },
+  {
+    "BuyerName": "Lara Pergens",
+    "PurchasePrice": 112584.17,
+    "SalePrice": 782793.07,
+    "StockSymbol": "ED",
+    "PurchaseDate": "12/31/2010",
+    "SaleDate": "8/14/2006"
+  },
+  {
+    "BuyerName": "Nickolas Cowthart",
+    "PurchasePrice": 255626.64,
+    "SalePrice": 326402.31,
+    "StockSymbol": "ABEO",
+    "PurchaseDate": "12/22/2009",
+    "SaleDate": "8/21/2018"
+  },
+  {
+    "BuyerName": "Hoebart Giriardelli",
+    "PurchasePrice": 235059.91,
+    "SalePrice": 728480.9,
+    "StockSymbol": "KTOS",
+    "PurchaseDate": "10/30/2005",
+    "SaleDate": "7/15/2022"
+  },
+  {
+    "BuyerName": "Ignazio Currey",
+    "PurchasePrice": 463374.56,
+    "SalePrice": 86433.84,
+    "StockSymbol": "TPIV",
+    "PurchaseDate": "12/27/2002",
+    "SaleDate": "1/17/2008"
+  },
+  {
+    "BuyerName": "Chloris Tippler",
+    "PurchasePrice": 98513.14,
+    "SalePrice": 749324.1,
+    "StockSymbol": "CLS",
+    "PurchaseDate": "8/17/2008",
+    "SaleDate": "7/31/2000"
+  },
+  {
+    "BuyerName": "Freemon Ormston",
+    "PurchasePrice": 121258.98,
+    "SalePrice": 876337.17,
+    "StockSymbol": "CENX",
+    "PurchaseDate": "8/17/2000",
+    "SaleDate": "6/25/2010"
+  },
+  {
+    "BuyerName": "Kort Breeton",
+    "PurchasePrice": 302524.54,
+    "SalePrice": 936664.88,
+    "StockSymbol": "MRIN",
+    "PurchaseDate": "4/4/2016",
+    "SaleDate": "4/20/2013"
+  },
+  {
+    "BuyerName": "Evaleen Marples",
+    "PurchasePrice": 38278.1,
+    "SalePrice": 996348.47,
+    "StockSymbol": "CETXW",
+    "PurchaseDate": "5/21/2013",
+    "SaleDate": "12/25/2002"
+  },
+  {
+    "BuyerName": "Melba Ford",
+    "PurchasePrice": 632531.01,
+    "SalePrice": 995654.49,
+    "StockSymbol": "AGRO",
+    "PurchaseDate": "2/11/2021",
+    "SaleDate": "6/25/2015"
+  },
+  {
+    "BuyerName": "Jeremias Costain",
+    "PurchasePrice": 466462.25,
+    "SalePrice": 356032.9,
+    "StockSymbol": "BSD",
+    "PurchaseDate": "3/24/2002",
+    "SaleDate": "1/16/2005"
+  },
+  {
+    "BuyerName": "Dulciana Firth",
+    "PurchasePrice": 137533.14,
+    "SalePrice": 46167.85,
+    "StockSymbol": "GZT",
+    "PurchaseDate": "3/12/2022",
+    "SaleDate": "10/21/2001"
+  },
+  {
+    "BuyerName": "Sonny Chalkly",
+    "PurchasePrice": 321327.24,
+    "SalePrice": 705280.01,
+    "StockSymbol": "EVA",
+    "PurchaseDate": "4/25/2007",
+    "SaleDate": "11/20/2002"
+  },
+  {
+    "BuyerName": "Benito O'Concannon",
+    "PurchasePrice": 506727.58,
+    "SalePrice": 155158.16,
+    "StockSymbol": "ENV",
+    "PurchaseDate": "11/3/2017",
+    "SaleDate": "5/8/2022"
+  },
+  {
+    "BuyerName": "Corilla Ganderton",
+    "PurchasePrice": 78052.53,
+    "SalePrice": 632860.07,
+    "StockSymbol": "KEF",
+    "PurchaseDate": "11/23/2018",
+    "SaleDate": "6/4/2000"
+  },
+  {
+    "BuyerName": "Hazel Schiefersten",
+    "PurchasePrice": 301866.13,
+    "SalePrice": 841631.99,
+    "StockSymbol": "MOFG",
+    "PurchaseDate": "9/19/2005",
+    "SaleDate": "2/17/2022"
+  },
+  {
+    "BuyerName": "Keir Ambler",
+    "PurchasePrice": 802214.08,
+    "SalePrice": 338697.28,
+    "StockSymbol": "JVA",
+    "PurchaseDate": "4/13/2012",
+    "SaleDate": "1/31/2016"
+  },
+  {
+    "BuyerName": "Goober Deble",
+    "PurchasePrice": 750719.45,
+    "SalePrice": 25903.44,
+    "StockSymbol": "ETFC",
+    "PurchaseDate": "7/17/2000",
+    "SaleDate": "9/6/2005"
+  },
+  {
+    "BuyerName": "Orelia Ventura",
+    "PurchasePrice": 323239.82,
+    "SalePrice": 695943.82,
+    "StockSymbol": "LILA",
+    "PurchaseDate": "2/19/2003",
+    "SaleDate": "3/16/2010"
+  },
+  {
+    "BuyerName": "Eddy Lernihan",
+    "PurchasePrice": 111143.88,
+    "SalePrice": 86956.68,
+    "StockSymbol": "NGHCZ",
+    "PurchaseDate": "1/1/2018",
+    "SaleDate": "4/10/2007"
+  },
+  {
+    "BuyerName": "Libbey Terrelly",
+    "PurchasePrice": 911093.64,
+    "SalePrice": 403456.01,
+    "StockSymbol": "EGAN",
+    "PurchaseDate": "5/31/2020",
+    "SaleDate": "7/20/2012"
+  },
+  {
+    "BuyerName": "Gladi Hyslop",
+    "PurchasePrice": 813124.66,
+    "SalePrice": 472057.78,
+    "StockSymbol": "COST",
+    "PurchaseDate": "12/28/2004",
+    "SaleDate": "7/4/2016"
+  },
+  {
+    "BuyerName": "Randi Christopher",
+    "PurchasePrice": 905485.11,
+    "SalePrice": 768284.48,
+    "StockSymbol": "EQGP",
+    "PurchaseDate": "2/16/2005",
+    "SaleDate": "9/18/2022"
+  },
+  {
+    "BuyerName": "Kristy Yukhnev",
+    "PurchasePrice": 738949.55,
+    "SalePrice": 657690.38,
+    "StockSymbol": "OXBRW",
+    "PurchaseDate": "2/11/2019",
+    "SaleDate": "1/7/2019"
+  },
+  {
+    "BuyerName": "Cherish O' Kelleher",
+    "PurchasePrice": 16041.51,
+    "SalePrice": 518220.41,
+    "StockSymbol": "FVC",
+    "PurchaseDate": "12/31/2020",
+    "SaleDate": "6/16/2021"
+  },
+  {
+    "BuyerName": "Ericka Budgett",
+    "PurchasePrice": 894103.72,
+    "SalePrice": 656594.12,
+    "StockSymbol": "EMF",
+    "PurchaseDate": "8/9/2018",
+    "SaleDate": "5/15/2010"
+  },
+  {
+    "BuyerName": "Riva Fillary",
+    "PurchasePrice": 401527.18,
+    "SalePrice": 371024.24,
+    "StockSymbol": "USPH",
+    "PurchaseDate": "2/21/2020",
+    "SaleDate": "12/7/2017"
+  },
+  {
+    "BuyerName": "Ancell Aubery",
+    "PurchasePrice": 791349.47,
+    "SalePrice": 76751.88,
+    "StockSymbol": "ORRF",
+    "PurchaseDate": "6/25/2018",
+    "SaleDate": "6/14/2000"
+  },
+  {
+    "BuyerName": "Gaspard Caccavale",
+    "PurchasePrice": 426628.6,
+    "SalePrice": 92490.67,
+    "StockSymbol": "MMLP",
+    "PurchaseDate": "1/21/2021",
+    "SaleDate": "11/22/2010"
+  },
+  {
+    "BuyerName": "Isadora McCaskell",
+    "PurchasePrice": 766596.16,
+    "SalePrice": 303635.51,
+    "StockSymbol": "LARK",
+    "PurchaseDate": "7/10/2012",
+    "SaleDate": "1/8/2004"
+  },
+  {
+    "BuyerName": "Rosemonde Merrien",
+    "PurchasePrice": 966241.87,
+    "SalePrice": 382569.24,
+    "StockSymbol": "EBS",
+    "PurchaseDate": "11/6/2002",
+    "SaleDate": "8/24/2004"
+  },
+  {
+    "BuyerName": "Judye Muge",
+    "PurchasePrice": 430364.58,
+    "SalePrice": 976225.22,
+    "StockSymbol": "CTW",
+    "PurchaseDate": "8/24/2001",
+    "SaleDate": "11/9/2002"
+  },
+  {
+    "BuyerName": "Amalee Dunster",
+    "PurchasePrice": 908801.01,
+    "SalePrice": 855087.06,
+    "StockSymbol": "BKMU",
+    "PurchaseDate": "9/20/2012",
+    "SaleDate": "2/9/2006"
+  },
+  {
+    "BuyerName": "Athene Sawart",
+    "PurchasePrice": 224669.82,
+    "SalePrice": 181922.91,
+    "StockSymbol": "ARCX",
+    "PurchaseDate": "5/19/2011",
+    "SaleDate": "5/24/2012"
+  },
+  {
+    "BuyerName": "Shelba Slay",
+    "PurchasePrice": 308380.65,
+    "SalePrice": 718712.38,
+    "StockSymbol": "WINS",
+    "PurchaseDate": "2/3/2007",
+    "SaleDate": "2/16/2007"
+  },
+  {
+    "BuyerName": "Neil Parradine",
+    "PurchasePrice": 942156.1,
+    "SalePrice": 299210.24,
+    "StockSymbol": "GOOGL",
+    "PurchaseDate": "7/21/2010",
+    "SaleDate": "5/2/2007"
+  },
+  {
+    "BuyerName": "Carey Treversh",
+    "PurchasePrice": 232021.74,
+    "SalePrice": 510657.48,
+    "StockSymbol": "TDE",
+    "PurchaseDate": "3/30/2018",
+    "SaleDate": "1/2/2016"
+  },
+  {
+    "BuyerName": "Rustin Faustin",
+    "PurchasePrice": 508962.88,
+    "SalePrice": 306422.6,
+    "StockSymbol": "LORL",
+    "PurchaseDate": "7/26/2004",
+    "SaleDate": "12/2/2014"
+  },
+  {
+    "BuyerName": "Reinald Spraggon",
+    "PurchasePrice": 424394.58,
+    "SalePrice": 952181.79,
+    "StockSymbol": "ETE",
+    "PurchaseDate": "10/15/2018",
+    "SaleDate": "11/8/2005"
+  },
+  {
+    "BuyerName": "Marylin Chattaway",
+    "PurchasePrice": 930359.89,
+    "SalePrice": 866489.05,
+    "StockSymbol": "QINC",
+    "PurchaseDate": "3/3/2018",
+    "SaleDate": "2/25/2009"
+  },
+  {
+    "BuyerName": "Zackariah Culver",
+    "PurchasePrice": 639301.09,
+    "SalePrice": 558520.06,
+    "StockSymbol": "MGU",
+    "PurchaseDate": "9/30/2013",
+    "SaleDate": "3/19/2001"
+  },
+  {
+    "BuyerName": "Wilden Brisse",
+    "PurchasePrice": 434171.65,
+    "SalePrice": 958926.48,
+    "StockSymbol": "BBF",
+    "PurchaseDate": "2/26/2001",
+    "SaleDate": "3/7/2005"
+  },
+  {
+    "BuyerName": "Quintilla Barbrook",
+    "PurchasePrice": 505942.58,
+    "SalePrice": 10786.19,
+    "StockSymbol": "WTBA",
+    "PurchaseDate": "10/21/2019",
+    "SaleDate": "2/25/2001"
+  },
+  {
+    "BuyerName": "Kellina Clayworth",
+    "PurchasePrice": 829027.09,
+    "SalePrice": 89083.34,
+    "StockSymbol": "PAGG",
+    "PurchaseDate": "5/21/2016",
+    "SaleDate": "10/30/2009"
+  },
+  {
+    "BuyerName": "Cathyleen Giffon",
+    "PurchasePrice": 945494.72,
+    "SalePrice": 142903.21,
+    "StockSymbol": "LULU",
+    "PurchaseDate": "10/11/2003",
+    "SaleDate": "5/31/2009"
+  },
+  {
+    "BuyerName": "Lorna Batson",
+    "PurchasePrice": 134641.74,
+    "SalePrice": 170998.07,
+    "StockSymbol": "CCD",
+    "PurchaseDate": "9/19/2003",
+    "SaleDate": "3/5/2003"
+  },
+  {
+    "BuyerName": "Rogerio Gettings",
+    "PurchasePrice": 548936.46,
+    "SalePrice": 626691.35,
+    "StockSymbol": "CJ",
+    "PurchaseDate": "5/17/2021",
+    "SaleDate": "9/1/2020"
+  },
+  {
+    "BuyerName": "Joni Philipeau",
+    "PurchasePrice": 465102.65,
+    "SalePrice": 150137.02,
+    "StockSymbol": "PZZA",
+    "PurchaseDate": "4/1/2000",
+    "SaleDate": "5/23/2005"
+  },
+  {
+    "BuyerName": "Clemmie Cullimore",
+    "PurchasePrice": 349403.37,
+    "SalePrice": 203729.09,
+    "StockSymbol": "IMPV",
+    "PurchaseDate": "12/12/2018",
+    "SaleDate": "5/9/2008"
+  },
+  {
+    "BuyerName": "Yolane Braghini",
+    "PurchasePrice": 58034.44,
+    "SalePrice": 849709.61,
+    "StockSymbol": "ETX           ",
+    "PurchaseDate": "9/4/2017",
+    "SaleDate": "8/25/2002"
+  },
+  {
+    "BuyerName": "Ferd Ravenhills",
+    "PurchasePrice": 605597.8,
+    "SalePrice": 95516.88,
+    "StockSymbol": "CTRE",
+    "PurchaseDate": "11/15/2020",
+    "SaleDate": "12/22/2019"
+  },
+  {
+    "BuyerName": "Nelly Faveryear",
+    "PurchasePrice": 792499.27,
+    "SalePrice": 73715.78,
+    "StockSymbol": "BAC^W",
+    "PurchaseDate": "1/11/2005",
+    "SaleDate": "7/17/2003"
+  },
+  {
+    "BuyerName": "Melicent Laweles",
+    "PurchasePrice": 955909.25,
+    "SalePrice": 876440.97,
+    "StockSymbol": "EFT",
+    "PurchaseDate": "7/6/2020",
+    "SaleDate": "11/28/2021"
+  },
+  {
+    "BuyerName": "Maren Ivett",
+    "PurchasePrice": 318321.97,
+    "SalePrice": 317588.56,
+    "StockSymbol": "EVC",
+    "PurchaseDate": "10/1/2009",
+    "SaleDate": "12/8/2001"
+  },
+  {
+    "BuyerName": "Hershel Baskerville",
+    "PurchasePrice": 495819.09,
+    "SalePrice": 381671.36,
+    "StockSymbol": "PAGP",
+    "PurchaseDate": "6/22/2012",
+    "SaleDate": "1/12/2006"
+  },
+  {
+    "BuyerName": "Desmund De la Harpe",
+    "PurchasePrice": 541388.63,
+    "SalePrice": 240374.85,
+    "StockSymbol": "RBPAA",
+    "PurchaseDate": "10/27/2003",
+    "SaleDate": "6/20/2008"
+  },
+  {
+    "BuyerName": "Sula Rylatt",
+    "PurchasePrice": 856904.78,
+    "SalePrice": 725189.13,
+    "StockSymbol": "HMN",
+    "PurchaseDate": "1/25/2004",
+    "SaleDate": "3/28/2003"
+  },
+  {
+    "BuyerName": "Madelin Jeduch",
+    "PurchasePrice": 702978.61,
+    "SalePrice": 644565.1,
+    "StockSymbol": "HTBK",
+    "PurchaseDate": "6/23/2020",
+    "SaleDate": "2/15/2014"
+  },
+  {
+    "BuyerName": "Dianne Broxholme",
+    "PurchasePrice": 672675.27,
+    "SalePrice": 210147.07,
+    "StockSymbol": "MCHI",
+    "PurchaseDate": "9/30/2016",
+    "SaleDate": "1/17/2000"
+  },
+  {
+    "BuyerName": "Evered Troillet",
+    "PurchasePrice": 446520.94,
+    "SalePrice": 774713.34,
+    "StockSymbol": "RICE",
+    "PurchaseDate": "4/12/2007",
+    "SaleDate": "1/18/2006"
+  },
+  {
+    "BuyerName": "Tessa Mosco",
+    "PurchasePrice": 687464.75,
+    "SalePrice": 644832.22,
+    "StockSymbol": "HZN",
+    "PurchaseDate": "4/19/2020",
+    "SaleDate": "6/25/2010"
+  },
+  {
+    "BuyerName": "Jeanne Le Quesne",
+    "PurchasePrice": 313505.55,
+    "SalePrice": 405286.86,
+    "StockSymbol": "LINK",
+    "PurchaseDate": "11/12/2006",
+    "SaleDate": "11/22/2002"
+  },
+  {
+    "BuyerName": "Angus Mallabon",
+    "PurchasePrice": 488276.07,
+    "SalePrice": 601875.49,
+    "StockSymbol": "SYNA",
+    "PurchaseDate": "4/15/2018",
+    "SaleDate": "4/14/2007"
+  },
+  {
+    "BuyerName": "Godfrey Saill",
+    "PurchasePrice": 295404.02,
+    "SalePrice": 154955.55,
+    "StockSymbol": "UHS",
+    "PurchaseDate": "1/4/2020",
+    "SaleDate": "6/14/2009"
+  },
+  {
+    "BuyerName": "Consalve Pearde",
+    "PurchasePrice": 280539.13,
+    "SalePrice": 643198.51,
+    "StockSymbol": "RWT",
+    "PurchaseDate": "7/13/2008",
+    "SaleDate": "9/23/2010"
+  },
+  {
+    "BuyerName": "Mady Budge",
+    "PurchasePrice": 226134.73,
+    "SalePrice": 622017.61,
+    "StockSymbol": "FTA",
+    "PurchaseDate": "6/23/2002",
+    "SaleDate": "2/12/2003"
+  },
+  {
+    "BuyerName": "Bax Icom",
+    "PurchasePrice": 922438.28,
+    "SalePrice": 876636.45,
+    "StockSymbol": "INSW",
+    "PurchaseDate": "9/17/2020",
+    "SaleDate": "4/18/2020"
+  },
+  {
+    "BuyerName": "Keri Hovy",
+    "PurchasePrice": 718843.64,
+    "SalePrice": 254253.03,
+    "StockSymbol": "GPK",
+    "PurchaseDate": "4/30/2011",
+    "SaleDate": "11/15/2007"
+  },
+  {
+    "BuyerName": "Gabriell Chalcraft",
+    "PurchasePrice": 932247.24,
+    "SalePrice": 106370.62,
+    "StockSymbol": "EBR",
+    "PurchaseDate": "12/12/2013",
+    "SaleDate": "1/25/2019"
+  },
+  {
+    "BuyerName": "Demetrius Degan",
+    "PurchasePrice": 509748.72,
+    "SalePrice": 263421.76,
+    "StockSymbol": "HURC",
+    "PurchaseDate": "11/17/2003",
+    "SaleDate": "9/3/2019"
+  },
+  {
+    "BuyerName": "Cinda Assel",
+    "PurchasePrice": 472599.16,
+    "SalePrice": 225722.99,
+    "StockSymbol": "MRCC",
+    "PurchaseDate": "3/19/2019",
+    "SaleDate": "12/6/2011"
+  },
+  {
+    "BuyerName": "Sarene Paxforde",
+    "PurchasePrice": 433384.63,
+    "SalePrice": 202560.84,
+    "StockSymbol": "GS^A",
+    "PurchaseDate": "1/12/2010",
+    "SaleDate": "12/21/2003"
+  },
+  {
+    "BuyerName": "Adina Bartlomiejczyk",
+    "PurchasePrice": 100021.13,
+    "SalePrice": 280638.07,
+    "StockSymbol": "GASS",
+    "PurchaseDate": "1/8/2003",
+    "SaleDate": "8/24/2013"
+  },
+  {
+    "BuyerName": "Purcell Baugham",
+    "PurchasePrice": 700799.73,
+    "SalePrice": 898846.53,
+    "StockSymbol": "EDGE",
+    "PurchaseDate": "4/16/2006",
+    "SaleDate": "1/17/2007"
+  },
+  {
+    "BuyerName": "Gary Briand",
+    "PurchasePrice": 266717.26,
+    "SalePrice": 247704.4,
+    "StockSymbol": "IMED",
+    "PurchaseDate": "9/27/2005",
+    "SaleDate": "8/3/2011"
+  },
+  {
+    "BuyerName": "Zelma Hatrey",
+    "PurchasePrice": 945134.99,
+    "SalePrice": 969479.07,
+    "StockSymbol": "MTSI",
+    "PurchaseDate": "7/11/2000",
+    "SaleDate": "9/5/2010"
+  },
+  {
+    "BuyerName": "Clerkclaude Smitton",
+    "PurchasePrice": 47181.57,
+    "SalePrice": 460394.01,
+    "StockSymbol": "CXDC",
+    "PurchaseDate": "12/22/2001",
+    "SaleDate": "9/27/2021"
+  },
+  {
+    "BuyerName": "Fielding Dunmore",
+    "PurchasePrice": 570980.66,
+    "SalePrice": 923590.33,
+    "StockSymbol": "AMFW",
+    "PurchaseDate": "12/26/2005",
+    "SaleDate": "8/2/2015"
+  },
+  {
+    "BuyerName": "Walsh Summergill",
+    "PurchasePrice": 968401.52,
+    "SalePrice": 921676.4,
+    "StockSymbol": "HMTV",
+    "PurchaseDate": "4/6/2018",
+    "SaleDate": "6/10/2008"
+  },
+  {
+    "BuyerName": "Tonye Wozencraft",
+    "PurchasePrice": 37186.66,
+    "SalePrice": 188792.11,
+    "StockSymbol": "MIK",
+    "PurchaseDate": "3/26/2010",
+    "SaleDate": "9/22/2011"
+  },
+  {
+    "BuyerName": "Nelie Ivanyukov",
+    "PurchasePrice": 385600.4,
+    "SalePrice": 698777.73,
+    "StockSymbol": "CMO^E",
+    "PurchaseDate": "2/5/2011",
+    "SaleDate": "7/30/2019"
+  },
+  {
+    "BuyerName": "Wayland Dymoke",
+    "PurchasePrice": 485100.43,
+    "SalePrice": 194923.43,
+    "StockSymbol": "CSTR",
+    "PurchaseDate": "4/24/2004",
+    "SaleDate": "5/31/2022"
+  },
+  {
+    "BuyerName": "Kessia Andrioni",
+    "PurchasePrice": 557098.83,
+    "SalePrice": 27873.39,
+    "StockSymbol": "RFT",
+    "PurchaseDate": "3/1/2011",
+    "SaleDate": "1/3/2011"
+  },
+  {
+    "BuyerName": "Merrill Saur",
+    "PurchasePrice": 337292.35,
+    "SalePrice": 369315.13,
+    "StockSymbol": "SNDE",
+    "PurchaseDate": "8/1/2009",
+    "SaleDate": "11/13/2011"
+  },
+  {
+    "BuyerName": "Meade Kayley",
+    "PurchasePrice": 682062.72,
+    "SalePrice": 900391.66,
+    "StockSymbol": "HUBB",
+    "PurchaseDate": "1/5/2002",
+    "SaleDate": "10/4/2013"
+  },
+  {
+    "BuyerName": "Verene Bentame",
+    "PurchasePrice": 218368.52,
+    "SalePrice": 960821.37,
+    "StockSymbol": "NYMX",
+    "PurchaseDate": "6/23/2019",
+    "SaleDate": "9/6/2006"
+  },
+  {
+    "BuyerName": "Adolpho Duffit",
+    "PurchasePrice": 988358.37,
+    "SalePrice": 521353.04,
+    "StockSymbol": "IHG",
+    "PurchaseDate": "5/26/2009",
+    "SaleDate": "1/30/2017"
+  },
+  {
+    "BuyerName": "Dulce Butterly",
+    "PurchasePrice": 269752.02,
+    "SalePrice": 798046.03,
+    "StockSymbol": "FBR",
+    "PurchaseDate": "1/5/2006",
+    "SaleDate": "8/29/2007"
+  },
+  {
+    "BuyerName": "Gwen Horbath",
+    "PurchasePrice": 965575.43,
+    "SalePrice": 190476.83,
+    "StockSymbol": "AMSWA",
+    "PurchaseDate": "7/11/2008",
+    "SaleDate": "7/31/2012"
+  },
+  {
+    "BuyerName": "Dominique O'Hone",
+    "PurchasePrice": 960307.23,
+    "SalePrice": 310366.35,
+    "StockSymbol": "AHL^B.CL",
+    "PurchaseDate": "12/2/2005",
+    "SaleDate": "2/21/2004"
+  },
+  {
+    "BuyerName": "Ephraim Delete",
+    "PurchasePrice": 568071.22,
+    "SalePrice": 768969.47,
+    "StockSymbol": "NCV",
+    "PurchaseDate": "3/23/2013",
+    "SaleDate": "5/6/2016"
+  },
+  {
+    "BuyerName": "Janna Treleaven",
+    "PurchasePrice": 993902.33,
+    "SalePrice": 101893.01,
+    "StockSymbol": "MLI",
+    "PurchaseDate": "9/10/2015",
+    "SaleDate": "4/25/2015"
+  },
+  {
+    "BuyerName": "Jed Blamphin",
+    "PurchasePrice": 830303.33,
+    "SalePrice": 744044.74,
+    "StockSymbol": "FLGT",
+    "PurchaseDate": "4/11/2010",
+    "SaleDate": "4/19/2008"
+  },
+  {
+    "BuyerName": "Ellette Mott",
+    "PurchasePrice": 882012.73,
+    "SalePrice": 807346.73,
+    "StockSymbol": "MSG",
+    "PurchaseDate": "12/14/2020",
+    "SaleDate": "3/11/2022"
+  },
+  {
+    "BuyerName": "Alexina McLuckie",
+    "PurchasePrice": 881312.16,
+    "SalePrice": 654550.25,
+    "StockSymbol": "ZAIS",
+    "PurchaseDate": "7/1/2022",
+    "SaleDate": "2/16/2019"
+  },
+  {
+    "BuyerName": "Roy Devanney",
+    "PurchasePrice": 185593.33,
+    "SalePrice": 383669.42,
+    "StockSymbol": "WRK",
+    "PurchaseDate": "5/4/2014",
+    "SaleDate": "6/18/2002"
+  },
+  {
+    "BuyerName": "Kiri Bill",
+    "PurchasePrice": 34846.14,
+    "SalePrice": 789541.25,
+    "StockSymbol": "JPM^B",
+    "PurchaseDate": "4/13/2007",
+    "SaleDate": "2/14/2015"
+  },
+  {
+    "BuyerName": "Tonye Huxton",
+    "PurchasePrice": 432323.84,
+    "SalePrice": 212737.56,
+    "StockSymbol": "IPI",
+    "PurchaseDate": "4/7/2019",
+    "SaleDate": "2/21/2014"
+  },
+  {
+    "BuyerName": "Wendye Gremane",
+    "PurchasePrice": 443128.48,
+    "SalePrice": 678142.42,
+    "StockSymbol": "DUKH",
+    "PurchaseDate": "9/8/2006",
+    "SaleDate": "5/18/2014"
+  },
+  {
+    "BuyerName": "Kalle Dmiterko",
+    "PurchasePrice": 106275.87,
+    "SalePrice": 452607.21,
+    "StockSymbol": "NVRO",
+    "PurchaseDate": "11/23/2014",
+    "SaleDate": "3/22/2018"
+  },
+  {
+    "BuyerName": "Fawne Minero",
+    "PurchasePrice": 694317.01,
+    "SalePrice": 749911.53,
+    "StockSymbol": "ITEK",
+    "PurchaseDate": "3/9/2017",
+    "SaleDate": "5/2/2016"
+  },
+  {
+    "BuyerName": "Hyatt Klagges",
+    "PurchasePrice": 889939.83,
+    "SalePrice": 23084.35,
+    "StockSymbol": "DGICA",
+    "PurchaseDate": "2/25/2016",
+    "SaleDate": "7/1/2003"
+  },
+  {
+    "BuyerName": "Ilse Pavluk",
+    "PurchasePrice": 232798.28,
+    "SalePrice": 136476.59,
+    "StockSymbol": "CAC",
+    "PurchaseDate": "10/24/2020",
+    "SaleDate": "2/18/2011"
+  },
+  {
+    "BuyerName": "Gwennie Sargeaunt",
+    "PurchasePrice": 338560.59,
+    "SalePrice": 655372.52,
+    "StockSymbol": "CNO",
+    "PurchaseDate": "4/5/2002",
+    "SaleDate": "8/30/2022"
+  },
+  {
+    "BuyerName": "Desmund Moncarr",
+    "PurchasePrice": 203124.0,
+    "SalePrice": 468374.63,
+    "StockSymbol": "UBNT",
+    "PurchaseDate": "3/25/2017",
+    "SaleDate": "11/19/2020"
+  },
+  {
+    "BuyerName": "Bettine Seamans",
+    "PurchasePrice": 353368.11,
+    "SalePrice": 72208.56,
+    "StockSymbol": "ABCB",
+    "PurchaseDate": "9/28/2011",
+    "SaleDate": "12/9/2010"
+  },
+  {
+    "BuyerName": "Emily Longden",
+    "PurchasePrice": 504900.58,
+    "SalePrice": 379167.41,
+    "StockSymbol": "CLF",
+    "PurchaseDate": "5/5/2002",
+    "SaleDate": "10/1/2006"
+  },
+  {
+    "BuyerName": "Arnuad Pray",
+    "PurchasePrice": 687263.66,
+    "SalePrice": 418188.66,
+    "StockSymbol": "RUSHB",
+    "PurchaseDate": "4/21/2015",
+    "SaleDate": "11/16/2019"
+  },
+  {
+    "BuyerName": "Jeremiah Bartoszewski",
+    "PurchasePrice": 583225.98,
+    "SalePrice": 172668.76,
+    "StockSymbol": "LCUT",
+    "PurchaseDate": "8/26/2013",
+    "SaleDate": "9/24/2006"
+  },
+  {
+    "BuyerName": "Yancy Vockings",
+    "PurchasePrice": 455318.81,
+    "SalePrice": 602911.34,
+    "StockSymbol": "MODN",
+    "PurchaseDate": "8/29/2000",
+    "SaleDate": "2/13/2016"
+  },
+  {
+    "BuyerName": "Harri Farrington",
+    "PurchasePrice": 14475.06,
+    "SalePrice": 776328.62,
+    "StockSymbol": "CCU",
+    "PurchaseDate": "10/9/2018",
+    "SaleDate": "3/25/2007"
+  },
+  {
+    "BuyerName": "Baron McBrier",
+    "PurchasePrice": 623764.74,
+    "SalePrice": 642975.82,
+    "StockSymbol": "ARCB",
+    "PurchaseDate": "2/15/2007",
+    "SaleDate": "9/10/2003"
+  },
+  {
+    "BuyerName": "Brenna Borrell",
+    "PurchasePrice": 577083.09,
+    "SalePrice": 810514.51,
+    "StockSymbol": "BKEP",
+    "PurchaseDate": "1/15/2022",
+    "SaleDate": "4/6/2004"
+  },
+  {
+    "BuyerName": "Ruthanne Keoghan",
+    "PurchasePrice": 939466.16,
+    "SalePrice": 985831.36,
+    "StockSymbol": "NBIX",
+    "PurchaseDate": "7/18/2012",
+    "SaleDate": "5/7/2016"
+  },
+  {
+    "BuyerName": "Goober De Zamudio",
+    "PurchasePrice": 347969.59,
+    "SalePrice": 993670.59,
+    "StockSymbol": "FNTEU",
+    "PurchaseDate": "7/19/2022",
+    "SaleDate": "12/9/2022"
+  },
+  {
+    "BuyerName": "Ursula Ingleson",
+    "PurchasePrice": 364190.03,
+    "SalePrice": 719723.98,
+    "StockSymbol": "MXE",
+    "PurchaseDate": "11/7/2000",
+    "SaleDate": "9/3/2016"
+  },
+  {
+    "BuyerName": "Warde Ferenczy",
+    "PurchasePrice": 787217.18,
+    "SalePrice": 296884.4,
+    "StockSymbol": "HOVNP",
+    "PurchaseDate": "9/13/2016",
+    "SaleDate": "2/21/2007"
+  },
+  {
+    "BuyerName": "Gerti Wigzell",
+    "PurchasePrice": 12417.99,
+    "SalePrice": 643811.23,
+    "StockSymbol": "VIVO",
+    "PurchaseDate": "6/12/2003",
+    "SaleDate": "6/20/2016"
+  },
+  {
+    "BuyerName": "Tallulah Blamey",
+    "PurchasePrice": 47331.7,
+    "SalePrice": 211160.94,
+    "StockSymbol": "INN^C",
+    "PurchaseDate": "12/4/2022",
+    "SaleDate": "12/10/2007"
+  },
+  {
+    "BuyerName": "Dagmar Mewett",
+    "PurchasePrice": 61464.67,
+    "SalePrice": 632867.2,
+    "StockSymbol": "CTSO",
+    "PurchaseDate": "3/4/2007",
+    "SaleDate": "3/4/2009"
+  },
+  {
+    "BuyerName": "Doris Nealy",
+    "PurchasePrice": 980812.75,
+    "SalePrice": 861041.16,
+    "StockSymbol": "VRX",
+    "PurchaseDate": "9/15/2015",
+    "SaleDate": "7/22/2009"
+  },
+  {
+    "BuyerName": "Lotti Burdoun",
+    "PurchasePrice": 193430.37,
+    "SalePrice": 80643.43,
+    "StockSymbol": "LALT",
+    "PurchaseDate": "7/21/2012",
+    "SaleDate": "1/20/2002"
+  },
+  {
+    "BuyerName": "Aarika Rodell",
+    "PurchasePrice": 258743.39,
+    "SalePrice": 169739.16,
+    "StockSymbol": "SALM",
+    "PurchaseDate": "8/20/2019",
+    "SaleDate": "11/30/2012"
+  },
+  {
+    "BuyerName": "Octavia Setter",
+    "PurchasePrice": 890212.83,
+    "SalePrice": 340107.99,
+    "StockSymbol": "LBTYK",
+    "PurchaseDate": "5/25/2013",
+    "SaleDate": "12/17/2008"
+  },
+  {
+    "BuyerName": "Hollie Burghall",
+    "PurchasePrice": 91709.68,
+    "SalePrice": 553096.94,
+    "StockSymbol": "MSCC",
+    "PurchaseDate": "12/9/2010",
+    "SaleDate": "12/14/2001"
+  },
+  {
+    "BuyerName": "Faustine Usborn",
+    "PurchasePrice": 275676.49,
+    "SalePrice": 90804.63,
+    "StockSymbol": "BATRK",
+    "PurchaseDate": "4/10/2020",
+    "SaleDate": "8/23/2016"
+  },
+  {
+    "BuyerName": "Sherilyn Carlick",
+    "PurchasePrice": 108651.24,
+    "SalePrice": 393785.13,
+    "StockSymbol": "KIM",
+    "PurchaseDate": "10/1/2002",
+    "SaleDate": "11/1/2002"
+  },
+  {
+    "BuyerName": "Noelle Thebeau",
+    "PurchasePrice": 730379.54,
+    "SalePrice": 662190.07,
+    "StockSymbol": "CGI",
+    "PurchaseDate": "4/7/2003",
+    "SaleDate": "11/24/2017"
+  },
+  {
+    "BuyerName": "Lucretia State",
+    "PurchasePrice": 123837.94,
+    "SalePrice": 796004.09,
+    "StockSymbol": "GEVO",
+    "PurchaseDate": "3/24/2022",
+    "SaleDate": "9/15/2012"
+  },
+  {
+    "BuyerName": "Helaina Gallyon",
+    "PurchasePrice": 427774.47,
+    "SalePrice": 637200.2,
+    "StockSymbol": "TPC",
+    "PurchaseDate": "8/20/2022",
+    "SaleDate": "12/6/2008"
+  },
+  {
+    "BuyerName": "Ruttger Phipard-Shears",
+    "PurchasePrice": 11476.39,
+    "SalePrice": 102323.18,
+    "StockSymbol": "NFLX",
+    "PurchaseDate": "10/21/2010",
+    "SaleDate": "10/11/2002"
+  },
+  {
+    "BuyerName": "Henka Libri",
+    "PurchasePrice": 998449.12,
+    "SalePrice": 235852.77,
+    "StockSymbol": "PNRA",
+    "PurchaseDate": "4/19/2002",
+    "SaleDate": "5/12/2007"
+  },
+  {
+    "BuyerName": "Loleta Fanthome",
+    "PurchasePrice": 700675.05,
+    "SalePrice": 550482.28,
+    "StockSymbol": "UTHR",
+    "PurchaseDate": "12/17/2020",
+    "SaleDate": "3/29/2021"
+  },
+  {
+    "BuyerName": "Charita Pym",
+    "PurchasePrice": 170687.13,
+    "SalePrice": 728948.86,
+    "StockSymbol": "VRTV",
+    "PurchaseDate": "4/15/2011",
+    "SaleDate": "11/9/2013"
+  },
+  {
+    "BuyerName": "Marvin Whichelow",
+    "PurchasePrice": 254169.65,
+    "SalePrice": 617622.16,
+    "StockSymbol": "SSB",
+    "PurchaseDate": "7/5/2021",
+    "SaleDate": "7/5/2001"
+  },
+  {
+    "BuyerName": "Shelli Adami",
+    "PurchasePrice": 107658.06,
+    "SalePrice": 788597.77,
+    "StockSymbol": "MPVD",
+    "PurchaseDate": "1/30/2016",
+    "SaleDate": "8/16/2009"
+  },
+  {
+    "BuyerName": "Connor Rubertelli",
+    "PurchasePrice": 526299.73,
+    "SalePrice": 388428.71,
+    "StockSymbol": "PLYAW",
+    "PurchaseDate": "7/4/2016",
+    "SaleDate": "5/3/2020"
+  },
+  {
+    "BuyerName": "Charlotte McGiffie",
+    "PurchasePrice": 176263.7,
+    "SalePrice": 219048.93,
+    "StockSymbol": "BAF",
+    "PurchaseDate": "6/23/2015",
+    "SaleDate": "9/4/2020"
+  },
+  {
+    "BuyerName": "Gilligan Fern",
+    "PurchasePrice": 188316.51,
+    "SalePrice": 274263.91,
+    "StockSymbol": "CMRE",
+    "PurchaseDate": "7/26/2018",
+    "SaleDate": "5/30/2022"
+  },
+  {
+    "BuyerName": "Brana Haker",
+    "PurchasePrice": 70074.11,
+    "SalePrice": 246651.16,
+    "StockSymbol": "CNCE",
+    "PurchaseDate": "7/22/2014",
+    "SaleDate": "11/7/2010"
+  },
+  {
+    "BuyerName": "Kile Silver",
+    "PurchasePrice": 501914.53,
+    "SalePrice": 110005.98,
+    "StockSymbol": "CRD.A",
+    "PurchaseDate": "6/6/2015",
+    "SaleDate": "12/11/2008"
+  },
+  {
+    "BuyerName": "Tobey Hesse",
+    "PurchasePrice": 255086.86,
+    "SalePrice": 853487.21,
+    "StockSymbol": "KEQU",
+    "PurchaseDate": "2/18/2004",
+    "SaleDate": "9/6/2021"
+  },
+  {
+    "BuyerName": "Horatius Broadbent",
+    "PurchasePrice": 636192.39,
+    "SalePrice": 938909.22,
+    "StockSymbol": "LTRPB",
+    "PurchaseDate": "5/26/2000",
+    "SaleDate": "3/2/2020"
+  },
+  {
+    "BuyerName": "Tatiana Keysall",
+    "PurchasePrice": 321672.25,
+    "SalePrice": 934950.88,
+    "StockSymbol": "DE",
+    "PurchaseDate": "1/19/2008",
+    "SaleDate": "12/24/2019"
+  },
+  {
+    "BuyerName": "Lucienne Doole",
+    "PurchasePrice": 935683.7,
+    "SalePrice": 970723.0,
+    "StockSymbol": "GXP^B",
+    "PurchaseDate": "7/23/2013",
+    "SaleDate": "1/17/2017"
+  },
+  {
+    "BuyerName": "Dianemarie Mayler",
+    "PurchasePrice": 969442.27,
+    "SalePrice": 440427.13,
+    "StockSymbol": "ATKR",
+    "PurchaseDate": "12/11/2006",
+    "SaleDate": "10/8/2022"
+  },
+  {
+    "BuyerName": "Ignatius Alford",
+    "PurchasePrice": 399261.56,
+    "SalePrice": 233435.24,
+    "StockSymbol": "NWFL",
+    "PurchaseDate": "11/9/2004",
+    "SaleDate": "6/3/2020"
+  },
+  {
+    "BuyerName": "Moria Argont",
+    "PurchasePrice": 434877.32,
+    "SalePrice": 663625.22,
+    "StockSymbol": "BML^I",
+    "PurchaseDate": "9/30/2007",
+    "SaleDate": "7/31/2022"
+  },
+  {
+    "BuyerName": "Lil Veronique",
+    "PurchasePrice": 151464.31,
+    "SalePrice": 554598.68,
+    "StockSymbol": "BCOR",
+    "PurchaseDate": "7/29/2001",
+    "SaleDate": "7/6/2022"
+  },
+  {
+    "BuyerName": "Humfrid Bensley",
+    "PurchasePrice": 493135.35,
+    "SalePrice": 378685.32,
+    "StockSymbol": "LDOS",
+    "PurchaseDate": "4/14/2014",
+    "SaleDate": "4/3/2008"
+  },
+  {
+    "BuyerName": "Karna Cornwell",
+    "PurchasePrice": 65717.53,
+    "SalePrice": 198816.69,
+    "StockSymbol": "BKEP",
+    "PurchaseDate": "2/22/2021",
+    "SaleDate": "5/6/2005"
+  },
+  {
+    "BuyerName": "Earle Finnis",
+    "PurchasePrice": 920920.16,
+    "SalePrice": 338414.29,
+    "StockSymbol": "CAPL",
+    "PurchaseDate": "2/21/2017",
+    "SaleDate": "7/26/2003"
+  },
+  {
+    "BuyerName": "Bjorn Gouldstone",
+    "PurchasePrice": 10547.11,
+    "SalePrice": 515090.46,
+    "StockSymbol": "SHAK",
+    "PurchaseDate": "4/26/2000",
+    "SaleDate": "4/19/2008"
+  },
+  {
+    "BuyerName": "Kerwin Maccraw",
+    "PurchasePrice": 535070.56,
+    "SalePrice": 966495.29,
+    "StockSymbol": "EIGR",
+    "PurchaseDate": "8/19/2012",
+    "SaleDate": "7/18/2012"
+  },
+  {
+    "BuyerName": "Gavra Dun",
+    "PurchasePrice": 924442.44,
+    "SalePrice": 976384.82,
+    "StockSymbol": "LXU",
+    "PurchaseDate": "1/24/2010",
+    "SaleDate": "7/22/2008"
+  },
+  {
+    "BuyerName": "Ethelred Mann",
+    "PurchasePrice": 491507.87,
+    "SalePrice": 894858.54,
+    "StockSymbol": "WYIGU",
+    "PurchaseDate": "7/24/2022",
+    "SaleDate": "7/31/2003"
+  },
+  {
+    "BuyerName": "Luella Tolhurst",
+    "PurchasePrice": 162436.24,
+    "SalePrice": 364628.76,
+    "StockSymbol": "NPTN",
+    "PurchaseDate": "10/9/2002",
+    "SaleDate": "9/18/2004"
+  },
+  {
+    "BuyerName": "Aurthur Somerbell",
+    "PurchasePrice": 522568.09,
+    "SalePrice": 397314.27,
+    "StockSymbol": "TTC",
+    "PurchaseDate": "12/28/2007",
+    "SaleDate": "6/2/2018"
+  },
+  {
+    "BuyerName": "Corina Maghull",
+    "PurchasePrice": 99666.81,
+    "SalePrice": 115389.48,
+    "StockSymbol": "BCEI",
+    "PurchaseDate": "10/27/2001",
+    "SaleDate": "5/4/2018"
+  },
+  {
+    "BuyerName": "Georgiana Burberow",
+    "PurchasePrice": 304480.35,
+    "SalePrice": 959449.9,
+    "StockSymbol": "EGIF",
+    "PurchaseDate": "4/17/2003",
+    "SaleDate": "9/13/2004"
+  },
+  {
+    "BuyerName": "Felecia Boffin",
+    "PurchasePrice": 294963.51,
+    "SalePrice": 634081.15,
+    "StockSymbol": "FSAM",
+    "PurchaseDate": "12/2/2005",
+    "SaleDate": "11/21/2015"
+  },
+  {
+    "BuyerName": "Andreana Mathen",
+    "PurchasePrice": 139573.58,
+    "SalePrice": 338614.38,
+    "StockSymbol": "SRCE",
+    "PurchaseDate": "10/11/2000",
+    "SaleDate": "3/8/2014"
+  },
+  {
+    "BuyerName": "Sanders Heinsen",
+    "PurchasePrice": 599381.41,
+    "SalePrice": 272434.45,
+    "StockSymbol": "RAIL",
+    "PurchaseDate": "9/18/2009",
+    "SaleDate": "11/17/2020"
+  },
+  {
+    "BuyerName": "Ellis Watmough",
+    "PurchasePrice": 4228.73,
+    "SalePrice": 632737.65,
+    "StockSymbol": "IVFVC",
+    "PurchaseDate": "4/1/2020",
+    "SaleDate": "2/10/2010"
+  },
+  {
+    "BuyerName": "Felicdad Hillin",
+    "PurchasePrice": 84286.82,
+    "SalePrice": 988760.9,
+    "StockSymbol": "M",
+    "PurchaseDate": "11/5/2005",
+    "SaleDate": "12/25/2017"
+  },
+  {
+    "BuyerName": "Barney Cicco",
+    "PurchasePrice": 825028.57,
+    "SalePrice": 8687.9,
+    "StockSymbol": "ELU",
+    "PurchaseDate": "5/24/2018",
+    "SaleDate": "12/25/2000"
+  },
+  {
+    "BuyerName": "Barnabe Northgraves",
+    "PurchasePrice": 628241.24,
+    "SalePrice": 765971.81,
+    "StockSymbol": "RFP",
+    "PurchaseDate": "9/4/2010",
+    "SaleDate": "3/2/2019"
+  },
+  {
+    "BuyerName": "Yardley Gannan",
+    "PurchasePrice": 408293.75,
+    "SalePrice": 248961.07,
+    "StockSymbol": "FAB",
+    "PurchaseDate": "1/5/2010",
+    "SaleDate": "5/13/2022"
+  },
+  {
+    "BuyerName": "Giles Roles",
+    "PurchasePrice": 601510.63,
+    "SalePrice": 811988.49,
+    "StockSymbol": "ABDC",
+    "PurchaseDate": "8/5/2015",
+    "SaleDate": "3/2/2001"
+  },
+  {
+    "BuyerName": "Clary Vamplew",
+    "PurchasePrice": 262573.76,
+    "SalePrice": 676838.6,
+    "StockSymbol": "AGM.A",
+    "PurchaseDate": "11/28/2011",
+    "SaleDate": "2/27/2004"
+  },
+  {
+    "BuyerName": "Fayette Kuhnwald",
+    "PurchasePrice": 362651.17,
+    "SalePrice": 608160.54,
+    "StockSymbol": "AIQ",
+    "PurchaseDate": "11/8/2005",
+    "SaleDate": "5/3/2016"
+  },
+  {
+    "BuyerName": "Gamaliel Maseres",
+    "PurchasePrice": 131052.82,
+    "SalePrice": 214507.91,
+    "StockSymbol": "SP",
+    "PurchaseDate": "12/18/2004",
+    "SaleDate": "8/31/2005"
+  },
+  {
+    "BuyerName": "Dani Tzarkov",
+    "PurchasePrice": 909915.37,
+    "SalePrice": 787443.66,
+    "StockSymbol": "DYN.WS",
+    "PurchaseDate": "9/8/2021",
+    "SaleDate": "8/13/2011"
+  },
+  {
+    "BuyerName": "Pauly Spellard",
+    "PurchasePrice": 740566.15,
+    "SalePrice": 781105.75,
+    "StockSymbol": "CLR",
+    "PurchaseDate": "11/30/2019",
+    "SaleDate": "12/17/2021"
+  },
+  {
+    "BuyerName": "Roderich Hele",
+    "PurchasePrice": 933880.92,
+    "SalePrice": 528400.4,
+    "StockSymbol": "HRMNU",
+    "PurchaseDate": "12/17/2008",
+    "SaleDate": "3/15/2013"
+  },
+  {
+    "BuyerName": "Jami Simonot",
+    "PurchasePrice": 275577.06,
+    "SalePrice": 95118.17,
+    "StockSymbol": "TEN",
+    "PurchaseDate": "2/16/2009",
+    "SaleDate": "4/23/2022"
+  },
+  {
+    "BuyerName": "Devan Jorissen",
+    "PurchasePrice": 722361.38,
+    "SalePrice": 520432.91,
+    "StockSymbol": "CARS",
+    "PurchaseDate": "5/23/2012",
+    "SaleDate": "7/6/2004"
+  },
+  {
+    "BuyerName": "Delano Pyle",
+    "PurchasePrice": 3479.25,
+    "SalePrice": 510719.01,
+    "StockSymbol": "PINC",
+    "PurchaseDate": "2/15/2011",
+    "SaleDate": "3/1/2003"
+  },
+  {
+    "BuyerName": "Catharine Loggie",
+    "PurchasePrice": 723400.2,
+    "SalePrice": 96736.83,
+    "StockSymbol": "PEGA",
+    "PurchaseDate": "3/23/2004",
+    "SaleDate": "4/24/2017"
+  },
+  {
+    "BuyerName": "Lettie Sheward",
+    "PurchasePrice": 64771.15,
+    "SalePrice": 113098.02,
+    "StockSymbol": "SUPN",
+    "PurchaseDate": "4/19/2007",
+    "SaleDate": "5/16/2016"
+  },
+  {
+    "BuyerName": "Thebault Lincey",
+    "PurchasePrice": 421550.95,
+    "SalePrice": 932989.69,
+    "StockSymbol": "CUBI^C",
+    "PurchaseDate": "10/11/2018",
+    "SaleDate": "11/11/2002"
+  },
+  {
+    "BuyerName": "Linn Bendik",
+    "PurchasePrice": 911544.04,
+    "SalePrice": 111341.1,
+    "StockSymbol": "HFBC",
+    "PurchaseDate": "6/3/2015",
+    "SaleDate": "3/12/2008"
+  },
+  {
+    "BuyerName": "Barbe Santhouse",
+    "PurchasePrice": 924305.64,
+    "SalePrice": 192825.0,
+    "StockSymbol": "APA",
+    "PurchaseDate": "6/13/2017",
+    "SaleDate": "9/26/2007"
+  },
+  {
+    "BuyerName": "Rochell Wrigglesworth",
+    "PurchasePrice": 532549.87,
+    "SalePrice": 192070.24,
+    "StockSymbol": "TEL",
+    "PurchaseDate": "1/29/2016",
+    "SaleDate": "5/31/2006"
+  },
+  {
+    "BuyerName": "Merwin Weight",
+    "PurchasePrice": 415500.47,
+    "SalePrice": 146335.95,
+    "StockSymbol": "OMED",
+    "PurchaseDate": "9/29/2014",
+    "SaleDate": "3/31/2022"
+  },
+  {
+    "BuyerName": "Rosemonde Pietsma",
+    "PurchasePrice": 844667.53,
+    "SalePrice": 323319.8,
+    "StockSymbol": "NGVT",
+    "PurchaseDate": "12/26/2011",
+    "SaleDate": "6/30/2001"
+  },
+  {
+    "BuyerName": "Shurlock Gregson",
+    "PurchasePrice": 879382.6,
+    "SalePrice": 95125.87,
+    "StockSymbol": "PPBI",
+    "PurchaseDate": "9/22/2020",
+    "SaleDate": "1/11/2003"
+  },
+  {
+    "BuyerName": "Lazare Martignoni",
+    "PurchasePrice": 294316.87,
+    "SalePrice": 576004.91,
+    "StockSymbol": "SNH",
+    "PurchaseDate": "6/18/2004",
+    "SaleDate": "6/18/2000"
+  },
+  {
+    "BuyerName": "Fergus Yallop",
+    "PurchasePrice": 283876.44,
+    "SalePrice": 659644.7,
+    "StockSymbol": "ALGT",
+    "PurchaseDate": "10/29/2000",
+    "SaleDate": "12/1/2010"
+  },
+  {
+    "BuyerName": "Christye Jenkyn",
+    "PurchasePrice": 837874.59,
+    "SalePrice": 616682.27,
+    "StockSymbol": "BMI",
+    "PurchaseDate": "9/15/2001",
+    "SaleDate": "6/12/2019"
+  },
+  {
+    "BuyerName": "Davon Linskey",
+    "PurchasePrice": 459466.8,
+    "SalePrice": 206219.08,
+    "StockSymbol": "BDGE",
+    "PurchaseDate": "1/9/2003",
+    "SaleDate": "9/8/2007"
+  },
+  {
+    "BuyerName": "Maura Petrushkevich",
+    "PurchasePrice": 995510.88,
+    "SalePrice": 608859.98,
+    "StockSymbol": "TILE",
+    "PurchaseDate": "10/19/2001",
+    "SaleDate": "3/19/2001"
+  },
+  {
+    "BuyerName": "Barry Lapree",
+    "PurchasePrice": 124968.79,
+    "SalePrice": 651611.17,
+    "StockSymbol": "AT",
+    "PurchaseDate": "7/3/2021",
+    "SaleDate": "9/15/2012"
+  },
+  {
+    "BuyerName": "Augustine Roon",
+    "PurchasePrice": 386675.32,
+    "SalePrice": 779853.77,
+    "StockSymbol": "STAY",
+    "PurchaseDate": "4/11/2009",
+    "SaleDate": "10/14/2014"
+  },
+  {
+    "BuyerName": "Imogen Verrechia",
+    "PurchasePrice": 872154.15,
+    "SalePrice": 700488.08,
+    "StockSymbol": "AIV",
+    "PurchaseDate": "5/16/2003",
+    "SaleDate": "1/12/2012"
+  },
+  {
+    "BuyerName": "Cullan Stokell",
+    "PurchasePrice": 938718.36,
+    "SalePrice": 571516.93,
+    "StockSymbol": "AFG",
+    "PurchaseDate": "7/14/2004",
+    "SaleDate": "3/28/2000"
+  },
+  {
+    "BuyerName": "Cammi Hacker",
+    "PurchasePrice": 337024.01,
+    "SalePrice": 34272.24,
+    "StockSymbol": "NEE^J",
+    "PurchaseDate": "12/8/2009",
+    "SaleDate": "10/2/2020"
+  },
+  {
+    "BuyerName": "Carena Pampling",
+    "PurchasePrice": 742858.04,
+    "SalePrice": 582647.68,
+    "StockSymbol": "RGLS",
+    "PurchaseDate": "2/13/2012",
+    "SaleDate": "1/10/2008"
+  },
+  {
+    "BuyerName": "Holly-anne Hendrichs",
+    "PurchasePrice": 39461.79,
+    "SalePrice": 160927.7,
+    "StockSymbol": "FH",
+    "PurchaseDate": "8/7/2012",
+    "SaleDate": "3/14/2009"
+  },
+  {
+    "BuyerName": "Sharla Burnell",
+    "PurchasePrice": 336144.21,
+    "SalePrice": 784218.01,
+    "StockSymbol": "CBT",
+    "PurchaseDate": "5/12/2017",
+    "SaleDate": "1/18/2012"
+  },
+  {
+    "BuyerName": "Bonny Negri",
+    "PurchasePrice": 808166.58,
+    "SalePrice": 234547.55,
+    "StockSymbol": "SALT",
+    "PurchaseDate": "9/3/2001",
+    "SaleDate": "1/14/2015"
+  },
+  {
+    "BuyerName": "Brok Caldicott",
+    "PurchasePrice": 647050.31,
+    "SalePrice": 334399.39,
+    "StockSymbol": "FRBA",
+    "PurchaseDate": "3/6/2015",
+    "SaleDate": "6/16/2013"
+  },
+  {
+    "BuyerName": "Fritz Wisden",
+    "PurchasePrice": 893621.32,
+    "SalePrice": 176643.7,
+    "StockSymbol": "BELFA",
+    "PurchaseDate": "11/1/2005",
+    "SaleDate": "12/22/2009"
+  },
+  {
+    "BuyerName": "Sarina Iwanowski",
+    "PurchasePrice": 535647.2,
+    "SalePrice": 14943.2,
+    "StockSymbol": "MGP",
+    "PurchaseDate": "6/3/2008",
+    "SaleDate": "10/30/2019"
+  },
+  {
+    "BuyerName": "Malvina MacDearmid",
+    "PurchasePrice": 943306.01,
+    "SalePrice": 870534.32,
+    "StockSymbol": "CLDC",
+    "PurchaseDate": "9/3/2021",
+    "SaleDate": "3/25/2018"
+  },
+  {
+    "BuyerName": "Annabelle Minucci",
+    "PurchasePrice": 32870.45,
+    "SalePrice": 784035.81,
+    "StockSymbol": "RNST",
+    "PurchaseDate": "10/1/2016",
+    "SaleDate": "8/6/2018"
+  },
+  {
+    "BuyerName": "Dallas Chorley",
+    "PurchasePrice": 108099.33,
+    "SalePrice": 408327.99,
+    "StockSymbol": "ABC",
+    "PurchaseDate": "2/18/2005",
+    "SaleDate": "11/19/2014"
+  },
+  {
+    "BuyerName": "Nerta Brigman",
+    "PurchasePrice": 512681.59,
+    "SalePrice": 685600.02,
+    "StockSymbol": "PNQI",
+    "PurchaseDate": "6/21/2013",
+    "SaleDate": "5/7/2004"
+  },
+  {
+    "BuyerName": "Lynde Gradon",
+    "PurchasePrice": 217155.3,
+    "SalePrice": 42331.73,
+    "StockSymbol": "PFIS",
+    "PurchaseDate": "5/27/2013",
+    "SaleDate": "8/28/2014"
+  },
+  {
+    "BuyerName": "Chic Heino",
+    "PurchasePrice": 892901.68,
+    "SalePrice": 937767.93,
+    "StockSymbol": "AAL",
+    "PurchaseDate": "11/29/2010",
+    "SaleDate": "9/16/2003"
+  },
+  {
+    "BuyerName": "Yank Duckworth",
+    "PurchasePrice": 426728.61,
+    "SalePrice": 96381.82,
+    "StockSymbol": "SCHW^D",
+    "PurchaseDate": "9/21/2013",
+    "SaleDate": "8/4/2021"
+  },
+  {
+    "BuyerName": "Bartolemo Wettern",
+    "PurchasePrice": 138868.91,
+    "SalePrice": 420259.28,
+    "StockSymbol": "SLIM",
+    "PurchaseDate": "6/30/2007",
+    "SaleDate": "9/25/2002"
+  },
+  {
+    "BuyerName": "Giffie Menguy",
+    "PurchasePrice": 378807.52,
+    "SalePrice": 108285.75,
+    "StockSymbol": "SMCI",
+    "PurchaseDate": "2/7/2008",
+    "SaleDate": "3/9/2013"
+  },
+  {
+    "BuyerName": "Hamnet Bigham",
+    "PurchasePrice": 656849.41,
+    "SalePrice": 774952.15,
+    "StockSymbol": "AXARW",
+    "PurchaseDate": "7/27/2003",
+    "SaleDate": "3/24/2006"
+  },
+  {
+    "BuyerName": "Jefferson O'Nion",
+    "PurchasePrice": 488408.48,
+    "SalePrice": 391467.96,
+    "StockSymbol": "KRG",
+    "PurchaseDate": "6/13/2016",
+    "SaleDate": "8/7/2015"
+  },
+  {
+    "BuyerName": "Faye Gillbanks",
+    "PurchasePrice": 966960.66,
+    "SalePrice": 632750.43,
+    "StockSymbol": "ARI",
+    "PurchaseDate": "10/15/2010",
+    "SaleDate": "8/2/2019"
+  },
+  {
+    "BuyerName": "Adora Gillopp",
+    "PurchasePrice": 523168.03,
+    "SalePrice": 396884.68,
+    "StockSymbol": "TRU",
+    "PurchaseDate": "2/3/2017",
+    "SaleDate": "2/2/2021"
+  },
+  {
+    "BuyerName": "Halley Maggi",
+    "PurchasePrice": 710031.75,
+    "SalePrice": 308217.55,
+    "StockSymbol": "HYI",
+    "PurchaseDate": "3/27/2000",
+    "SaleDate": "7/21/2015"
+  },
+  {
+    "BuyerName": "Hurley Faulo",
+    "PurchasePrice": 607443.23,
+    "SalePrice": 347992.6,
+    "StockSymbol": "DTYL",
+    "PurchaseDate": "2/20/2018",
+    "SaleDate": "9/14/2002"
+  },
+  {
+    "BuyerName": "Kevon Kadwallider",
+    "PurchasePrice": 364402.97,
+    "SalePrice": 956916.14,
+    "StockSymbol": "HBMD",
+    "PurchaseDate": "4/15/2017",
+    "SaleDate": "7/16/2005"
+  },
+  {
+    "BuyerName": "Krystyna Varnham",
+    "PurchasePrice": 84144.32,
+    "SalePrice": 256531.39,
+    "StockSymbol": "QLC",
+    "PurchaseDate": "6/16/2016",
+    "SaleDate": "10/28/2005"
+  },
+  {
+    "BuyerName": "Lenette Orto",
+    "PurchasePrice": 489660.17,
+    "SalePrice": 66809.01,
+    "StockSymbol": "PDCO",
+    "PurchaseDate": "11/6/2018",
+    "SaleDate": "7/8/2001"
+  },
+  {
+    "BuyerName": "Arni Sallinger",
+    "PurchasePrice": 221046.09,
+    "SalePrice": 703256.81,
+    "StockSymbol": "WEC",
+    "PurchaseDate": "6/12/2010",
+    "SaleDate": "12/11/2001"
+  },
+  {
+    "BuyerName": "Edgardo Ferry",
+    "PurchasePrice": 412661.18,
+    "SalePrice": 427891.01,
+    "StockSymbol": "JSYN",
+    "PurchaseDate": "3/17/2001",
+    "SaleDate": "10/21/2019"
+  },
+  {
+    "BuyerName": "Amby Simister",
+    "PurchasePrice": 489186.79,
+    "SalePrice": 269409.05,
+    "StockSymbol": "ROST",
+    "PurchaseDate": "9/16/2011",
+    "SaleDate": "7/15/2020"
+  },
+  {
+    "BuyerName": "Mollie Crawshay",
+    "PurchasePrice": 60947.53,
+    "SalePrice": 373374.29,
+    "StockSymbol": "FJP",
+    "PurchaseDate": "1/23/2015",
+    "SaleDate": "4/11/2020"
+  },
+  {
+    "BuyerName": "Sybyl Lear",
+    "PurchasePrice": 699534.44,
+    "SalePrice": 788551.69,
+    "StockSymbol": "SWJ",
+    "PurchaseDate": "8/21/2012",
+    "SaleDate": "6/14/2012"
+  },
+  {
+    "BuyerName": "Joe Gogan",
+    "PurchasePrice": 678474.27,
+    "SalePrice": 401846.79,
+    "StockSymbol": "WRE",
+    "PurchaseDate": "12/15/2013",
+    "SaleDate": "3/15/2019"
+  },
+  {
+    "BuyerName": "Kalila Jarratt",
+    "PurchasePrice": 921590.94,
+    "SalePrice": 332096.78,
+    "StockSymbol": "AMMA",
+    "PurchaseDate": "11/15/2001",
+    "SaleDate": "8/7/2017"
+  },
+  {
+    "BuyerName": "Willamina Coopman",
+    "PurchasePrice": 93304.09,
+    "SalePrice": 443863.47,
+    "StockSymbol": "PDLI",
+    "PurchaseDate": "1/14/2004",
+    "SaleDate": "3/16/2000"
+  },
+  {
+    "BuyerName": "Joellen Lichfield",
+    "PurchasePrice": 907745.49,
+    "SalePrice": 692236.79,
+    "StockSymbol": "RGLD",
+    "PurchaseDate": "11/23/2013",
+    "SaleDate": "4/11/2018"
+  },
+  {
+    "BuyerName": "Tanner Fitchen",
+    "PurchasePrice": 663354.56,
+    "SalePrice": 967048.59,
+    "StockSymbol": "RBPAA",
+    "PurchaseDate": "7/4/2014",
+    "SaleDate": "7/30/2009"
+  },
+  {
+    "BuyerName": "Martin Silbersak",
+    "PurchasePrice": 338036.97,
+    "SalePrice": 427204.05,
+    "StockSymbol": "LFGR",
+    "PurchaseDate": "4/2/2010",
+    "SaleDate": "4/25/2003"
+  },
+  {
+    "BuyerName": "Hube Fery",
+    "PurchasePrice": 749020.31,
+    "SalePrice": 539547.01,
+    "StockSymbol": "GJH",
+    "PurchaseDate": "7/21/2010",
+    "SaleDate": "10/29/2016"
+  },
+  {
+    "BuyerName": "Mickie Upchurch",
+    "PurchasePrice": 613607.31,
+    "SalePrice": 567612.16,
+    "StockSymbol": "RM",
+    "PurchaseDate": "10/29/2004",
+    "SaleDate": "8/16/2007"
+  },
+  {
+    "BuyerName": "Roch Flattman",
+    "PurchasePrice": 260122.06,
+    "SalePrice": 468693.84,
+    "StockSymbol": "SCSC",
+    "PurchaseDate": "10/22/2001",
+    "SaleDate": "2/27/2022"
+  },
+  {
+    "BuyerName": "Sylvia Moules",
+    "PurchasePrice": 352986.44,
+    "SalePrice": 341253.34,
+    "StockSymbol": "PWOD",
+    "PurchaseDate": "7/2/2018",
+    "SaleDate": "3/29/2020"
+  },
+  {
+    "BuyerName": "Madelyn Stout",
+    "PurchasePrice": 972878.19,
+    "SalePrice": 32175.58,
+    "StockSymbol": "WAAS",
+    "PurchaseDate": "5/5/2002",
+    "SaleDate": "11/1/2002"
+  },
+  {
+    "BuyerName": "Hurley Willacot",
+    "PurchasePrice": 149512.52,
+    "SalePrice": 330552.15,
+    "StockSymbol": "GRP.U",
+    "PurchaseDate": "10/1/2015",
+    "SaleDate": "4/11/2008"
+  },
+  {
+    "BuyerName": "Tedman Kleeborn",
+    "PurchasePrice": 276482.68,
+    "SalePrice": 227406.71,
+    "StockSymbol": "IBN",
+    "PurchaseDate": "2/7/2017",
+    "SaleDate": "7/8/2010"
+  },
+  {
+    "BuyerName": "Micheline Kervin",
+    "PurchasePrice": 63705.58,
+    "SalePrice": 516506.09,
+    "StockSymbol": "POST",
+    "PurchaseDate": "11/28/2020",
+    "SaleDate": "4/30/2010"
+  },
+  {
+    "BuyerName": "Belita Brilleman",
+    "PurchasePrice": 107318.21,
+    "SalePrice": 356075.89,
+    "StockSymbol": "AXSM",
+    "PurchaseDate": "6/18/2009",
+    "SaleDate": "8/27/2018"
+  },
+  {
+    "BuyerName": "Fiorenze Langfitt",
+    "PurchasePrice": 27564.81,
+    "SalePrice": 906950.85,
+    "StockSymbol": "STBA",
+    "PurchaseDate": "12/15/2003",
+    "SaleDate": "2/17/2001"
+  },
+  {
+    "BuyerName": "Tandi Cleaves",
+    "PurchasePrice": 719881.22,
+    "SalePrice": 368899.15,
+    "StockSymbol": "SNY",
+    "PurchaseDate": "8/7/2005",
+    "SaleDate": "10/3/2011"
+  },
+  {
+    "BuyerName": "Silvain Comini",
+    "PurchasePrice": 945466.07,
+    "SalePrice": 662748.99,
+    "StockSymbol": "HBM",
+    "PurchaseDate": "1/4/2003",
+    "SaleDate": "6/2/2012"
+  },
+  {
+    "BuyerName": "Ninetta Leslie",
+    "PurchasePrice": 226122.71,
+    "SalePrice": 837843.76,
+    "StockSymbol": "CVCY",
+    "PurchaseDate": "5/19/2018",
+    "SaleDate": "3/17/2009"
+  },
+  {
+    "BuyerName": "Gavin Whitebread",
+    "PurchasePrice": 816445.88,
+    "SalePrice": 459358.72,
+    "StockSymbol": "VALX",
+    "PurchaseDate": "12/21/2005",
+    "SaleDate": "9/13/2019"
+  },
+  {
+    "BuyerName": "Skipper Klulisek",
+    "PurchasePrice": 662027.45,
+    "SalePrice": 827759.01,
+    "StockSymbol": "KF",
+    "PurchaseDate": "10/29/2004",
+    "SaleDate": "2/12/2019"
+  },
+  {
+    "BuyerName": "Shurwood Gaynor",
+    "PurchasePrice": 255762.9,
+    "SalePrice": 230151.76,
+    "StockSymbol": "AMRN",
+    "PurchaseDate": "11/30/2001",
+    "SaleDate": "2/22/2004"
+  },
+  {
+    "BuyerName": "Olav Dymock",
+    "PurchasePrice": 114951.77,
+    "SalePrice": 278757.64,
+    "StockSymbol": "APLP",
+    "PurchaseDate": "10/25/2015",
+    "SaleDate": "12/12/2005"
+  },
+  {
+    "BuyerName": "Joelly McHugh",
+    "PurchasePrice": 259635.75,
+    "SalePrice": 705040.0,
+    "StockSymbol": "ROL",
+    "PurchaseDate": "1/31/2010",
+    "SaleDate": "4/12/2015"
+  },
+  {
+    "BuyerName": "Norina Dempster",
+    "PurchasePrice": 107910.21,
+    "SalePrice": 887445.99,
+    "StockSymbol": "SRUNU",
+    "PurchaseDate": "7/4/2002",
+    "SaleDate": "9/1/2007"
+  },
+  {
+    "BuyerName": "Vanya Dew",
+    "PurchasePrice": 966336.94,
+    "SalePrice": 927621.51,
+    "StockSymbol": "AWI",
+    "PurchaseDate": "8/7/2001",
+    "SaleDate": "8/17/2015"
+  },
+  {
+    "BuyerName": "Vail Paulitschke",
+    "PurchasePrice": 589081.8,
+    "SalePrice": 399381.71,
+    "StockSymbol": "IBOC",
+    "PurchaseDate": "12/28/2001",
+    "SaleDate": "11/29/2017"
+  },
+  {
+    "BuyerName": "Camila Oakhill",
+    "PurchasePrice": 26646.86,
+    "SalePrice": 783311.39,
+    "StockSymbol": "SOV^C",
+    "PurchaseDate": "2/26/2002",
+    "SaleDate": "8/31/2005"
+  },
+  {
+    "BuyerName": "Maurita Bront",
+    "PurchasePrice": 880495.47,
+    "SalePrice": 430610.19,
+    "StockSymbol": "PAYC",
+    "PurchaseDate": "1/4/2013",
+    "SaleDate": "9/25/2019"
+  },
+  {
+    "BuyerName": "Rolfe Alred",
+    "PurchasePrice": 783018.14,
+    "SalePrice": 951547.88,
+    "StockSymbol": "MELR",
+    "PurchaseDate": "3/1/2013",
+    "SaleDate": "11/24/2014"
+  },
+  {
+    "BuyerName": "Marcelle Stainbridge",
+    "PurchasePrice": 925514.96,
+    "SalePrice": 619854.95,
+    "StockSymbol": "CII",
+    "PurchaseDate": "4/27/2007",
+    "SaleDate": "11/13/2022"
+  },
+  {
+    "BuyerName": "Edvard Kerrane",
+    "PurchasePrice": 97258.18,
+    "SalePrice": 3916.24,
+    "StockSymbol": "AKER",
+    "PurchaseDate": "12/31/2020",
+    "SaleDate": "5/28/2018"
+  },
+  {
+    "BuyerName": "Killy Aldham",
+    "PurchasePrice": 302401.13,
+    "SalePrice": 835525.13,
+    "StockSymbol": "PBCT",
+    "PurchaseDate": "9/7/2017",
+    "SaleDate": "10/15/2011"
+  },
+  {
+    "BuyerName": "Denys Andreasen",
+    "PurchasePrice": 951486.09,
+    "SalePrice": 721733.76,
+    "StockSymbol": "BTA",
+    "PurchaseDate": "12/12/2016",
+    "SaleDate": "5/5/2009"
+  },
+  {
+    "BuyerName": "Roxane Mingame",
+    "PurchasePrice": 212269.1,
+    "SalePrice": 373627.42,
+    "StockSymbol": "HRMNW",
+    "PurchaseDate": "11/30/2010",
+    "SaleDate": "7/20/2018"
+  },
+  {
+    "BuyerName": "Doralin Potebury",
+    "PurchasePrice": 486372.62,
+    "SalePrice": 232390.31,
+    "StockSymbol": "TIME",
+    "PurchaseDate": "9/25/2017",
+    "SaleDate": "8/11/2006"
+  },
+  {
+    "BuyerName": "Rina Jiruca",
+    "PurchasePrice": 320204.07,
+    "SalePrice": 190683.78,
+    "StockSymbol": "NGHCZ",
+    "PurchaseDate": "5/12/2016",
+    "SaleDate": "11/21/2007"
+  },
+  {
+    "BuyerName": "Ada Rojel",
+    "PurchasePrice": 448511.39,
+    "SalePrice": 96412.09,
+    "StockSymbol": "FLY",
+    "PurchaseDate": "1/21/2013",
+    "SaleDate": "9/4/2006"
+  },
+  {
+    "BuyerName": "Delmore Caslane",
+    "PurchasePrice": 297586.91,
+    "SalePrice": 175312.2,
+    "StockSymbol": "BNFT",
+    "PurchaseDate": "2/22/2012",
+    "SaleDate": "11/28/2022"
+  },
+  {
+    "BuyerName": "Christan Griffe",
+    "PurchasePrice": 501815.17,
+    "SalePrice": 416263.88,
+    "StockSymbol": "BORN",
+    "PurchaseDate": "6/14/2012",
+    "SaleDate": "9/16/2004"
+  },
+  {
+    "BuyerName": "John Feckey",
+    "PurchasePrice": 592495.82,
+    "SalePrice": 798097.16,
+    "StockSymbol": "FVC",
+    "PurchaseDate": "10/18/2008",
+    "SaleDate": "6/9/2001"
+  },
+  {
+    "BuyerName": "Gannie Aslen",
+    "PurchasePrice": 598882.08,
+    "SalePrice": 658482.45,
+    "StockSymbol": "HIVE",
+    "PurchaseDate": "5/19/2017",
+    "SaleDate": "1/25/2014"
+  },
+  {
+    "BuyerName": "Lorne Bilbrooke",
+    "PurchasePrice": 307730.51,
+    "SalePrice": 302211.51,
+    "StockSymbol": "RMD",
+    "PurchaseDate": "4/25/2020",
+    "SaleDate": "7/18/2002"
+  },
+  {
+    "BuyerName": "Ernie Killelay",
+    "PurchasePrice": 353090.58,
+    "SalePrice": 623447.66,
+    "StockSymbol": "WPZ",
+    "PurchaseDate": "10/31/2004",
+    "SaleDate": "8/17/2015"
+  },
+  {
+    "BuyerName": "Zacharie Askie",
+    "PurchasePrice": 715135.21,
+    "SalePrice": 302373.87,
+    "StockSymbol": "PENN",
+    "PurchaseDate": "3/21/2011",
+    "SaleDate": "7/9/2015"
+  },
+  {
+    "BuyerName": "Karmen Hogbin",
+    "PurchasePrice": 851589.64,
+    "SalePrice": 458912.25,
+    "StockSymbol": "SIEB",
+    "PurchaseDate": "9/19/2014",
+    "SaleDate": "11/7/2003"
+  },
+  {
+    "BuyerName": "Gradey Haimes",
+    "PurchasePrice": 808946.52,
+    "SalePrice": 184316.74,
+    "StockSymbol": "LADR",
+    "PurchaseDate": "1/12/2008",
+    "SaleDate": "4/30/2006"
+  },
+  {
+    "BuyerName": "Ina Szreter",
+    "PurchasePrice": 46628.31,
+    "SalePrice": 471259.46,
+    "StockSymbol": "CENTA",
+    "PurchaseDate": "10/17/2018",
+    "SaleDate": "3/3/2022"
+  },
+  {
+    "BuyerName": "Milzie Willett",
+    "PurchasePrice": 146139.5,
+    "SalePrice": 901593.72,
+    "StockSymbol": "NBB",
+    "PurchaseDate": "1/16/2018",
+    "SaleDate": "7/12/2012"
+  },
+  {
+    "BuyerName": "Julian Regina",
+    "PurchasePrice": 682470.41,
+    "SalePrice": 788883.33,
+    "StockSymbol": "QPACW",
+    "PurchaseDate": "5/5/2014",
+    "SaleDate": "12/11/2016"
+  },
+  {
+    "BuyerName": "Ragnar Sutehall",
+    "PurchasePrice": 453208.06,
+    "SalePrice": 437639.95,
+    "StockSymbol": "SSKN",
+    "PurchaseDate": "12/27/2005",
+    "SaleDate": "11/27/2014"
+  },
+  {
+    "BuyerName": "Milissent Grubb",
+    "PurchasePrice": 152580.8,
+    "SalePrice": 59244.47,
+    "StockSymbol": "PSB^T",
+    "PurchaseDate": "11/24/2015",
+    "SaleDate": "3/21/2016"
+  },
+  {
+    "BuyerName": "Pattie Fattorini",
+    "PurchasePrice": 65410.22,
+    "SalePrice": 874566.53,
+    "StockSymbol": "MFL",
+    "PurchaseDate": "9/13/2003",
+    "SaleDate": "10/16/2011"
+  },
+  {
+    "BuyerName": "Agustin Cursey",
+    "PurchasePrice": 325983.9,
+    "SalePrice": 154855.76,
+    "StockSymbol": "ELP",
+    "PurchaseDate": "5/24/2004",
+    "SaleDate": "6/5/2004"
+  },
+  {
+    "BuyerName": "Raff Clawe",
+    "PurchasePrice": 139350.2,
+    "SalePrice": 703623.0,
+    "StockSymbol": "VYGR",
+    "PurchaseDate": "1/22/2014",
+    "SaleDate": "3/28/2007"
+  },
+  {
+    "BuyerName": "Marena Wild",
+    "PurchasePrice": 441321.97,
+    "SalePrice": 760129.47,
+    "StockSymbol": "DDT",
+    "PurchaseDate": "4/19/2006",
+    "SaleDate": "12/14/2020"
+  },
+  {
+    "BuyerName": "Tabbatha Gumery",
+    "PurchasePrice": 329111.38,
+    "SalePrice": 124820.14,
+    "StockSymbol": "SLMBP",
+    "PurchaseDate": "9/25/2022",
+    "SaleDate": "7/12/2019"
+  },
+  {
+    "BuyerName": "Teddie Firbanks",
+    "PurchasePrice": 171092.81,
+    "SalePrice": 158694.4,
+    "StockSymbol": "AHPAU",
+    "PurchaseDate": "11/21/2002",
+    "SaleDate": "3/13/2009"
+  },
+  {
+    "BuyerName": "Maggie Treher",
+    "PurchasePrice": 239607.32,
+    "SalePrice": 629764.45,
+    "StockSymbol": "KGC",
+    "PurchaseDate": "1/17/2003",
+    "SaleDate": "3/23/2002"
+  },
+  {
+    "BuyerName": "Natalya Glavin",
+    "PurchasePrice": 996091.92,
+    "SalePrice": 236126.26,
+    "StockSymbol": "VIIZ",
+    "PurchaseDate": "5/24/2008",
+    "SaleDate": "4/24/2005"
+  },
+  {
+    "BuyerName": "Stephani Chark",
+    "PurchasePrice": 363191.43,
+    "SalePrice": 915535.04,
+    "StockSymbol": "GRX^B",
+    "PurchaseDate": "12/11/2021",
+    "SaleDate": "5/31/2002"
+  },
+  {
+    "BuyerName": "Jada Kenneford",
+    "PurchasePrice": 513163.42,
+    "SalePrice": 809243.24,
+    "StockSymbol": "E",
+    "PurchaseDate": "7/22/2014",
+    "SaleDate": "6/10/2012"
+  },
+  {
+    "BuyerName": "Waite Mc Ilwrick",
+    "PurchasePrice": 143983.85,
+    "SalePrice": 998188.05,
+    "StockSymbol": "VOC",
+    "PurchaseDate": "3/15/2001",
+    "SaleDate": "7/13/2014"
+  },
+  {
+    "BuyerName": "Lane Baggott",
+    "PurchasePrice": 186947.88,
+    "SalePrice": 800768.15,
+    "StockSymbol": "KTWO",
+    "PurchaseDate": "12/22/2017",
+    "SaleDate": "5/21/2005"
+  },
+  {
+    "BuyerName": "Paolo Trusler",
+    "PurchasePrice": 409440.77,
+    "SalePrice": 715199.7,
+    "StockSymbol": "ANTH",
+    "PurchaseDate": "11/17/2014",
+    "SaleDate": "9/7/2008"
+  },
+  {
+    "BuyerName": "Cosimo Cramb",
+    "PurchasePrice": 699678.49,
+    "SalePrice": 126697.11,
+    "StockSymbol": "QTM",
+    "PurchaseDate": "11/27/2005",
+    "SaleDate": "1/5/2007"
+  },
+  {
+    "BuyerName": "Murielle MacGrath",
+    "PurchasePrice": 718633.37,
+    "SalePrice": 285173.13,
+    "StockSymbol": "STAF",
+    "PurchaseDate": "10/29/2015",
+    "SaleDate": "2/20/2007"
+  },
+  {
+    "BuyerName": "Pooh Unwin",
+    "PurchasePrice": 235314.52,
+    "SalePrice": 713162.91,
+    "StockSymbol": "TOO^A",
+    "PurchaseDate": "9/23/2004",
+    "SaleDate": "9/28/2020"
+  },
+  {
+    "BuyerName": "Donella Louys",
+    "PurchasePrice": 386011.18,
+    "SalePrice": 484172.31,
+    "StockSymbol": "SHLO",
+    "PurchaseDate": "3/22/2021",
+    "SaleDate": "5/4/2022"
+  },
+  {
+    "BuyerName": "Ludvig Hatherall",
+    "PurchasePrice": 496881.19,
+    "SalePrice": 396980.22,
+    "StockSymbol": "INN",
+    "PurchaseDate": "2/6/2004",
+    "SaleDate": "2/6/2016"
+  },
+  {
+    "BuyerName": "Chaddy Haglington",
+    "PurchasePrice": 973029.88,
+    "SalePrice": 165407.64,
+    "StockSymbol": "CCC",
+    "PurchaseDate": "7/21/2021",
+    "SaleDate": "10/27/2004"
+  },
+  {
+    "BuyerName": "Gretta Kitney",
+    "PurchasePrice": 58.86,
+    "SalePrice": 632632.25,
+    "StockSymbol": "KS",
+    "PurchaseDate": "9/15/2000",
+    "SaleDate": "8/24/2020"
+  },
+  {
+    "BuyerName": "Desdemona Nutley",
+    "PurchasePrice": 809766.26,
+    "SalePrice": 633707.72,
+    "StockSymbol": "SRAX",
+    "PurchaseDate": "2/19/2008",
+    "SaleDate": "6/25/2011"
+  },
+  {
+    "BuyerName": "Shari Sore",
+    "PurchasePrice": 214232.27,
+    "SalePrice": 38592.87,
+    "StockSymbol": "PSB^W",
+    "PurchaseDate": "11/7/2002",
+    "SaleDate": "2/22/2000"
+  },
+  {
+    "BuyerName": "Ag Gleaves",
+    "PurchasePrice": 922061.05,
+    "SalePrice": 867753.86,
+    "StockSymbol": "GATX",
+    "PurchaseDate": "6/18/2010",
+    "SaleDate": "6/11/2021"
+  },
+  {
+    "BuyerName": "Constantin Knutsen",
+    "PurchasePrice": 552913.71,
+    "SalePrice": 913461.63,
+    "StockSymbol": "MAC",
+    "PurchaseDate": "10/24/2018",
+    "SaleDate": "9/20/2014"
+  },
+  {
+    "BuyerName": "Rosalind Caplan",
+    "PurchasePrice": 241686.46,
+    "SalePrice": 272839.02,
+    "StockSymbol": "JHG",
+    "PurchaseDate": "11/15/2011",
+    "SaleDate": "1/18/2016"
+  },
+  {
+    "BuyerName": "My Hornbuckle",
+    "PurchasePrice": 248051.69,
+    "SalePrice": 873333.46,
+    "StockSymbol": "BGFV",
+    "PurchaseDate": "12/31/2010",
+    "SaleDate": "12/20/2015"
+  },
+  {
+    "BuyerName": "Sashenka Elves",
+    "PurchasePrice": 623727.09,
+    "SalePrice": 997557.04,
+    "StockSymbol": "AVP",
+    "PurchaseDate": "9/7/2012",
+    "SaleDate": "11/12/2020"
+  },
+  {
+    "BuyerName": "Foster Leist",
+    "PurchasePrice": 276788.11,
+    "SalePrice": 724701.9,
+    "StockSymbol": "AME",
+    "PurchaseDate": "6/15/2018",
+    "SaleDate": "4/20/2005"
+  },
+  {
+    "BuyerName": "Winnifred Vogeler",
+    "PurchasePrice": 531650.69,
+    "SalePrice": 280053.03,
+    "StockSymbol": "EML",
+    "PurchaseDate": "1/21/2021",
+    "SaleDate": "8/1/2006"
+  },
+  {
+    "BuyerName": "Philbert Norker",
+    "PurchasePrice": 257476.86,
+    "SalePrice": 560184.5,
+    "StockSymbol": "GABC",
+    "PurchaseDate": "10/1/2012",
+    "SaleDate": "7/30/2016"
+  },
+  {
+    "BuyerName": "Janis Fellis",
+    "PurchasePrice": 764237.75,
+    "SalePrice": 105837.7,
+    "StockSymbol": "TOO",
+    "PurchaseDate": "3/9/2007",
+    "SaleDate": "9/18/2004"
+  },
+  {
+    "BuyerName": "Annamarie Sinclar",
+    "PurchasePrice": 511623.31,
+    "SalePrice": 970457.84,
+    "StockSymbol": "LAKE",
+    "PurchaseDate": "12/29/2017",
+    "SaleDate": "1/12/2004"
+  },
+  {
+    "BuyerName": "Kettie Mordie",
+    "PurchasePrice": 815825.25,
+    "SalePrice": 383220.06,
+    "StockSymbol": "PSTG",
+    "PurchaseDate": "6/3/2016",
+    "SaleDate": "9/8/2008"
+  },
+  {
+    "BuyerName": "Addie Wilfinger",
+    "PurchasePrice": 530725.13,
+    "SalePrice": 872432.68,
+    "StockSymbol": "STLD",
+    "PurchaseDate": "12/31/2013",
+    "SaleDate": "1/16/2005"
+  },
+  {
+    "BuyerName": "Zoe Mound",
+    "PurchasePrice": 786773.54,
+    "SalePrice": 240668.25,
+    "StockSymbol": "ACTG",
+    "PurchaseDate": "8/15/2015",
+    "SaleDate": "6/25/2021"
+  },
+  {
+    "BuyerName": "Waverley Parysowna",
+    "PurchasePrice": 498712.28,
+    "SalePrice": 506351.32,
+    "StockSymbol": "IIN",
+    "PurchaseDate": "10/5/2010",
+    "SaleDate": "7/1/2012"
+  },
+  {
+    "BuyerName": "Gerta Hyndley",
+    "PurchasePrice": 341483.22,
+    "SalePrice": 264677.52,
+    "StockSymbol": "BOH",
+    "PurchaseDate": "3/12/2018",
+    "SaleDate": "5/12/2007"
+  },
+  {
+    "BuyerName": "Mela Meadus",
+    "PurchasePrice": 825892.2,
+    "SalePrice": 847615.32,
+    "StockSymbol": "MTT",
+    "PurchaseDate": "6/23/2021",
+    "SaleDate": "7/9/2010"
+  },
+  {
+    "BuyerName": "Rustin Maytom",
+    "PurchasePrice": 725448.03,
+    "SalePrice": 532110.82,
+    "StockSymbol": "BKN",
+    "PurchaseDate": "8/3/2004",
+    "SaleDate": "12/1/2000"
+  },
+  {
+    "BuyerName": "Glyn Kleinplatz",
+    "PurchasePrice": 324654.29,
+    "SalePrice": 189858.73,
+    "StockSymbol": "VEACU",
+    "PurchaseDate": "3/15/2018",
+    "SaleDate": "4/11/2020"
+  },
+  {
+    "BuyerName": "Tadd Caroll",
+    "PurchasePrice": 560815.77,
+    "SalePrice": 995867.02,
+    "StockSymbol": "GAIA",
+    "PurchaseDate": "6/1/2019",
+    "SaleDate": "1/8/2011"
+  },
+  {
+    "BuyerName": "Carce Tonkes",
+    "PurchasePrice": 420205.17,
+    "SalePrice": 175136.46,
+    "StockSymbol": "FI",
+    "PurchaseDate": "10/19/2012",
+    "SaleDate": "9/14/2010"
+  },
+  {
+    "BuyerName": "Clim Roland",
+    "PurchasePrice": 363084.05,
+    "SalePrice": 498827.04,
+    "StockSymbol": "MFA",
+    "PurchaseDate": "1/8/2003",
+    "SaleDate": "2/5/2021"
+  },
+  {
+    "BuyerName": "Selle Goby",
+    "PurchasePrice": 119104.82,
+    "SalePrice": 38753.0,
+    "StockSymbol": "SBR",
+    "PurchaseDate": "4/8/2001",
+    "SaleDate": "4/11/2021"
+  },
+  {
+    "BuyerName": "Remington Rozsa",
+    "PurchasePrice": 900283.77,
+    "SalePrice": 225867.88,
+    "StockSymbol": "DPZ",
+    "PurchaseDate": "6/26/2022",
+    "SaleDate": "6/7/2021"
+  },
+  {
+    "BuyerName": "Moshe Klarzynski",
+    "PurchasePrice": 981056.81,
+    "SalePrice": 334318.21,
+    "StockSymbol": "INWK",
+    "PurchaseDate": "11/24/2007",
+    "SaleDate": "2/5/2015"
+  },
+  {
+    "BuyerName": "Norbert Tumelty",
+    "PurchasePrice": 435841.33,
+    "SalePrice": 590033.93,
+    "StockSymbol": "WPZ",
+    "PurchaseDate": "2/27/2011",
+    "SaleDate": "1/2/2013"
+  },
+  {
+    "BuyerName": "Lind Ewdale",
+    "PurchasePrice": 420052.11,
+    "SalePrice": 389008.66,
+    "StockSymbol": "WTI",
+    "PurchaseDate": "1/16/2001",
+    "SaleDate": "5/15/2017"
+  },
+  {
+    "BuyerName": "Timmy Duplain",
+    "PurchasePrice": 516056.83,
+    "SalePrice": 769169.36,
+    "StockSymbol": "SPOK",
+    "PurchaseDate": "2/15/2022",
+    "SaleDate": "3/19/2007"
+  },
+  {
+    "BuyerName": "Halette Micah",
+    "PurchasePrice": 258215.83,
+    "SalePrice": 425228.41,
+    "StockSymbol": "RFIL",
+    "PurchaseDate": "7/10/2018",
+    "SaleDate": "1/27/2005"
+  },
+  {
+    "BuyerName": "Emilee Astlett",
+    "PurchasePrice": 560669.9,
+    "SalePrice": 976821.48,
+    "StockSymbol": "ESTE",
+    "PurchaseDate": "5/20/2016",
+    "SaleDate": "1/16/2013"
+  },
+  {
+    "BuyerName": "Shanie Marson",
+    "PurchasePrice": 194266.88,
+    "SalePrice": 585658.47,
+    "StockSymbol": "AHT^D",
+    "PurchaseDate": "6/6/2004",
+    "SaleDate": "12/13/2019"
+  },
+  {
+    "BuyerName": "Hortensia Duxbury",
+    "PurchasePrice": 353006.21,
+    "SalePrice": 847071.64,
+    "StockSymbol": "OFC^L.CL",
+    "PurchaseDate": "12/22/2005",
+    "SaleDate": "12/5/2012"
+  },
+  {
+    "BuyerName": "Flss Spencelayh",
+    "PurchasePrice": 461107.94,
+    "SalePrice": 648805.19,
+    "StockSymbol": "BYSI",
+    "PurchaseDate": "8/19/2020",
+    "SaleDate": "11/11/2011"
+  },
+  {
+    "BuyerName": "Rhodie Johanssen",
+    "PurchasePrice": 752409.19,
+    "SalePrice": 199854.13,
+    "StockSymbol": "FFA",
+    "PurchaseDate": "8/25/2014",
+    "SaleDate": "5/24/2007"
+  },
+  {
+    "BuyerName": "York Elington",
+    "PurchasePrice": 276206.46,
+    "SalePrice": 373448.86,
+    "StockSymbol": "IDE",
+    "PurchaseDate": "8/8/2004",
+    "SaleDate": "2/18/2014"
+  },
+  {
+    "BuyerName": "Greta Danniell",
+    "PurchasePrice": 397642.76,
+    "SalePrice": 36992.58,
+    "StockSymbol": "NAV",
+    "PurchaseDate": "4/11/2000",
+    "SaleDate": "11/30/2003"
+  },
+  {
+    "BuyerName": "Gilli Mohan",
+    "PurchasePrice": 620403.54,
+    "SalePrice": 381607.04,
+    "StockSymbol": "CTRN",
+    "PurchaseDate": "12/8/2004",
+    "SaleDate": "5/8/2021"
+  },
+  {
+    "BuyerName": "Dorothee Grosvener",
+    "PurchasePrice": 693921.95,
+    "SalePrice": 250774.78,
+    "StockSymbol": "TDJ",
+    "PurchaseDate": "10/22/2004",
+    "SaleDate": "5/4/2000"
+  },
+  {
+    "BuyerName": "Morry Kennet",
+    "PurchasePrice": 637552.92,
+    "SalePrice": 495704.14,
+    "StockSymbol": "RIO",
+    "PurchaseDate": "4/28/2004",
+    "SaleDate": "3/13/2016"
+  },
+  {
+    "BuyerName": "Danice Meads",
+    "PurchasePrice": 61368.7,
+    "SalePrice": 540455.43,
+    "StockSymbol": "GCH",
+    "PurchaseDate": "3/7/2000",
+    "SaleDate": "2/2/2005"
+  },
+  {
+    "BuyerName": "Antoinette Zebedee",
+    "PurchasePrice": 446370.33,
+    "SalePrice": 244061.68,
+    "StockSymbol": "ADES",
+    "PurchaseDate": "9/23/2000",
+    "SaleDate": "4/14/2001"
+  },
+  {
+    "BuyerName": "Letizia Somerfield",
+    "PurchasePrice": 212460.17,
+    "SalePrice": 120098.62,
+    "StockSymbol": "SCHN",
+    "PurchaseDate": "10/6/2022",
+    "SaleDate": "12/6/2015"
+  },
+  {
+    "BuyerName": "Kip Lutton",
+    "PurchasePrice": 942836.33,
+    "SalePrice": 666357.1,
+    "StockSymbol": "GFA",
+    "PurchaseDate": "1/22/2014",
+    "SaleDate": "8/27/2011"
+  },
+  {
+    "BuyerName": "Jaymee Veck",
+    "PurchasePrice": 382854.99,
+    "SalePrice": 538198.01,
+    "StockSymbol": "BDSI",
+    "PurchaseDate": "4/29/2017",
+    "SaleDate": "12/1/2009"
+  },
+  {
+    "BuyerName": "Horten Aizikovitch",
+    "PurchasePrice": 785724.63,
+    "SalePrice": 15612.59,
+    "StockSymbol": "LGF.A",
+    "PurchaseDate": "2/16/2014",
+    "SaleDate": "1/27/2007"
+  },
+  {
+    "BuyerName": "Tan Hodge",
+    "PurchasePrice": 562760.94,
+    "SalePrice": 346681.98,
+    "StockSymbol": "NYRT",
+    "PurchaseDate": "5/2/2009",
+    "SaleDate": "7/26/2013"
+  },
+  {
+    "BuyerName": "Craig Fragino",
+    "PurchasePrice": 871383.7,
+    "SalePrice": 529147.73,
+    "StockSymbol": "APDNW",
+    "PurchaseDate": "2/5/2013",
+    "SaleDate": "9/27/2006"
+  },
+  {
+    "BuyerName": "Cally Edmott",
+    "PurchasePrice": 646865.23,
+    "SalePrice": 678439.13,
+    "StockSymbol": "PAGG",
+    "PurchaseDate": "9/6/2021",
+    "SaleDate": "9/3/2019"
+  },
+  {
+    "BuyerName": "Ellis Vannoni",
+    "PurchasePrice": 587931.2,
+    "SalePrice": 481295.76,
+    "StockSymbol": "TNP^C",
+    "PurchaseDate": "4/13/2012",
+    "SaleDate": "12/21/2000"
+  },
+  {
+    "BuyerName": "Cory Gaughan",
+    "PurchasePrice": 674387.12,
+    "SalePrice": 972243.7,
+    "StockSymbol": "ATOS",
+    "PurchaseDate": "7/23/2000",
+    "SaleDate": "8/25/2008"
+  },
+  {
+    "BuyerName": "Aldous Collumbell",
+    "PurchasePrice": 233.23,
+    "SalePrice": 125717.35,
+    "StockSymbol": "ABAC",
+    "PurchaseDate": "9/23/2012",
+    "SaleDate": "2/27/2005"
+  },
+  {
+    "BuyerName": "Nevsa Wilber",
+    "PurchasePrice": 656734.5,
+    "SalePrice": 13282.14,
+    "StockSymbol": "APPF",
+    "PurchaseDate": "5/29/2020",
+    "SaleDate": "7/10/2006"
+  },
+  {
+    "BuyerName": "Boycie Kilborn",
+    "PurchasePrice": 855149.63,
+    "SalePrice": 900568.02,
+    "StockSymbol": "AFSD",
+    "PurchaseDate": "4/30/2022",
+    "SaleDate": "10/16/2010"
+  },
+  {
+    "BuyerName": "Sheba Piper",
+    "PurchasePrice": 670154.88,
+    "SalePrice": 82276.84,
+    "StockSymbol": "CYH",
+    "PurchaseDate": "5/3/2015",
+    "SaleDate": "6/5/2007"
+  },
+  {
+    "BuyerName": "Seamus Wellwood",
+    "PurchasePrice": 240154.26,
+    "SalePrice": 418645.02,
+    "StockSymbol": "NFLX",
+    "PurchaseDate": "8/23/2013",
+    "SaleDate": "8/10/2021"
+  },
+  {
+    "BuyerName": "Elset Dehmel",
+    "PurchasePrice": 466931.01,
+    "SalePrice": 530510.0,
+    "StockSymbol": "C^L",
+    "PurchaseDate": "12/28/2018",
+    "SaleDate": "1/2/2019"
+  },
+  {
+    "BuyerName": "Ekaterina Falcus",
+    "PurchasePrice": 688900.21,
+    "SalePrice": 512344.27,
+    "StockSymbol": "PRTO",
+    "PurchaseDate": "3/28/2005",
+    "SaleDate": "6/17/2022"
+  },
+  {
+    "BuyerName": "Jillayne Deroche",
+    "PurchasePrice": 385860.09,
+    "SalePrice": 474730.96,
+    "StockSymbol": "MS^I",
+    "PurchaseDate": "1/1/2013",
+    "SaleDate": "8/27/2000"
+  },
+  {
+    "BuyerName": "Averell Bantham",
+    "PurchasePrice": 395871.74,
+    "SalePrice": 908299.63,
+    "StockSymbol": "MPC",
+    "PurchaseDate": "6/15/2022",
+    "SaleDate": "6/29/2021"
+  },
+  {
+    "BuyerName": "Bram Di Ruggiero",
+    "PurchasePrice": 102755.02,
+    "SalePrice": 189014.08,
+    "StockSymbol": "CVGI",
+    "PurchaseDate": "10/4/2021",
+    "SaleDate": "11/9/2012"
+  },
+  {
+    "BuyerName": "Denise Gooderidge",
+    "PurchasePrice": 13163.98,
+    "SalePrice": 915519.93,
+    "StockSymbol": "ONVO",
+    "PurchaseDate": "6/26/2001",
+    "SaleDate": "6/28/2006"
+  },
+  {
+    "BuyerName": "Rivy Meehan",
+    "PurchasePrice": 707248.2,
+    "SalePrice": 805206.85,
+    "StockSymbol": "AAPL",
+    "PurchaseDate": "10/14/2004",
+    "SaleDate": "7/12/2017"
+  },
+  {
+    "BuyerName": "Gaylene Edgworth",
+    "PurchasePrice": 601776.11,
+    "SalePrice": 357594.51,
+    "StockSymbol": "MVO",
+    "PurchaseDate": "9/21/2010",
+    "SaleDate": "5/21/2000"
+  },
+  {
+    "BuyerName": "Sanders Eynon",
+    "PurchasePrice": 24763.39,
+    "SalePrice": 307030.56,
+    "StockSymbol": "AFMD",
+    "PurchaseDate": "6/2/2017",
+    "SaleDate": "9/26/2015"
+  },
+  {
+    "BuyerName": "Izabel Nice",
+    "PurchasePrice": 859690.19,
+    "SalePrice": 658891.81,
+    "StockSymbol": "TDG",
+    "PurchaseDate": "7/22/2004",
+    "SaleDate": "12/14/2021"
+  },
+  {
+    "BuyerName": "Maressa Rockingham",
+    "PurchasePrice": 360738.01,
+    "SalePrice": 273960.01,
+    "StockSymbol": "KMB",
+    "PurchaseDate": "9/22/2002",
+    "SaleDate": "5/16/2014"
+  },
+  {
+    "BuyerName": "Noam Andrysiak",
+    "PurchasePrice": 457664.05,
+    "SalePrice": 510939.59,
+    "StockSymbol": "MBLY",
+    "PurchaseDate": "11/6/2018",
+    "SaleDate": "5/10/2017"
+  },
+  {
+    "BuyerName": "Kerry Cleator",
+    "PurchasePrice": 641680.33,
+    "SalePrice": 905947.02,
+    "StockSymbol": "NR",
+    "PurchaseDate": "12/9/2007",
+    "SaleDate": "2/18/2003"
+  },
+  {
+    "BuyerName": "Raff Tomasicchio",
+    "PurchasePrice": 15242.24,
+    "SalePrice": 362497.1,
+    "StockSymbol": "PATI",
+    "PurchaseDate": "10/12/2009",
+    "SaleDate": "5/10/2006"
+  },
+  {
+    "BuyerName": "Lebbie Procter",
+    "PurchasePrice": 5974.93,
+    "SalePrice": 45134.03,
+    "StockSymbol": "CORR^A",
+    "PurchaseDate": "10/7/2012",
+    "SaleDate": "9/30/2016"
+  },
+  {
+    "BuyerName": "Iolande Kipping",
+    "PurchasePrice": 231121.09,
+    "SalePrice": 680262.72,
+    "StockSymbol": "AMCX",
+    "PurchaseDate": "5/31/2013",
+    "SaleDate": "6/3/2004"
+  },
+  {
+    "BuyerName": "Agnese Mariette",
+    "PurchasePrice": 466158.19,
+    "SalePrice": 775628.87,
+    "StockSymbol": "AON",
+    "PurchaseDate": "3/24/2005",
+    "SaleDate": "8/23/2003"
+  },
+  {
+    "BuyerName": "Aleda Owbridge",
+    "PurchasePrice": 256810.45,
+    "SalePrice": 197687.01,
+    "StockSymbol": "AFSI^F",
+    "PurchaseDate": "4/20/2018",
+    "SaleDate": "8/5/2011"
+  },
+  {
+    "BuyerName": "Trev Lucio",
+    "PurchasePrice": 413055.14,
+    "SalePrice": 633134.41,
+    "StockSymbol": "WFC^Y",
+    "PurchaseDate": "10/11/2004",
+    "SaleDate": "4/3/2012"
+  },
+  {
+    "BuyerName": "Randi Demko",
+    "PurchasePrice": 171848.32,
+    "SalePrice": 899921.25,
+    "StockSymbol": "HQY",
+    "PurchaseDate": "9/4/2014",
+    "SaleDate": "7/13/2011"
+  },
+  {
+    "BuyerName": "Tome Mulder",
+    "PurchasePrice": 735811.67,
+    "SalePrice": 825148.0,
+    "StockSymbol": "PRGS",
+    "PurchaseDate": "8/12/2021",
+    "SaleDate": "2/7/2019"
+  },
+  {
+    "BuyerName": "Johnathan Cumming",
+    "PurchasePrice": 975110.94,
+    "SalePrice": 494227.74,
+    "StockSymbol": "MFG",
+    "PurchaseDate": "8/18/2004",
+    "SaleDate": "10/30/2021"
+  },
+  {
+    "BuyerName": "Robin Yanyshev",
+    "PurchasePrice": 744291.73,
+    "SalePrice": 705149.6,
+    "StockSymbol": "NSR",
+    "PurchaseDate": "10/17/2016",
+    "SaleDate": "7/18/2002"
+  },
+  {
+    "BuyerName": "Craig Ballintyne",
+    "PurchasePrice": 857452.57,
+    "SalePrice": 814533.53,
+    "StockSymbol": "MORN",
+    "PurchaseDate": "7/26/2009",
+    "SaleDate": "9/14/2001"
+  },
+  {
+    "BuyerName": "Selinda Twigge",
+    "PurchasePrice": 304665.57,
+    "SalePrice": 344857.66,
+    "StockSymbol": "TREX",
+    "PurchaseDate": "6/14/2000",
+    "SaleDate": "2/14/2015"
+  },
+  {
+    "BuyerName": "Flem Munkley",
+    "PurchasePrice": 904691.31,
+    "SalePrice": 49104.45,
+    "StockSymbol": "SMHI",
+    "PurchaseDate": "10/25/2009",
+    "SaleDate": "11/24/2004"
+  },
+  {
+    "BuyerName": "Steffi Worsnap",
+    "PurchasePrice": 817465.43,
+    "SalePrice": 94097.74,
+    "StockSymbol": "PSB^W",
+    "PurchaseDate": "5/4/2008",
+    "SaleDate": "4/23/2000"
+  },
+  {
+    "BuyerName": "Damian Cluff",
+    "PurchasePrice": 848197.14,
+    "SalePrice": 482644.84,
+    "StockSymbol": "KEY^I",
+    "PurchaseDate": "1/3/2016",
+    "SaleDate": "4/11/2007"
+  },
+  {
+    "BuyerName": "Kasper McAuslene",
+    "PurchasePrice": 902453.73,
+    "SalePrice": 296646.73,
+    "StockSymbol": "FHY",
+    "PurchaseDate": "12/10/2005",
+    "SaleDate": "7/25/2001"
+  },
+  {
+    "BuyerName": "Farrah Ojeda",
+    "PurchasePrice": 805068.81,
+    "SalePrice": 181700.63,
+    "StockSymbol": "DISCB",
+    "PurchaseDate": "1/9/2009",
+    "SaleDate": "7/17/2015"
+  },
+  {
+    "BuyerName": "Karlotta Tremellier",
+    "PurchasePrice": 505468.11,
+    "SalePrice": 275142.9,
+    "StockSymbol": "PFE",
+    "PurchaseDate": "11/30/2014",
+    "SaleDate": "11/21/2009"
+  },
+  {
+    "BuyerName": "Lanette Tuck",
+    "PurchasePrice": 734503.61,
+    "SalePrice": 582224.12,
+    "StockSymbol": "CFI",
+    "PurchaseDate": "4/4/2016",
+    "SaleDate": "2/16/2005"
+  },
+  {
+    "BuyerName": "Maribel Speechley",
+    "PurchasePrice": 806991.23,
+    "SalePrice": 670634.94,
+    "StockSymbol": "KRG",
+    "PurchaseDate": "8/26/2007",
+    "SaleDate": "12/12/2009"
+  },
+  {
+    "BuyerName": "Dom Cridlon",
+    "PurchasePrice": 928203.16,
+    "SalePrice": 86455.71,
+    "StockSymbol": "MER^K",
+    "PurchaseDate": "5/27/2012",
+    "SaleDate": "6/3/2002"
+  },
+  {
+    "BuyerName": "Sephira Hedin",
+    "PurchasePrice": 91026.3,
+    "SalePrice": 965963.93,
+    "StockSymbol": "FFKT",
+    "PurchaseDate": "12/26/2015",
+    "SaleDate": "8/29/2019"
+  },
+  {
+    "BuyerName": "Kelsey Aubrey",
+    "PurchasePrice": 276332.4,
+    "SalePrice": 357564.24,
+    "StockSymbol": "HES^A",
+    "PurchaseDate": "10/19/2010",
+    "SaleDate": "2/20/2020"
+  },
+  {
+    "BuyerName": "Arlana Pointer",
+    "PurchasePrice": 127083.43,
+    "SalePrice": 57503.84,
+    "StockSymbol": "WAT",
+    "PurchaseDate": "6/27/2006",
+    "SaleDate": "8/6/2014"
+  },
+  {
+    "BuyerName": "Domenic Jewett",
+    "PurchasePrice": 816938.13,
+    "SalePrice": 344816.91,
+    "StockSymbol": "GOLF",
+    "PurchaseDate": "5/13/2001",
+    "SaleDate": "7/10/2013"
+  },
+  {
+    "BuyerName": "Carolyn Perkis",
+    "PurchasePrice": 736758.07,
+    "SalePrice": 929589.88,
+    "StockSymbol": "BCOM",
+    "PurchaseDate": "4/18/2012",
+    "SaleDate": "5/27/2003"
+  },
+  {
+    "BuyerName": "Alfons Matchett",
+    "PurchasePrice": 928730.27,
+    "SalePrice": 254085.39,
+    "StockSymbol": "CERC",
+    "PurchaseDate": "6/6/2017",
+    "SaleDate": "9/17/2007"
+  },
+  {
+    "BuyerName": "Konstanze Humbles",
+    "PurchasePrice": 44835.27,
+    "SalePrice": 115164.23,
+    "StockSymbol": "ROST",
+    "PurchaseDate": "5/31/2014",
+    "SaleDate": "6/21/2005"
+  },
+  {
+    "BuyerName": "Delano Landon",
+    "PurchasePrice": 807202.6,
+    "SalePrice": 299104.99,
+    "StockSymbol": "MMAC",
+    "PurchaseDate": "5/31/2020",
+    "SaleDate": "5/7/2012"
+  },
+  {
+    "BuyerName": "Josselyn Nodes",
+    "PurchasePrice": 760276.18,
+    "SalePrice": 654113.05,
+    "StockSymbol": "IO",
+    "PurchaseDate": "6/27/2017",
+    "SaleDate": "7/6/2013"
+  },
+  {
+    "BuyerName": "Reeta Elwell",
+    "PurchasePrice": 622864.97,
+    "SalePrice": 55319.91,
+    "StockSymbol": "ATLC",
+    "PurchaseDate": "10/22/2010",
+    "SaleDate": "10/29/2010"
+  },
+  {
+    "BuyerName": "Hedi Johantges",
+    "PurchasePrice": 149168.8,
+    "SalePrice": 847034.57,
+    "StockSymbol": "PNQI",
+    "PurchaseDate": "4/29/2021",
+    "SaleDate": "12/30/2004"
+  },
+  {
+    "BuyerName": "Barr Andreassen",
+    "PurchasePrice": 833285.25,
+    "SalePrice": 732184.99,
+    "StockSymbol": "AIY",
+    "PurchaseDate": "12/25/2018",
+    "SaleDate": "12/11/2014"
+  },
+  {
+    "BuyerName": "Kennedy Stilling",
+    "PurchasePrice": 85613.26,
+    "SalePrice": 344824.14,
+    "StockSymbol": "MCI",
+    "PurchaseDate": "7/21/2020",
+    "SaleDate": "7/11/2016"
+  },
+  {
+    "BuyerName": "Abbi Merner",
+    "PurchasePrice": 870994.31,
+    "SalePrice": 194720.57,
+    "StockSymbol": "ACM",
+    "PurchaseDate": "8/5/2018",
+    "SaleDate": "3/15/2010"
+  },
+  {
+    "BuyerName": "Uri Warne",
+    "PurchasePrice": 838040.42,
+    "SalePrice": 174512.54,
+    "StockSymbol": "XYL",
+    "PurchaseDate": "7/28/2011",
+    "SaleDate": "5/28/2022"
+  },
+  {
+    "BuyerName": "Tommie Moyce",
+    "PurchasePrice": 666912.68,
+    "SalePrice": 33490.9,
+    "StockSymbol": "FSM",
+    "PurchaseDate": "7/27/2022",
+    "SaleDate": "8/3/2009"
+  },
+  {
+    "BuyerName": "Dmitri Ranger",
+    "PurchasePrice": 392301.16,
+    "SalePrice": 754504.13,
+    "StockSymbol": "ELECW",
+    "PurchaseDate": "9/20/2012",
+    "SaleDate": "10/28/2006"
+  },
+  {
+    "BuyerName": "Anallise Holligan",
+    "PurchasePrice": 763678.89,
+    "SalePrice": 299750.21,
+    "StockSymbol": "GCH",
+    "PurchaseDate": "3/26/2021",
+    "SaleDate": "6/2/2002"
+  },
+  {
+    "BuyerName": "Fredia Pavinese",
+    "PurchasePrice": 660793.72,
+    "SalePrice": 718324.77,
+    "StockSymbol": "CLNS^A.CL",
+    "PurchaseDate": "12/26/2018",
+    "SaleDate": "4/2/2022"
+  },
+  {
+    "BuyerName": "Elinore Coo",
+    "PurchasePrice": 957663.52,
+    "SalePrice": 956956.4,
+    "StockSymbol": "OC",
+    "PurchaseDate": "6/9/2010",
+    "SaleDate": "12/31/2003"
+  },
+  {
+    "BuyerName": "Esme Spalding",
+    "PurchasePrice": 712023.66,
+    "SalePrice": 370819.86,
+    "StockSymbol": "MSTR",
+    "PurchaseDate": "5/30/2013",
+    "SaleDate": "4/26/2022"
+  },
+  {
+    "BuyerName": "Delilah Varden",
+    "PurchasePrice": 643080.4,
+    "SalePrice": 570671.17,
+    "StockSymbol": "SLVO",
+    "PurchaseDate": "2/13/2011",
+    "SaleDate": "8/29/2018"
+  },
+  {
+    "BuyerName": "Tabbie Linton",
+    "PurchasePrice": 434766.46,
+    "SalePrice": 979264.23,
+    "StockSymbol": "DWSN",
+    "PurchaseDate": "2/10/2014",
+    "SaleDate": "9/25/2009"
+  },
+  {
+    "BuyerName": "Deane Rodenburg",
+    "PurchasePrice": 910461.73,
+    "SalePrice": 812684.55,
+    "StockSymbol": "YNDX",
+    "PurchaseDate": "8/2/2002",
+    "SaleDate": "7/26/2004"
+  },
+  {
+    "BuyerName": "Mack McCane",
+    "PurchasePrice": 301449.89,
+    "SalePrice": 480313.55,
+    "StockSymbol": "CMO^E",
+    "PurchaseDate": "9/4/2015",
+    "SaleDate": "7/26/2016"
+  },
+  {
+    "BuyerName": "Esta Portwaine",
+    "PurchasePrice": 60827.52,
+    "SalePrice": 593454.39,
+    "StockSymbol": "AER",
+    "PurchaseDate": "5/27/2003",
+    "SaleDate": "12/13/2020"
+  },
+  {
+    "BuyerName": "Mackenzie Brounsell",
+    "PurchasePrice": 21191.79,
+    "SalePrice": 86132.32,
+    "StockSymbol": "VICR",
+    "PurchaseDate": "10/19/2010",
+    "SaleDate": "3/8/2000"
+  },
+  {
+    "BuyerName": "Virgilio Jedrzejewsky",
+    "PurchasePrice": 679363.68,
+    "SalePrice": 449147.77,
+    "StockSymbol": "NRCIA",
+    "PurchaseDate": "7/30/2011",
+    "SaleDate": "4/14/2003"
+  },
+  {
+    "BuyerName": "Vergil Greenlees",
+    "PurchasePrice": 681650.59,
+    "SalePrice": 522711.87,
+    "StockSymbol": "EFX",
+    "PurchaseDate": "11/2/2008",
+    "SaleDate": "8/8/2020"
+  },
+  {
+    "BuyerName": "Muffin Jollye",
+    "PurchasePrice": 793053.68,
+    "SalePrice": 749085.74,
+    "StockSymbol": "EMCG",
+    "PurchaseDate": "3/20/2008",
+    "SaleDate": "5/11/2011"
+  },
+  {
+    "BuyerName": "Lucias Hatton",
+    "PurchasePrice": 534567.43,
+    "SalePrice": 943563.29,
+    "StockSymbol": "XLRN",
+    "PurchaseDate": "11/22/2017",
+    "SaleDate": "11/16/2009"
+  },
+  {
+    "BuyerName": "Wileen Giacoppo",
+    "PurchasePrice": 233892.58,
+    "SalePrice": 54893.8,
+    "StockSymbol": "KN",
+    "PurchaseDate": "3/10/2010",
+    "SaleDate": "1/29/2008"
+  },
+  {
+    "BuyerName": "Rhianna Cherrington",
+    "PurchasePrice": 952950.56,
+    "SalePrice": 830333.13,
+    "StockSymbol": "AFSI^D",
+    "PurchaseDate": "1/9/2001",
+    "SaleDate": "12/31/2006"
+  },
+  {
+    "BuyerName": "Charissa Cromblehome",
+    "PurchasePrice": 196958.76,
+    "SalePrice": 239400.44,
+    "StockSymbol": "HOS",
+    "PurchaseDate": "4/8/2015",
+    "SaleDate": "3/14/2019"
+  },
+  {
+    "BuyerName": "Gustie McDoual",
+    "PurchasePrice": 603602.46,
+    "SalePrice": 762991.53,
+    "StockSymbol": "KALV",
+    "PurchaseDate": "12/19/2003",
+    "SaleDate": "7/3/2006"
+  },
+  {
+    "BuyerName": "Eloisa Munslow",
+    "PurchasePrice": 528619.9,
+    "SalePrice": 860507.04,
+    "StockSymbol": "JHA",
+    "PurchaseDate": "1/21/2006",
+    "SaleDate": "2/11/2001"
+  },
+  {
+    "BuyerName": "Dita Gaine",
+    "PurchasePrice": 264916.86,
+    "SalePrice": 336418.57,
+    "StockSymbol": "TRGP",
+    "PurchaseDate": "2/2/2009",
+    "SaleDate": "7/25/2022"
+  },
+  {
+    "BuyerName": "Alanah Powlesland",
+    "PurchasePrice": 651068.42,
+    "SalePrice": 128350.85,
+    "StockSymbol": "ANDAW",
+    "PurchaseDate": "3/3/2003",
+    "SaleDate": "4/18/2020"
+  },
+  {
+    "BuyerName": "Anatole Saipy",
+    "PurchasePrice": 797491.93,
+    "SalePrice": 396061.13,
+    "StockSymbol": "ESNT",
+    "PurchaseDate": "1/28/2013",
+    "SaleDate": "1/2/2004"
+  },
+  {
+    "BuyerName": "Payton Pringley",
+    "PurchasePrice": 471681.31,
+    "SalePrice": 626850.75,
+    "StockSymbol": "MPW",
+    "PurchaseDate": "9/30/2004",
+    "SaleDate": "6/21/2000"
+  },
+  {
+    "BuyerName": "Antonia Tangye",
+    "PurchasePrice": 738770.84,
+    "SalePrice": 763994.37,
+    "StockSymbol": "CDC",
+    "PurchaseDate": "11/24/2012",
+    "SaleDate": "4/11/2002"
+  },
+  {
+    "BuyerName": "Herbie Bray",
+    "PurchasePrice": 924130.95,
+    "SalePrice": 448190.53,
+    "StockSymbol": "BXE",
+    "PurchaseDate": "10/15/2000",
+    "SaleDate": "12/18/2008"
+  },
+  {
+    "BuyerName": "Jacintha Poolman",
+    "PurchasePrice": 229384.75,
+    "SalePrice": 763071.97,
+    "StockSymbol": "SRE",
+    "PurchaseDate": "4/5/2020",
+    "SaleDate": "4/16/2020"
+  },
+  {
+    "BuyerName": "Stacee Castagnone",
+    "PurchasePrice": 567987.89,
+    "SalePrice": 308258.98,
+    "StockSymbol": "CLBS",
+    "PurchaseDate": "3/5/2016",
+    "SaleDate": "2/19/2011"
+  },
+  {
+    "BuyerName": "Obadias Davys",
+    "PurchasePrice": 420194.86,
+    "SalePrice": 58357.32,
+    "StockSymbol": "full_name",
+    "PurchaseDate": "7/30/2018",
+    "SaleDate": "3/12/2015"
+  },
+  {
+    "BuyerName": "Morse Tukely",
+    "PurchasePrice": 17174.39,
+    "SalePrice": 801421.26,
+    "StockSymbol": "NAC",
+    "PurchaseDate": "10/27/2017",
+    "SaleDate": "7/27/2003"
+  },
+  {
+    "BuyerName": "Louis Durn",
+    "PurchasePrice": 995530.97,
+    "SalePrice": 730981.64,
+    "StockSymbol": "IBKC",
+    "PurchaseDate": "5/28/2002",
+    "SaleDate": "2/9/2010"
+  },
+  {
+    "BuyerName": "Jacquelynn Aldham",
+    "PurchasePrice": 769858.33,
+    "SalePrice": 28984.25,
+    "StockSymbol": "SXE",
+    "PurchaseDate": "1/8/2009",
+    "SaleDate": "3/9/2016"
+  },
+  {
+    "BuyerName": "Imogene Muat",
+    "PurchasePrice": 722387.68,
+    "SalePrice": 170974.26,
+    "StockSymbol": "NGHCZ",
+    "PurchaseDate": "6/13/2011",
+    "SaleDate": "6/2/2021"
+  },
+  {
+    "BuyerName": "Ros Shrubsall",
+    "PurchasePrice": 103903.4,
+    "SalePrice": 603918.55,
+    "StockSymbol": "DTUL",
+    "PurchaseDate": "3/14/2010",
+    "SaleDate": "12/27/2020"
+  },
+  {
+    "BuyerName": "Rabi Philippault",
+    "PurchasePrice": 250351.83,
+    "SalePrice": 628743.51,
+    "StockSymbol": "HAWK",
+    "PurchaseDate": "10/18/2005",
+    "SaleDate": "10/15/2000"
+  },
+  {
+    "BuyerName": "Pearla Piscopiello",
+    "PurchasePrice": 443346.38,
+    "SalePrice": 402448.18,
+    "StockSymbol": "CMCM",
+    "PurchaseDate": "5/1/2022",
+    "SaleDate": "12/26/2020"
+  },
+  {
+    "BuyerName": "Cate Jeenes",
+    "PurchasePrice": 845541.24,
+    "SalePrice": 85815.5,
+    "StockSymbol": "ARH^C",
+    "PurchaseDate": "7/10/2002",
+    "SaleDate": "11/16/2013"
+  },
+  {
+    "BuyerName": "Shir Ramel",
+    "PurchasePrice": 94989.61,
+    "SalePrice": 655648.74,
+    "StockSymbol": "LUK",
+    "PurchaseDate": "8/8/2019",
+    "SaleDate": "8/7/2021"
+  },
+  {
+    "BuyerName": "Hermia Feake",
+    "PurchasePrice": 682501.76,
+    "SalePrice": 662525.35,
+    "StockSymbol": "DOV",
+    "PurchaseDate": "1/2/2016",
+    "SaleDate": "7/2/2002"
+  },
+  {
+    "BuyerName": "Margareta Neale",
+    "PurchasePrice": 32994.74,
+    "SalePrice": 907590.98,
+    "StockSymbol": "LINK",
+    "PurchaseDate": "3/29/2016",
+    "SaleDate": "1/11/2000"
+  },
+  {
+    "BuyerName": "Nelia Sibbet",
+    "PurchasePrice": 63281.65,
+    "SalePrice": 489851.05,
+    "StockSymbol": "VKQ",
+    "PurchaseDate": "7/11/2006",
+    "SaleDate": "8/24/2001"
+  },
+  {
+    "BuyerName": "Justina Puckring",
+    "PurchasePrice": 185092.53,
+    "SalePrice": 292510.68,
+    "StockSymbol": "WFC^X",
+    "PurchaseDate": "3/23/2005",
+    "SaleDate": "1/19/2019"
+  },
+  {
+    "BuyerName": "Karia Haacker",
+    "PurchasePrice": 582622.4,
+    "SalePrice": 601514.7,
+    "StockSymbol": "HUBS",
+    "PurchaseDate": "5/4/2002",
+    "SaleDate": "5/15/2019"
+  },
+  {
+    "BuyerName": "Doyle MacLachlan",
+    "PurchasePrice": 196639.67,
+    "SalePrice": 594194.33,
+    "StockSymbol": "BJZ",
+    "PurchaseDate": "2/3/2002",
+    "SaleDate": "12/28/2020"
+  },
+  {
+    "BuyerName": "Lorelei Duquesnay",
+    "PurchasePrice": 65669.9,
+    "SalePrice": 19698.74,
+    "StockSymbol": "PPHM",
+    "PurchaseDate": "5/5/2005",
+    "SaleDate": "11/19/2011"
+  },
+  {
+    "BuyerName": "Shelagh Eckley",
+    "PurchasePrice": 611160.42,
+    "SalePrice": 661447.52,
+    "StockSymbol": "CID",
+    "PurchaseDate": "2/9/2022",
+    "SaleDate": "7/26/2017"
+  },
+  {
+    "BuyerName": "Buckie Rivett",
+    "PurchasePrice": 490465.05,
+    "SalePrice": 971820.0,
+    "StockSymbol": "ZF",
+    "PurchaseDate": "1/23/2013",
+    "SaleDate": "3/9/2019"
+  },
+  {
+    "BuyerName": "Patrick Kee",
+    "PurchasePrice": 565922.56,
+    "SalePrice": 242853.7,
+    "StockSymbol": "HRMNU",
+    "PurchaseDate": "11/2/2014",
+    "SaleDate": "12/31/2008"
+  },
+  {
+    "BuyerName": "Alastair Shelmardine",
+    "PurchasePrice": 227485.01,
+    "SalePrice": 620334.45,
+    "StockSymbol": "SSW^E",
+    "PurchaseDate": "11/18/2021",
+    "SaleDate": "4/28/2011"
+  },
+  {
+    "BuyerName": "Eleanora Andrat",
+    "PurchasePrice": 746406.27,
+    "SalePrice": 866306.8,
+    "StockSymbol": "AGO",
+    "PurchaseDate": "12/9/2009",
+    "SaleDate": "11/5/2008"
+  },
+  {
+    "BuyerName": "Selma Reen",
+    "PurchasePrice": 651769.0,
+    "SalePrice": 386921.98,
+    "StockSymbol": "COVS",
+    "PurchaseDate": "3/16/2012",
+    "SaleDate": "11/28/2016"
+  },
+  {
+    "BuyerName": "Aigneis Chillingsworth",
+    "PurchasePrice": 698335.34,
+    "SalePrice": 205447.95,
+    "StockSymbol": "DTY",
+    "PurchaseDate": "12/1/2021",
+    "SaleDate": "7/28/2008"
+  },
+  {
+    "BuyerName": "Iver Kitteridge",
+    "PurchasePrice": 798633.44,
+    "SalePrice": 12521.2,
+    "StockSymbol": "ABCD",
+    "PurchaseDate": "1/30/2005",
+    "SaleDate": "6/11/2010"
+  },
+  {
+    "BuyerName": "Florinda Tointon",
+    "PurchasePrice": 417391.55,
+    "SalePrice": 287885.29,
+    "StockSymbol": "CA",
+    "PurchaseDate": "1/31/2013",
+    "SaleDate": "3/4/2019"
+  },
+  {
+    "BuyerName": "Lek Skelhorne",
+    "PurchasePrice": 10133.8,
+    "SalePrice": 746757.12,
+    "StockSymbol": "PBI",
+    "PurchaseDate": "3/21/2017",
+    "SaleDate": "8/11/2019"
+  },
+  {
+    "BuyerName": "Ferdy Simoncello",
+    "PurchasePrice": 836097.05,
+    "SalePrice": 418061.29,
+    "StockSymbol": "VNO^K",
+    "PurchaseDate": "4/16/2004",
+    "SaleDate": "1/17/2005"
+  },
+  {
+    "BuyerName": "Toddy Henrique",
+    "PurchasePrice": 110628.55,
+    "SalePrice": 484961.29,
+    "StockSymbol": "RDWR",
+    "PurchaseDate": "1/10/2008",
+    "SaleDate": "1/3/2004"
+  },
+  {
+    "BuyerName": "Annadiana Lightwing",
+    "PurchasePrice": 345313.77,
+    "SalePrice": 257109.06,
+    "StockSymbol": "ETN",
+    "PurchaseDate": "8/2/2000",
+    "SaleDate": "10/7/2018"
+  },
+  {
+    "BuyerName": "Gunner Korba",
+    "PurchasePrice": 480390.35,
+    "SalePrice": 208712.21,
+    "StockSymbol": "CHFS",
+    "PurchaseDate": "10/23/2015",
+    "SaleDate": "4/25/2001"
+  },
+  {
+    "BuyerName": "Kristal Brunsden",
+    "PurchasePrice": 300107.98,
+    "SalePrice": 413067.6,
+    "StockSymbol": "QHC",
+    "PurchaseDate": "11/25/2004",
+    "SaleDate": "11/25/2020"
+  },
+  {
+    "BuyerName": "Aloysius Brockton",
+    "PurchasePrice": 282815.93,
+    "SalePrice": 923477.86,
+    "StockSymbol": "SENEB",
+    "PurchaseDate": "8/13/2011",
+    "SaleDate": "1/10/2004"
+  },
+  {
+    "BuyerName": "Stormie Skones",
+    "PurchasePrice": 416520.97,
+    "SalePrice": 448341.54,
+    "StockSymbol": "LEXEA",
+    "PurchaseDate": "2/7/2006",
+    "SaleDate": "7/20/2014"
+  },
+  {
+    "BuyerName": "Dan Keizman",
+    "PurchasePrice": 390910.47,
+    "SalePrice": 500078.55,
+    "StockSymbol": "PRQR",
+    "PurchaseDate": "3/26/2020",
+    "SaleDate": "10/9/2011"
+  },
+  {
+    "BuyerName": "Forrester Bavridge",
+    "PurchasePrice": 420509.45,
+    "SalePrice": 641605.44,
+    "StockSymbol": "OSN",
+    "PurchaseDate": "9/2/2003",
+    "SaleDate": "7/8/2009"
+  },
+  {
+    "BuyerName": "Susette Caulwell",
+    "PurchasePrice": 87827.0,
+    "SalePrice": 791847.82,
+    "StockSymbol": "PME",
+    "PurchaseDate": "9/10/2004",
+    "SaleDate": "8/5/2017"
+  },
+  {
+    "BuyerName": "Rosita Kleinmann",
+    "PurchasePrice": 459383.12,
+    "SalePrice": 250612.44,
+    "StockSymbol": "NEWR",
+    "PurchaseDate": "11/19/2010",
+    "SaleDate": "3/27/2001"
+  },
+  {
+    "BuyerName": "Carolann Farquharson",
+    "PurchasePrice": 968531.17,
+    "SalePrice": 843141.59,
+    "StockSymbol": "KEYW",
+    "PurchaseDate": "2/1/2006",
+    "SaleDate": "11/1/2018"
+  },
+  {
+    "BuyerName": "Shepperd Caselli",
+    "PurchasePrice": 410471.23,
+    "SalePrice": 955872.37,
+    "StockSymbol": "HIVE",
+    "PurchaseDate": "10/27/2004",
+    "SaleDate": "10/28/2005"
+  },
+  {
+    "BuyerName": "Urson Featherston",
+    "PurchasePrice": 228982.66,
+    "SalePrice": 952351.65,
+    "StockSymbol": "Q",
+    "PurchaseDate": "8/21/2015",
+    "SaleDate": "2/8/2007"
+  },
+  {
+    "BuyerName": "Penny Wallach",
+    "PurchasePrice": 73231.63,
+    "SalePrice": 544653.78,
+    "StockSymbol": "BEP",
+    "PurchaseDate": "12/7/2018",
+    "SaleDate": "6/11/2005"
+  },
+  {
+    "BuyerName": "Marve Warton",
+    "PurchasePrice": 433841.8,
+    "SalePrice": 970672.66,
+    "StockSymbol": "WRE",
+    "PurchaseDate": "12/1/2016",
+    "SaleDate": "4/25/2018"
+  },
+  {
+    "BuyerName": "Alden Grindell",
+    "PurchasePrice": 533101.06,
+    "SalePrice": 629373.66,
+    "StockSymbol": "LRAD",
+    "PurchaseDate": "9/10/2012",
+    "SaleDate": "12/15/2015"
+  },
+  {
+    "BuyerName": "Moyna Buglass",
+    "PurchasePrice": 324915.22,
+    "SalePrice": 398944.67,
+    "StockSymbol": "BAX",
+    "PurchaseDate": "1/25/2021",
+    "SaleDate": "4/29/2018"
+  },
+  {
+    "BuyerName": "Wally Kix",
+    "PurchasePrice": 370786.06,
+    "SalePrice": 6462.84,
+    "StockSymbol": "WIN",
+    "PurchaseDate": "12/12/2009",
+    "SaleDate": "1/16/2012"
+  },
+  {
+    "BuyerName": "Stirling Galland",
+    "PurchasePrice": 584095.55,
+    "SalePrice": 737965.92,
+    "StockSymbol": "NVLN",
+    "PurchaseDate": "2/27/2016",
+    "SaleDate": "2/5/2012"
+  },
+  {
+    "BuyerName": "Aubine Macieiczyk",
+    "PurchasePrice": 152689.96,
+    "SalePrice": 101220.69,
+    "StockSymbol": "SWZ",
+    "PurchaseDate": "5/16/2016",
+    "SaleDate": "4/30/2018"
+  },
+  {
+    "BuyerName": "Padriac Sneden",
+    "PurchasePrice": 329859.06,
+    "SalePrice": 256947.75,
+    "StockSymbol": "PTX",
+    "PurchaseDate": "10/1/2022",
+    "SaleDate": "7/26/2009"
+  },
+  {
+    "BuyerName": "Jena Debell",
+    "PurchasePrice": 156296.74,
+    "SalePrice": 59029.22,
+    "StockSymbol": "KELYA",
+    "PurchaseDate": "12/27/2004",
+    "SaleDate": "9/19/2016"
+  },
+  {
+    "BuyerName": "Waite Work",
+    "PurchasePrice": 429604.35,
+    "SalePrice": 976153.98,
+    "StockSymbol": "JCTCF",
+    "PurchaseDate": "12/28/2013",
+    "SaleDate": "4/4/2021"
+  },
+  {
+    "BuyerName": "Ajay Kiddye",
+    "PurchasePrice": 171414.22,
+    "SalePrice": 979073.56,
+    "StockSymbol": "CEMI",
+    "PurchaseDate": "2/25/2011",
+    "SaleDate": "4/26/2014"
+  },
+  {
+    "BuyerName": "Anica Mitford",
+    "PurchasePrice": 51837.98,
+    "SalePrice": 242304.98,
+    "StockSymbol": "NDRA",
+    "PurchaseDate": "6/17/2021",
+    "SaleDate": "2/11/2021"
+  },
+  {
+    "BuyerName": "Betsey Biggadike",
+    "PurchasePrice": 247782.29,
+    "SalePrice": 203051.86,
+    "StockSymbol": "ASR",
+    "PurchaseDate": "4/8/2008",
+    "SaleDate": "4/27/2020"
+  },
+  {
+    "BuyerName": "Roy Belvin",
+    "PurchasePrice": 851526.37,
+    "SalePrice": 80881.5,
+    "StockSymbol": "PSF",
+    "PurchaseDate": "3/20/2003",
+    "SaleDate": "10/16/2021"
+  },
+  {
+    "BuyerName": "Shelton Loxton",
+    "PurchasePrice": 575100.62,
+    "SalePrice": 574864.91,
+    "StockSymbol": "TGP^A",
+    "PurchaseDate": "10/19/2017",
+    "SaleDate": "10/14/2005"
+  },
+  {
+    "BuyerName": "Nellie Ricca",
+    "PurchasePrice": 353590.06,
+    "SalePrice": 760364.23,
+    "StockSymbol": "NE",
+    "PurchaseDate": "2/19/2007",
+    "SaleDate": "11/10/2011"
+  },
+  {
+    "BuyerName": "Ceil Le Blond",
+    "PurchasePrice": 887405.9,
+    "SalePrice": 398986.15,
+    "StockSymbol": "OPTT",
+    "PurchaseDate": "8/25/2009",
+    "SaleDate": "10/9/2018"
+  },
+  {
+    "BuyerName": "Noam Denisot",
+    "PurchasePrice": 314361.83,
+    "SalePrice": 859067.38,
+    "StockSymbol": "ZBH",
+    "PurchaseDate": "7/8/2006",
+    "SaleDate": "2/24/2017"
+  },
+  {
+    "BuyerName": "Vince Gilham",
+    "PurchasePrice": 622022.91,
+    "SalePrice": 82542.47,
+    "StockSymbol": "AGYS",
+    "PurchaseDate": "4/23/2013",
+    "SaleDate": "12/1/2022"
+  },
+  {
+    "BuyerName": "Falito Kemer",
+    "PurchasePrice": 900661.67,
+    "SalePrice": 438024.32,
+    "StockSymbol": "ELF",
+    "PurchaseDate": "12/21/2009",
+    "SaleDate": "12/15/2019"
+  },
+  {
+    "BuyerName": "Chad Yerson",
+    "PurchasePrice": 45990.52,
+    "SalePrice": 961669.16,
+    "StockSymbol": "MBWM",
+    "PurchaseDate": "12/9/2009",
+    "SaleDate": "1/25/2007"
+  },
+  {
+    "BuyerName": "Deedee Boath",
+    "PurchasePrice": 880080.51,
+    "SalePrice": 875553.13,
+    "StockSymbol": "PES",
+    "PurchaseDate": "11/24/2021",
+    "SaleDate": "4/27/2002"
+  },
+  {
+    "BuyerName": "Sebastiano Starbeck",
+    "PurchasePrice": 565512.95,
+    "SalePrice": 229811.53,
+    "StockSymbol": "AWR",
+    "PurchaseDate": "7/14/2016",
+    "SaleDate": "8/26/2002"
+  },
+  {
+    "BuyerName": "Skyler Petroff",
+    "PurchasePrice": 594306.4,
+    "SalePrice": 423129.85,
+    "StockSymbol": "CTT           ",
+    "PurchaseDate": "9/8/2012",
+    "SaleDate": "12/7/2003"
+  },
+  {
+    "BuyerName": "Parke Meeke",
+    "PurchasePrice": 54555.92,
+    "SalePrice": 758631.95,
+    "StockSymbol": "FOANC",
+    "PurchaseDate": "11/11/2001",
+    "SaleDate": "3/13/2021"
+  },
+  {
+    "BuyerName": "Madison Siderfin",
+    "PurchasePrice": 388929.61,
+    "SalePrice": 38459.04,
+    "StockSymbol": "MYE",
+    "PurchaseDate": "9/13/2013",
+    "SaleDate": "12/24/2005"
+  },
+  {
+    "BuyerName": "Kandy Sapsed",
+    "PurchasePrice": 915304.31,
+    "SalePrice": 274237.08,
+    "StockSymbol": "GYRO",
+    "PurchaseDate": "12/16/2019",
+    "SaleDate": "12/9/2016"
+  },
+  {
+    "BuyerName": "Sallyann Russell",
+    "PurchasePrice": 839758.16,
+    "SalePrice": 55498.69,
+    "StockSymbol": "WFC.WS",
+    "PurchaseDate": "5/15/2011",
+    "SaleDate": "5/1/2002"
+  },
+  {
+    "BuyerName": "Merilyn Luke",
+    "PurchasePrice": 256197.83,
+    "SalePrice": 289637.4,
+    "StockSymbol": "CAH",
+    "PurchaseDate": "9/15/2006",
+    "SaleDate": "6/6/2010"
+  },
+  {
+    "BuyerName": "Thorstein Aisthorpe",
+    "PurchasePrice": 367695.68,
+    "SalePrice": 650036.65,
+    "StockSymbol": "DX",
+    "PurchaseDate": "11/1/2004",
+    "SaleDate": "10/26/2002"
+  },
+  {
+    "BuyerName": "Honoria Janeczek",
+    "PurchasePrice": 769506.94,
+    "SalePrice": 124123.4,
+    "StockSymbol": "NYCB^A",
+    "PurchaseDate": "12/15/2011",
+    "SaleDate": "4/12/2014"
+  },
+  {
+    "BuyerName": "Tammy Tither",
+    "PurchasePrice": 956579.33,
+    "SalePrice": 238467.85,
+    "StockSymbol": "ALJJ",
+    "PurchaseDate": "8/31/2019",
+    "SaleDate": "6/5/2002"
+  },
+  {
+    "BuyerName": "Olympe Chevers",
+    "PurchasePrice": 762261.9,
+    "SalePrice": 178073.24,
+    "StockSymbol": "SSFN",
+    "PurchaseDate": "6/19/2000",
+    "SaleDate": "10/6/2003"
+  },
+  {
+    "BuyerName": "Evonne Marini",
+    "PurchasePrice": 794846.03,
+    "SalePrice": 91199.71,
+    "StockSymbol": "IP",
+    "PurchaseDate": "7/7/2001",
+    "SaleDate": "6/3/2005"
+  },
+  {
+    "BuyerName": "Ernst Johnikin",
+    "PurchasePrice": 60283.98,
+    "SalePrice": 536409.36,
+    "StockSymbol": "EDUC",
+    "PurchaseDate": "11/18/2016",
+    "SaleDate": "11/29/2016"
+  },
+  {
+    "BuyerName": "Roderic Gouldthorpe",
+    "PurchasePrice": 241141.55,
+    "SalePrice": 297219.56,
+    "StockSymbol": "DWCH",
+    "PurchaseDate": "4/25/2007",
+    "SaleDate": "3/29/2000"
+  },
+  {
+    "BuyerName": "Nataline Breckwell",
+    "PurchasePrice": 583385.78,
+    "SalePrice": 536449.0,
+    "StockSymbol": "JASNW",
+    "PurchaseDate": "4/27/2013",
+    "SaleDate": "7/6/2022"
+  },
+  {
+    "BuyerName": "Burtie Erdely",
+    "PurchasePrice": 629232.58,
+    "SalePrice": 432641.77,
+    "StockSymbol": "AHH",
+    "PurchaseDate": "7/23/2010",
+    "SaleDate": "12/15/2012"
+  },
+  {
+    "BuyerName": "Dulcy Ox",
+    "PurchasePrice": 535447.93,
+    "SalePrice": 725881.89,
+    "StockSymbol": "NC",
+    "PurchaseDate": "9/30/2012",
+    "SaleDate": "10/17/2008"
+  },
+  {
+    "BuyerName": "Courtenay Dullard",
+    "PurchasePrice": 917172.71,
+    "SalePrice": 74758.33,
+    "StockSymbol": "BEBE",
+    "PurchaseDate": "6/30/2017",
+    "SaleDate": "12/7/2011"
+  },
+  {
+    "BuyerName": "Max Dofty",
+    "PurchasePrice": 519957.91,
+    "SalePrice": 259318.22,
+    "StockSymbol": "KOS",
+    "PurchaseDate": "5/27/2015",
+    "SaleDate": "6/7/2009"
+  },
+  {
+    "BuyerName": "Magdaia Happs",
+    "PurchasePrice": 195491.33,
+    "SalePrice": 619533.18,
+    "StockSymbol": "NEE^G",
+    "PurchaseDate": "2/5/2008",
+    "SaleDate": "7/2/2020"
+  },
+  {
+    "BuyerName": "Dion Sorro",
+    "PurchasePrice": 564390.82,
+    "SalePrice": 730649.19,
+    "StockSymbol": "DFP",
+    "PurchaseDate": "5/20/2017",
+    "SaleDate": "4/13/2013"
+  },
+  {
+    "BuyerName": "Corabella Assel",
+    "PurchasePrice": 683566.14,
+    "SalePrice": 921171.99,
+    "StockSymbol": "DEPO",
+    "PurchaseDate": "6/17/2012",
+    "SaleDate": "5/31/2019"
+  },
+  {
+    "BuyerName": "Bear Gilardoni",
+    "PurchasePrice": 267193.36,
+    "SalePrice": 528502.83,
+    "StockSymbol": "MX",
+    "PurchaseDate": "1/27/2012",
+    "SaleDate": "1/7/2010"
+  },
+  {
+    "BuyerName": "Cristi Sneezum",
+    "PurchasePrice": 723352.44,
+    "SalePrice": 363610.5,
+    "StockSymbol": "CHCI",
+    "PurchaseDate": "2/5/2020",
+    "SaleDate": "8/14/2014"
+  },
+  {
+    "BuyerName": "Melisa Glenton",
+    "PurchasePrice": 223970.79,
+    "SalePrice": 297211.24,
+    "StockSymbol": "CAE",
+    "PurchaseDate": "3/23/2012",
+    "SaleDate": "12/8/2020"
+  },
+  {
+    "BuyerName": "Inge Mival",
+    "PurchasePrice": 598514.2,
+    "SalePrice": 366919.17,
+    "StockSymbol": "EVOL",
+    "PurchaseDate": "8/8/2003",
+    "SaleDate": "3/23/2010"
+  },
+  {
+    "BuyerName": "Shaylah Carryer",
+    "PurchasePrice": 912278.17,
+    "SalePrice": 44540.64,
+    "StockSymbol": "CBB",
+    "PurchaseDate": "1/3/2017",
+    "SaleDate": "5/14/2001"
+  },
+  {
+    "BuyerName": "Aggi Ostrich",
+    "PurchasePrice": 73774.48,
+    "SalePrice": 844324.87,
+    "StockSymbol": "AQMS",
+    "PurchaseDate": "8/27/2002",
+    "SaleDate": "4/23/2017"
+  },
+  {
+    "BuyerName": "Harlie Hambly",
+    "PurchasePrice": 533940.71,
+    "SalePrice": 662830.02,
+    "StockSymbol": "STK",
+    "PurchaseDate": "12/24/2018",
+    "SaleDate": "7/22/2005"
+  },
+  {
+    "BuyerName": "Peg Blowick",
+    "PurchasePrice": 307776.1,
+    "SalePrice": 384777.63,
+    "StockSymbol": "GWRE",
+    "PurchaseDate": "10/11/2017",
+    "SaleDate": "5/17/2011"
+  },
+  {
+    "BuyerName": "Branden Sturte",
+    "PurchasePrice": 280690.67,
+    "SalePrice": 221991.99,
+    "StockSymbol": "RDUS",
+    "PurchaseDate": "6/15/2016",
+    "SaleDate": "7/3/2022"
+  },
+  {
+    "BuyerName": "Tremain Huntly",
+    "PurchasePrice": 502563.45,
+    "SalePrice": 510394.68,
+    "StockSymbol": "CSL",
+    "PurchaseDate": "4/29/2001",
+    "SaleDate": "6/27/2012"
+  },
+  {
+    "BuyerName": "Cyndie Wahncke",
+    "PurchasePrice": 21602.3,
+    "SalePrice": 36869.14,
+    "StockSymbol": "UCFC",
+    "PurchaseDate": "6/20/2003",
+    "SaleDate": "9/24/2003"
+  },
+  {
+    "BuyerName": "Annadiana Stoven",
+    "PurchasePrice": 447513.84,
+    "SalePrice": 865131.79,
+    "StockSymbol": "KFY",
+    "PurchaseDate": "2/13/2006",
+    "SaleDate": "3/31/2010"
+  },
+  {
+    "BuyerName": "Alberik Stoak",
+    "PurchasePrice": 881571.23,
+    "SalePrice": 151647.92,
+    "StockSymbol": "PHIIK",
+    "PurchaseDate": "1/22/2022",
+    "SaleDate": "5/30/2006"
+  },
+  {
+    "BuyerName": "Cristie Hanson",
+    "PurchasePrice": 453195.05,
+    "SalePrice": 576030.33,
+    "StockSymbol": "AJX",
+    "PurchaseDate": "8/2/2013",
+    "SaleDate": "5/12/2005"
+  },
+  {
+    "BuyerName": "Jock Alywin",
+    "PurchasePrice": 154466.71,
+    "SalePrice": 656587.17,
+    "StockSymbol": "TFX",
+    "PurchaseDate": "4/18/2003",
+    "SaleDate": "5/23/2002"
+  },
+  {
+    "BuyerName": "Odell Huguenet",
+    "PurchasePrice": 86661.07,
+    "SalePrice": 487317.77,
+    "StockSymbol": "MBWM",
+    "PurchaseDate": "6/19/2004",
+    "SaleDate": "8/17/2001"
+  },
+  {
+    "BuyerName": "Mario Minchinton",
+    "PurchasePrice": 615892.26,
+    "SalePrice": 73563.47,
+    "StockSymbol": "LLL",
+    "PurchaseDate": "1/18/2006",
+    "SaleDate": "4/28/2016"
+  },
+  {
+    "BuyerName": "Brook McSharry",
+    "PurchasePrice": 436455.76,
+    "SalePrice": 455183.88,
+    "StockSymbol": "CSV",
+    "PurchaseDate": "3/20/2008",
+    "SaleDate": "10/4/2017"
+  },
+  {
+    "BuyerName": "Shanan Culverhouse",
+    "PurchasePrice": 874640.53,
+    "SalePrice": 343666.5,
+    "StockSymbol": "ALLY^A",
+    "PurchaseDate": "10/2/2001",
+    "SaleDate": "11/13/2011"
+  },
+  {
+    "BuyerName": "Salvador Biasi",
+    "PurchasePrice": 649593.67,
+    "SalePrice": 655700.11,
+    "StockSymbol": "GIL",
+    "PurchaseDate": "5/28/2008",
+    "SaleDate": "8/17/2009"
+  },
+  {
+    "BuyerName": "Margarette Yukhnev",
+    "PurchasePrice": 960532.47,
+    "SalePrice": 470382.49,
+    "StockSymbol": "MOFG",
+    "PurchaseDate": "11/24/2006",
+    "SaleDate": "4/12/2003"
+  },
+  {
+    "BuyerName": "Parnell Elis",
+    "PurchasePrice": 535056.67,
+    "SalePrice": 489593.74,
+    "StockSymbol": "AFSS",
+    "PurchaseDate": "9/3/2003",
+    "SaleDate": "6/3/2016"
+  },
+  {
+    "BuyerName": "Deidre Reboulet",
+    "PurchasePrice": 739265.72,
+    "SalePrice": 571066.74,
+    "StockSymbol": "EMCB",
+    "PurchaseDate": "3/28/2009",
+    "SaleDate": "8/27/2013"
+  },
+  {
+    "BuyerName": "Agna Stood",
+    "PurchasePrice": 508513.81,
+    "SalePrice": 44727.48,
+    "StockSymbol": "NR",
+    "PurchaseDate": "10/2/2005",
+    "SaleDate": "2/8/2020"
+  },
+  {
+    "BuyerName": "Wendall Braim",
+    "PurchasePrice": 375843.93,
+    "SalePrice": 177994.49,
+    "StockSymbol": "RMGN",
+    "PurchaseDate": "2/6/2017",
+    "SaleDate": "2/7/2002"
+  },
+  {
+    "BuyerName": "Madelaine Rozzier",
+    "PurchasePrice": 57528.67,
+    "SalePrice": 878869.24,
+    "StockSymbol": "BIVV",
+    "PurchaseDate": "4/28/2020",
+    "SaleDate": "10/2/2022"
+  },
+  {
+    "BuyerName": "Rafa Bragger",
+    "PurchasePrice": 338262.75,
+    "SalePrice": 14410.85,
+    "StockSymbol": "ESRT",
+    "PurchaseDate": "9/28/2007",
+    "SaleDate": "11/22/2014"
+  },
+  {
+    "BuyerName": "Meridith Pitkins",
+    "PurchasePrice": 97776.28,
+    "SalePrice": 336990.69,
+    "StockSymbol": "ENIA",
+    "PurchaseDate": "6/18/2020",
+    "SaleDate": "2/16/2015"
+  },
+  {
+    "BuyerName": "Arnoldo Lente",
+    "PurchasePrice": 142386.53,
+    "SalePrice": 323626.9,
+    "StockSymbol": "DHI",
+    "PurchaseDate": "9/14/2012",
+    "SaleDate": "3/5/2018"
+  },
+  {
+    "BuyerName": "Linda Hansom",
+    "PurchasePrice": 356618.45,
+    "SalePrice": 868720.96,
+    "StockSymbol": "VPG",
+    "PurchaseDate": "4/24/2003",
+    "SaleDate": "10/4/2004"
+  },
+  {
+    "BuyerName": "Sonnie Zolini",
+    "PurchasePrice": 213140.91,
+    "SalePrice": 107331.43,
+    "StockSymbol": "MKC",
+    "PurchaseDate": "11/18/2014",
+    "SaleDate": "1/20/2018"
+  },
+  {
+    "BuyerName": "Amelina Authers",
+    "PurchasePrice": 452560.29,
+    "SalePrice": 955071.07,
+    "StockSymbol": "PKE",
+    "PurchaseDate": "6/19/2004",
+    "SaleDate": "7/24/2008"
+  },
+  {
+    "BuyerName": "Jillian Rolfo",
+    "PurchasePrice": 61515.82,
+    "SalePrice": 655770.43,
+    "StockSymbol": "GTYHW",
+    "PurchaseDate": "10/9/2013",
+    "SaleDate": "8/24/2008"
+  },
+  {
+    "BuyerName": "Roselia Horsted",
+    "PurchasePrice": 94087.49,
+    "SalePrice": 493039.52,
+    "StockSymbol": "PX",
+    "PurchaseDate": "1/14/2022",
+    "SaleDate": "1/21/2005"
+  },
+  {
+    "BuyerName": "Theodore McShirie",
+    "PurchasePrice": 375086.29,
+    "SalePrice": 494655.76,
+    "StockSymbol": "TJX",
+    "PurchaseDate": "12/6/2013",
+    "SaleDate": "9/4/2000"
+  },
+  {
+    "BuyerName": "Anselma Milmoe",
+    "PurchasePrice": 843083.9,
+    "SalePrice": 95403.08,
+    "StockSymbol": "KWEB",
+    "PurchaseDate": "10/25/2013",
+    "SaleDate": "10/31/2002"
+  },
+  {
+    "BuyerName": "Korie Fennelly",
+    "PurchasePrice": 52962.79,
+    "SalePrice": 577925.97,
+    "StockSymbol": "SBNYW",
+    "PurchaseDate": "8/29/2014",
+    "SaleDate": "5/23/2018"
+  },
+  {
+    "BuyerName": "Melony Lambotin",
+    "PurchasePrice": 375760.27,
+    "SalePrice": 164907.4,
+    "StockSymbol": "KKR",
+    "PurchaseDate": "11/30/2012",
+    "SaleDate": "8/20/2022"
+  },
+  {
+    "BuyerName": "Addison Matyashev",
+    "PurchasePrice": 712946.79,
+    "SalePrice": 924818.92,
+    "StockSymbol": "EDAP",
+    "PurchaseDate": "2/3/2006",
+    "SaleDate": "7/10/2011"
+  },
+  {
+    "BuyerName": "Clari Kershow",
+    "PurchasePrice": 598014.49,
+    "SalePrice": 661505.54,
+    "StockSymbol": "SNE",
+    "PurchaseDate": "7/17/2004",
+    "SaleDate": "12/10/2017"
+  },
+  {
+    "BuyerName": "Henriette Walisiak",
+    "PurchasePrice": 185233.05,
+    "SalePrice": 429308.11,
+    "StockSymbol": "BHL",
+    "PurchaseDate": "8/22/2001",
+    "SaleDate": "1/26/2017"
+  },
+  {
+    "BuyerName": "Lisa Revelle",
+    "PurchasePrice": 327598.07,
+    "SalePrice": 481342.25,
+    "StockSymbol": "STE",
+    "PurchaseDate": "4/13/2019",
+    "SaleDate": "5/1/2014"
+  },
+  {
+    "BuyerName": "Courtnay Madre",
+    "PurchasePrice": 598179.43,
+    "SalePrice": 444745.96,
+    "StockSymbol": "RIBTW",
+    "PurchaseDate": "2/23/2003",
+    "SaleDate": "11/5/2014"
+  },
+  {
+    "BuyerName": "Win Kobpal",
+    "PurchasePrice": 708647.24,
+    "SalePrice": 416804.79,
+    "StockSymbol": "WFC^O",
+    "PurchaseDate": "11/25/2005",
+    "SaleDate": "9/13/2002"
+  },
+  {
+    "BuyerName": "Gabriello Loving",
+    "PurchasePrice": 280251.79,
+    "SalePrice": 992440.88,
+    "StockSymbol": "SFUN",
+    "PurchaseDate": "7/25/2011",
+    "SaleDate": "7/29/2018"
+  },
+  {
+    "BuyerName": "Skipper Hadny",
+    "PurchasePrice": 890286.58,
+    "SalePrice": 953311.85,
+    "StockSymbol": "GEVO",
+    "PurchaseDate": "2/23/2007",
+    "SaleDate": "9/7/2000"
+  },
+  {
+    "BuyerName": "Luca Veldens",
+    "PurchasePrice": 567141.83,
+    "SalePrice": 87004.66,
+    "StockSymbol": "NGHCP",
+    "PurchaseDate": "11/7/2002",
+    "SaleDate": "4/4/2002"
+  },
+  {
+    "BuyerName": "Marrilee Wolford",
+    "PurchasePrice": 977067.03,
+    "SalePrice": 158162.37,
+    "StockSymbol": "NCZ",
+    "PurchaseDate": "9/26/2016",
+    "SaleDate": "12/9/2001"
+  },
+  {
+    "BuyerName": "Joceline McCuffie",
+    "PurchasePrice": 109904.46,
+    "SalePrice": 187832.6,
+    "StockSymbol": "CHSP",
+    "PurchaseDate": "6/10/2004",
+    "SaleDate": "6/20/2015"
+  },
+  {
+    "BuyerName": "Mick MacAlpine",
+    "PurchasePrice": 472259.79,
+    "SalePrice": 556101.36,
+    "StockSymbol": "IBM",
+    "PurchaseDate": "3/16/2017",
+    "SaleDate": "7/24/2021"
+  },
+  {
+    "BuyerName": "Adriane Graundisson",
+    "PurchasePrice": 621704.08,
+    "SalePrice": 344023.46,
+    "StockSymbol": "TEDU",
+    "PurchaseDate": "3/1/2015",
+    "SaleDate": "6/14/2004"
+  },
+  {
+    "BuyerName": "Goraud Zannetti",
+    "PurchasePrice": 139194.47,
+    "SalePrice": 587972.5,
+    "StockSymbol": "CHSCN",
+    "PurchaseDate": "7/26/2019",
+    "SaleDate": "6/8/2016"
+  },
+  {
+    "BuyerName": "Carter Fish",
+    "PurchasePrice": 441532.07,
+    "SalePrice": 136299.84,
+    "StockSymbol": "HIW",
+    "PurchaseDate": "10/1/2016",
+    "SaleDate": "2/5/2009"
+  },
+  {
+    "BuyerName": "Rosco Downe",
+    "PurchasePrice": 639985.93,
+    "SalePrice": 417180.84,
+    "StockSymbol": "HDB",
+    "PurchaseDate": "5/17/2021",
+    "SaleDate": "12/27/2006"
+  },
+  {
+    "BuyerName": "Chaddie Castelletti",
+    "PurchasePrice": 975486.27,
+    "SalePrice": 914708.19,
+    "StockSymbol": "HDB",
+    "PurchaseDate": "10/15/2013",
+    "SaleDate": "6/27/2017"
+  },
+  {
+    "BuyerName": "Ann-marie De Moreno",
+    "PurchasePrice": 774851.52,
+    "SalePrice": 804338.41,
+    "StockSymbol": "EWZS",
+    "PurchaseDate": "3/25/2016",
+    "SaleDate": "3/29/2014"
+  },
+  {
+    "BuyerName": "Urbano Toland",
+    "PurchasePrice": 347848.09,
+    "SalePrice": 287820.36,
+    "StockSymbol": "INSI",
+    "PurchaseDate": "11/5/2001",
+    "SaleDate": "8/7/2013"
+  },
+  {
+    "BuyerName": "Linea Sisnett",
+    "PurchasePrice": 835719.09,
+    "SalePrice": 56283.85,
+    "StockSymbol": "NS",
+    "PurchaseDate": "7/23/2010",
+    "SaleDate": "11/8/2011"
+  },
+  {
+    "BuyerName": "Karleen Thorneywork",
+    "PurchasePrice": 863738.73,
+    "SalePrice": 632433.86,
+    "StockSymbol": "NXQ",
+    "PurchaseDate": "1/9/2001",
+    "SaleDate": "6/13/2022"
+  },
+  {
+    "BuyerName": "Shell St. Clair",
+    "PurchasePrice": 646889.71,
+    "SalePrice": 937189.43,
+    "StockSymbol": "BWINA",
+    "PurchaseDate": "8/4/2019",
+    "SaleDate": "1/19/2010"
+  },
+  {
+    "BuyerName": "Lindie Pordal",
+    "PurchasePrice": 648671.72,
+    "SalePrice": 533286.33,
+    "StockSymbol": "IAE",
+    "PurchaseDate": "2/14/2012",
+    "SaleDate": "11/14/2005"
+  },
+  {
+    "BuyerName": "Aaron Vowden",
+    "PurchasePrice": 648647.99,
+    "SalePrice": 943228.52,
+    "StockSymbol": "RT",
+    "PurchaseDate": "1/1/2005",
+    "SaleDate": "12/8/2022"
+  },
+  {
+    "BuyerName": "Erick Bowkley",
+    "PurchasePrice": 706251.27,
+    "SalePrice": 854166.87,
+    "StockSymbol": "BFIN",
+    "PurchaseDate": "7/8/2015",
+    "SaleDate": "6/25/2010"
+  },
+  {
+    "BuyerName": "Ginni Oakenfall",
+    "PurchasePrice": 649741.28,
+    "SalePrice": 550092.84,
+    "StockSymbol": "BHL",
+    "PurchaseDate": "9/18/2001",
+    "SaleDate": "2/8/2007"
+  },
+  {
+    "BuyerName": "Wayland Owlner",
+    "PurchasePrice": 522579.16,
+    "SalePrice": 259576.17,
+    "StockSymbol": "YUM",
+    "PurchaseDate": "8/25/2012",
+    "SaleDate": "3/6/2016"
+  },
+  {
+    "BuyerName": "Buddy Kabisch",
+    "PurchasePrice": 74084.03,
+    "SalePrice": 297311.47,
+    "StockSymbol": "FJP",
+    "PurchaseDate": "1/31/2012",
+    "SaleDate": "6/27/2014"
+  },
+  {
+    "BuyerName": "Tisha Flemmich",
+    "PurchasePrice": 179934.72,
+    "SalePrice": 167189.21,
+    "StockSymbol": "AHT^G",
+    "PurchaseDate": "7/17/2005",
+    "SaleDate": "4/18/2008"
+  },
+  {
+    "BuyerName": "Sapphira Tingey",
+    "PurchasePrice": 595633.9,
+    "SalePrice": 267496.88,
+    "StockSymbol": "KOP",
+    "PurchaseDate": "9/8/2021",
+    "SaleDate": "12/22/2004"
+  },
+  {
+    "BuyerName": "Goddard Vaud",
+    "PurchasePrice": 966282.74,
+    "SalePrice": 202958.98,
+    "StockSymbol": "NNDM",
+    "PurchaseDate": "4/20/2001",
+    "SaleDate": "5/19/2008"
+  },
+  {
+    "BuyerName": "Cesare Emslie",
+    "PurchasePrice": 690189.77,
+    "SalePrice": 146398.73,
+    "StockSymbol": "BKE",
+    "PurchaseDate": "7/31/2009",
+    "SaleDate": "4/12/2006"
+  },
+  {
+    "BuyerName": "Fern Trevain",
+    "PurchasePrice": 38365.87,
+    "SalePrice": 906334.36,
+    "StockSymbol": "CYBR",
+    "PurchaseDate": "3/24/2005",
+    "SaleDate": "7/11/2022"
+  },
+  {
+    "BuyerName": "Carey Treweke",
+    "PurchasePrice": 261744.09,
+    "SalePrice": 197022.72,
+    "StockSymbol": "JOUT",
+    "PurchaseDate": "9/23/2016",
+    "SaleDate": "3/9/2010"
+  },
+  {
+    "BuyerName": "Inessa Poveleye",
+    "PurchasePrice": 199972.92,
+    "SalePrice": 316273.77,
+    "StockSymbol": "AFI",
+    "PurchaseDate": "8/28/2006",
+    "SaleDate": "3/30/2005"
+  },
+  {
+    "BuyerName": "Jens Annott",
+    "PurchasePrice": 466997.84,
+    "SalePrice": 301972.62,
+    "StockSymbol": "VSLR",
+    "PurchaseDate": "2/18/2000",
+    "SaleDate": "2/9/2001"
+  },
+  {
+    "BuyerName": "Cesya Dray",
+    "PurchasePrice": 315643.56,
+    "SalePrice": 563739.76,
+    "StockSymbol": "ELLI",
+    "PurchaseDate": "12/1/2000",
+    "SaleDate": "7/15/2017"
+  },
+  {
+    "BuyerName": "Corbie Rosita",
+    "PurchasePrice": 765507.39,
+    "SalePrice": 786522.25,
+    "StockSymbol": "SRG",
+    "PurchaseDate": "2/23/2008",
+    "SaleDate": "11/26/2006"
+  },
+  {
+    "BuyerName": "Blanche McRinn",
+    "PurchasePrice": 771596.06,
+    "SalePrice": 235608.7,
+    "StockSymbol": "FRC",
+    "PurchaseDate": "4/15/2011",
+    "SaleDate": "12/31/2011"
+  },
+  {
+    "BuyerName": "Izak Jost",
+    "PurchasePrice": 525517.9,
+    "SalePrice": 209909.16,
+    "StockSymbol": "VNQI",
+    "PurchaseDate": "1/29/2012",
+    "SaleDate": "9/27/2015"
+  },
+  {
+    "BuyerName": "Courtney Franceschino",
+    "PurchasePrice": 702655.77,
+    "SalePrice": 527645.31,
+    "StockSymbol": "ITI",
+    "PurchaseDate": "1/4/2017",
+    "SaleDate": "10/17/2016"
+  },
+  {
+    "BuyerName": "Gawain Fulmen",
+    "PurchasePrice": 874798.99,
+    "SalePrice": 9040.17,
+    "StockSymbol": "MYSZ",
+    "PurchaseDate": "12/30/2013",
+    "SaleDate": "7/29/2020"
+  },
+  {
+    "BuyerName": "Carrol Mackerel",
+    "PurchasePrice": 303669.58,
+    "SalePrice": 167912.86,
+    "StockSymbol": "PUK^A",
+    "PurchaseDate": "10/4/2008",
+    "SaleDate": "4/30/2022"
+  },
+  {
+    "BuyerName": "Corabelle Bellamy",
+    "PurchasePrice": 960682.76,
+    "SalePrice": 230123.44,
+    "StockSymbol": "SXI",
+    "PurchaseDate": "5/17/2002",
+    "SaleDate": "7/2/2003"
+  },
+  {
+    "BuyerName": "Danny MacCart",
+    "PurchasePrice": 7717.86,
+    "SalePrice": 593420.23,
+    "StockSymbol": "NCB",
+    "PurchaseDate": "3/4/2017",
+    "SaleDate": "6/5/2006"
+  },
+  {
+    "BuyerName": "Ludwig Glasheen",
+    "PurchasePrice": 850611.46,
+    "SalePrice": 20006.96,
+    "StockSymbol": "MBSD",
+    "PurchaseDate": "7/4/2000",
+    "SaleDate": "7/8/2011"
+  },
+  {
+    "BuyerName": "Lauren Tomkies",
+    "PurchasePrice": 563020.4,
+    "SalePrice": 223796.93,
+    "StockSymbol": "FEP",
+    "PurchaseDate": "6/29/2008",
+    "SaleDate": "2/7/2005"
+  },
+  {
+    "BuyerName": "Arleen Burtwhistle",
+    "PurchasePrice": 551377.52,
+    "SalePrice": 281774.42,
+    "StockSymbol": "BLDR",
+    "PurchaseDate": "3/17/2005",
+    "SaleDate": "10/29/2007"
+  },
+  {
+    "BuyerName": "Antonie Leuchars",
+    "PurchasePrice": 910637.79,
+    "SalePrice": 307997.95,
+    "StockSymbol": "BBC",
+    "PurchaseDate": "3/25/2022",
+    "SaleDate": "5/11/2002"
+  },
+  {
+    "BuyerName": "Blane Cavozzi",
+    "PurchasePrice": 531494.85,
+    "SalePrice": 729329.1,
+    "StockSymbol": "WRB",
+    "PurchaseDate": "1/16/2022",
+    "SaleDate": "12/11/2017"
+  },
+  {
+    "BuyerName": "Esme Brine",
+    "PurchasePrice": 971294.91,
+    "SalePrice": 686186.96,
+    "StockSymbol": "KANG",
+    "PurchaseDate": "9/17/2010",
+    "SaleDate": "3/15/2014"
+  },
+  {
+    "BuyerName": "Ellerey Brennan",
+    "PurchasePrice": 780668.23,
+    "SalePrice": 644902.2,
+    "StockSymbol": "AGC",
+    "PurchaseDate": "2/25/2002",
+    "SaleDate": "7/19/2005"
+  },
+  {
+    "BuyerName": "Blanch Vasyukhin",
+    "PurchasePrice": 431768.49,
+    "SalePrice": 418267.14,
+    "StockSymbol": "OCUL",
+    "PurchaseDate": "12/26/2004",
+    "SaleDate": "4/11/2004"
+  },
+  {
+    "BuyerName": "Wyatan Titherington",
+    "PurchasePrice": 215689.41,
+    "SalePrice": 789973.82,
+    "StockSymbol": "ATTU",
+    "PurchaseDate": "2/21/2019",
+    "SaleDate": "5/21/2000"
+  },
+  {
+    "BuyerName": "Alaric Cawthorn",
+    "PurchasePrice": 97470.52,
+    "SalePrice": 330634.48,
+    "StockSymbol": "MYF",
+    "PurchaseDate": "10/7/2014",
+    "SaleDate": "6/6/2017"
+  },
+  {
+    "BuyerName": "Field Wellman",
+    "PurchasePrice": 888333.79,
+    "SalePrice": 588075.93,
+    "StockSymbol": "BCC",
+    "PurchaseDate": "5/2/2002",
+    "SaleDate": "7/23/2001"
+  },
+  {
+    "BuyerName": "Nanon Luna",
+    "PurchasePrice": 693686.16,
+    "SalePrice": 19873.77,
+    "StockSymbol": "SPI",
+    "PurchaseDate": "1/30/2012",
+    "SaleDate": "8/25/2004"
+  },
+  {
+    "BuyerName": "Trixy Dancer",
+    "PurchasePrice": 706664.69,
+    "SalePrice": 373119.49,
+    "StockSymbol": "ELTK",
+    "PurchaseDate": "9/10/2003",
+    "SaleDate": "5/21/2017"
+  },
+  {
+    "BuyerName": "Bride Faloon",
+    "PurchasePrice": 63970.0,
+    "SalePrice": 717254.0,
+    "StockSymbol": "GCAP",
+    "PurchaseDate": "10/30/2018",
+    "SaleDate": "7/3/2011"
+  },
+  {
+    "BuyerName": "Tamas Enefer",
+    "PurchasePrice": 894672.5,
+    "SalePrice": 201062.49,
+    "StockSymbol": "NBIX",
+    "PurchaseDate": "6/24/2008",
+    "SaleDate": "3/6/2010"
+  },
+  {
+    "BuyerName": "Jodie Bowerbank",
+    "PurchasePrice": 979416.09,
+    "SalePrice": 702111.49,
+    "StockSymbol": "BNED",
+    "PurchaseDate": "8/6/2011",
+    "SaleDate": "7/30/2015"
+  },
+  {
+    "BuyerName": "Artus Hayball",
+    "PurchasePrice": 89433.35,
+    "SalePrice": 525612.38,
+    "StockSymbol": "RLJ",
+    "PurchaseDate": "10/10/2011",
+    "SaleDate": "4/5/2011"
+  },
+  {
+    "BuyerName": "Doll Halston",
+    "PurchasePrice": 47643.19,
+    "SalePrice": 711810.66,
+    "StockSymbol": "FPF",
+    "PurchaseDate": "6/5/2004",
+    "SaleDate": "9/22/2013"
+  },
+  {
+    "BuyerName": "Christen Cullnean",
+    "PurchasePrice": 269973.99,
+    "SalePrice": 704056.87,
+    "StockSymbol": "VSAT",
+    "PurchaseDate": "5/5/2010",
+    "SaleDate": "10/31/2018"
+  },
+  {
+    "BuyerName": "Miguela Drinkhall",
+    "PurchasePrice": 376272.37,
+    "SalePrice": 236040.14,
+    "StockSymbol": "HK.WS",
+    "PurchaseDate": "1/7/2022",
+    "SaleDate": "5/20/2000"
+  },
+  {
+    "BuyerName": "Ivan Richten",
+    "PurchasePrice": 965701.98,
+    "SalePrice": 625745.19,
+    "StockSymbol": "JPM^E",
+    "PurchaseDate": "3/18/2020",
+    "SaleDate": "11/12/2002"
+  },
+  {
+    "BuyerName": "Halsy Aspden",
+    "PurchasePrice": 761305.45,
+    "SalePrice": 413532.4,
+    "StockSymbol": "LM",
+    "PurchaseDate": "4/15/2005",
+    "SaleDate": "4/2/2018"
+  },
+  {
+    "BuyerName": "Rachele Miskin",
+    "PurchasePrice": 447063.41,
+    "SalePrice": 985718.04,
+    "StockSymbol": "UTL",
+    "PurchaseDate": "10/31/2000",
+    "SaleDate": "2/4/2001"
+  },
+  {
+    "BuyerName": "Siffre Baston",
+    "PurchasePrice": 155173.44,
+    "SalePrice": 519356.06,
+    "StockSymbol": "TCPC",
+    "PurchaseDate": "10/13/2019",
+    "SaleDate": "1/13/2001"
+  },
+  {
+    "BuyerName": "Clywd Linck",
+    "PurchasePrice": 131974.62,
+    "SalePrice": 747745.16,
+    "StockSymbol": "NUTR",
+    "PurchaseDate": "11/7/2000",
+    "SaleDate": "11/29/2019"
+  },
+  {
+    "BuyerName": "Jenny Armit",
+    "PurchasePrice": 634114.85,
+    "SalePrice": 966985.36,
+    "StockSymbol": "FRC^G",
+    "PurchaseDate": "6/15/2002",
+    "SaleDate": "3/1/2005"
+  },
+  {
+    "BuyerName": "Chevalier Hyder",
+    "PurchasePrice": 459090.28,
+    "SalePrice": 349281.72,
+    "StockSymbol": "COT",
+    "PurchaseDate": "7/17/2006",
+    "SaleDate": "4/21/2010"
+  },
+  {
+    "BuyerName": "Timofei Batter",
+    "PurchasePrice": 985851.01,
+    "SalePrice": 383711.65,
+    "StockSymbol": "ALQA",
+    "PurchaseDate": "8/16/2005",
+    "SaleDate": "11/20/2019"
+  },
+  {
+    "BuyerName": "Siouxie Petheridge",
+    "PurchasePrice": 653665.86,
+    "SalePrice": 921460.47,
+    "StockSymbol": "CSTM",
+    "PurchaseDate": "8/12/2015",
+    "SaleDate": "2/5/2016"
+  },
+  {
+    "BuyerName": "Elton Farran",
+    "PurchasePrice": 178778.68,
+    "SalePrice": 548806.98,
+    "StockSymbol": "SINA",
+    "PurchaseDate": "2/19/2008",
+    "SaleDate": "2/16/2000"
+  },
+  {
+    "BuyerName": "Kellie Hayley",
+    "PurchasePrice": 560968.13,
+    "SalePrice": 793850.81,
+    "StockSymbol": "BCOV",
+    "PurchaseDate": "7/8/2004",
+    "SaleDate": "12/30/2015"
+  },
+  {
+    "BuyerName": "Lilly Zannolli",
+    "PurchasePrice": 102934.73,
+    "SalePrice": 891867.16,
+    "StockSymbol": "CGNT",
+    "PurchaseDate": "7/2/2016",
+    "SaleDate": "12/14/2016"
+  },
+  {
+    "BuyerName": "Samuele Verrillo",
+    "PurchasePrice": 820362.41,
+    "SalePrice": 116334.98,
+    "StockSymbol": "MS^G",
+    "PurchaseDate": "11/23/2018",
+    "SaleDate": "9/22/2018"
+  },
+  {
+    "BuyerName": "Ruddie Seczyk",
+    "PurchasePrice": 102259.39,
+    "SalePrice": 355276.06,
+    "StockSymbol": "TV",
+    "PurchaseDate": "12/15/2020",
+    "SaleDate": "3/10/2006"
+  },
+  {
+    "BuyerName": "Ardys Szanto",
+    "PurchasePrice": 432601.22,
+    "SalePrice": 297899.33,
+    "StockSymbol": "CVE",
+    "PurchaseDate": "6/22/2009",
+    "SaleDate": "7/20/2011"
+  },
+  {
+    "BuyerName": "Mufi Meggison",
+    "PurchasePrice": 429408.74,
+    "SalePrice": 426938.17,
+    "StockSymbol": "CMFN",
+    "PurchaseDate": "9/13/2019",
+    "SaleDate": "8/26/2006"
+  },
+  {
+    "BuyerName": "Juliette Thirlwall",
+    "PurchasePrice": 891824.69,
+    "SalePrice": 517407.1,
+    "StockSymbol": "RFI",
+    "PurchaseDate": "8/4/2021",
+    "SaleDate": "7/22/2014"
+  },
+  {
+    "BuyerName": "Bev Imeson",
+    "PurchasePrice": 343908.35,
+    "SalePrice": 761196.84,
+    "StockSymbol": "DK",
+    "PurchaseDate": "2/10/2006",
+    "SaleDate": "3/27/2005"
+  },
+  {
+    "BuyerName": "Brod Thebes",
+    "PurchasePrice": 354369.51,
+    "SalePrice": 490229.24,
+    "StockSymbol": "CYD",
+    "PurchaseDate": "6/4/2022",
+    "SaleDate": "4/7/2007"
+  },
+  {
+    "BuyerName": "Amanda Feaver",
+    "PurchasePrice": 880224.11,
+    "SalePrice": 647598.56,
+    "StockSymbol": "LNCE",
+    "PurchaseDate": "5/25/2015",
+    "SaleDate": "11/22/2004"
+  },
+  {
+    "BuyerName": "Land Gellert",
+    "PurchasePrice": 22652.8,
+    "SalePrice": 409404.47,
+    "StockSymbol": "PRGX",
+    "PurchaseDate": "10/22/2001",
+    "SaleDate": "9/16/2003"
+  },
+  {
+    "BuyerName": "Dean Deaville",
+    "PurchasePrice": 522691.68,
+    "SalePrice": 350219.06,
+    "StockSymbol": "OBAS",
+    "PurchaseDate": "2/2/2021",
+    "SaleDate": "5/16/2003"
+  },
+  {
+    "BuyerName": "Alessandra Mollin",
+    "PurchasePrice": 461015.37,
+    "SalePrice": 580396.12,
+    "StockSymbol": "CELG",
+    "PurchaseDate": "7/24/2011",
+    "SaleDate": "11/16/2021"
+  },
+  {
+    "BuyerName": "Dorene Rillatt",
+    "PurchasePrice": 613824.43,
+    "SalePrice": 370660.72,
+    "StockSymbol": "CXSE",
+    "PurchaseDate": "8/27/2002",
+    "SaleDate": "9/25/2003"
+  },
+  {
+    "BuyerName": "Woodrow Lammerich",
+    "PurchasePrice": 435681.19,
+    "SalePrice": 489205.82,
+    "StockSymbol": "SMM",
+    "PurchaseDate": "7/24/2002",
+    "SaleDate": "9/13/2009"
+  },
+  {
+    "BuyerName": "Joycelin Yemm",
+    "PurchasePrice": 929105.94,
+    "SalePrice": 349905.59,
+    "StockSymbol": "AROW",
+    "PurchaseDate": "7/4/2000",
+    "SaleDate": "9/14/2003"
+  },
+  {
+    "BuyerName": "Maxy Westlake",
+    "PurchasePrice": 64016.45,
+    "SalePrice": 497603.33,
+    "StockSymbol": "XPER",
+    "PurchaseDate": "7/27/2021",
+    "SaleDate": "8/29/2021"
+  },
+  {
+    "BuyerName": "Derrick Worham",
+    "PurchasePrice": 774637.9,
+    "SalePrice": 319469.77,
+    "StockSymbol": "SD",
+    "PurchaseDate": "10/13/2003",
+    "SaleDate": "7/26/2007"
+  },
+  {
+    "BuyerName": "Petronella Delyth",
+    "PurchasePrice": 41701.59,
+    "SalePrice": 190226.43,
+    "StockSymbol": "WBS^E",
+    "PurchaseDate": "5/9/2010",
+    "SaleDate": "1/14/2018"
+  },
+  {
+    "BuyerName": "Carlin Killbey",
+    "PurchasePrice": 834915.43,
+    "SalePrice": 380406.59,
+    "StockSymbol": "KBSF",
+    "PurchaseDate": "3/25/2020",
+    "SaleDate": "12/17/2003"
+  },
+  {
+    "BuyerName": "Dev Coltart",
+    "PurchasePrice": 361626.71,
+    "SalePrice": 94876.22,
+    "StockSymbol": "PLUG",
+    "PurchaseDate": "1/9/2010",
+    "SaleDate": "10/20/2010"
+  },
+  {
+    "BuyerName": "Obed Serrels",
+    "PurchasePrice": 534130.18,
+    "SalePrice": 333492.42,
+    "StockSymbol": "FTXR",
+    "PurchaseDate": "5/27/2022",
+    "SaleDate": "10/2/2021"
+  },
+  {
+    "BuyerName": "Alicea Ames",
+    "PurchasePrice": 137875.78,
+    "SalePrice": 229731.69,
+    "StockSymbol": "MCHP",
+    "PurchaseDate": "11/5/2004",
+    "SaleDate": "2/13/2015"
+  },
+  {
+    "BuyerName": "Bonni Norkutt",
+    "PurchasePrice": 198773.72,
+    "SalePrice": 960494.09,
+    "StockSymbol": "FSCFL",
+    "PurchaseDate": "7/5/2021",
+    "SaleDate": "3/23/2017"
+  },
+  {
+    "BuyerName": "Cammy Dewane",
+    "PurchasePrice": 510331.56,
+    "SalePrice": 734505.32,
+    "StockSymbol": "BOKFL",
+    "PurchaseDate": "5/21/2012",
+    "SaleDate": "8/1/2011"
+  },
+  {
+    "BuyerName": "Burt Tudge",
+    "PurchasePrice": 964545.92,
+    "SalePrice": 851070.44,
+    "StockSymbol": "TGEN",
+    "PurchaseDate": "8/23/2007",
+    "SaleDate": "2/3/2003"
+  },
+  {
+    "BuyerName": "Rozele Casale",
+    "PurchasePrice": 56878.36,
+    "SalePrice": 284062.75,
+    "StockSymbol": "LXRX",
+    "PurchaseDate": "8/18/2014",
+    "SaleDate": "6/30/2021"
+  },
+  {
+    "BuyerName": "Melonie Lethabridge",
+    "PurchasePrice": 499586.76,
+    "SalePrice": 588700.01,
+    "StockSymbol": "FN",
+    "PurchaseDate": "11/23/2022",
+    "SaleDate": "6/4/2019"
+  },
+  {
+    "BuyerName": "Daisie Bodocs",
+    "PurchasePrice": 846168.86,
+    "SalePrice": 314536.5,
+    "StockSymbol": "EMR",
+    "PurchaseDate": "11/24/2011",
+    "SaleDate": "12/7/2002"
+  },
+  {
+    "BuyerName": "Vilhelmina Casterton",
+    "PurchasePrice": 787345.15,
+    "SalePrice": 935822.17,
+    "StockSymbol": "FLO",
+    "PurchaseDate": "9/23/2000",
+    "SaleDate": "8/28/2006"
+  },
+  {
+    "BuyerName": "Reinhold Sagg",
+    "PurchasePrice": 998803.74,
+    "SalePrice": 959556.01,
+    "StockSymbol": "QLC",
+    "PurchaseDate": "6/12/2004",
+    "SaleDate": "2/24/2003"
+  },
+  {
+    "BuyerName": "Una Gubbins",
+    "PurchasePrice": 685448.67,
+    "SalePrice": 553017.56,
+    "StockSymbol": "AMED",
+    "PurchaseDate": "9/4/2009",
+    "SaleDate": "3/9/2013"
+  },
+  {
+    "BuyerName": "Annmaria Careswell",
+    "PurchasePrice": 733860.09,
+    "SalePrice": 969263.95,
+    "StockSymbol": "VRA",
+    "PurchaseDate": "1/27/2017",
+    "SaleDate": "6/10/2001"
+  },
+  {
+    "BuyerName": "Merle Guage",
+    "PurchasePrice": 203823.49,
+    "SalePrice": 645763.72,
+    "StockSymbol": "ZIXI",
+    "PurchaseDate": "3/14/2001",
+    "SaleDate": "4/16/2002"
+  },
+  {
+    "BuyerName": "Della Cordeau",
+    "PurchasePrice": 106040.61,
+    "SalePrice": 273696.37,
+    "StockSymbol": "SGC",
+    "PurchaseDate": "12/25/2002",
+    "SaleDate": "10/10/2004"
+  },
+  {
+    "BuyerName": "Larine Agge",
+    "PurchasePrice": 605644.38,
+    "SalePrice": 230003.28,
+    "StockSymbol": "TNH",
+    "PurchaseDate": "8/6/2016",
+    "SaleDate": "5/30/2016"
+  },
+  {
+    "BuyerName": "Lynnelle Brinicombe",
+    "PurchasePrice": 832786.93,
+    "SalePrice": 364737.16,
+    "StockSymbol": "OLBK",
+    "PurchaseDate": "3/29/2016",
+    "SaleDate": "11/24/2012"
+  },
+  {
+    "BuyerName": "Octavia Eckersall",
+    "PurchasePrice": 402665.95,
+    "SalePrice": 496287.18,
+    "StockSymbol": "EGY",
+    "PurchaseDate": "7/23/2004",
+    "SaleDate": "9/12/2014"
+  },
+  {
+    "BuyerName": "Jacinda Rigate",
+    "PurchasePrice": 775338.97,
+    "SalePrice": 897061.76,
+    "StockSymbol": "ACFC",
+    "PurchaseDate": "3/30/2020",
+    "SaleDate": "12/2/2013"
+  },
+  {
+    "BuyerName": "Jaimie Canape",
+    "PurchasePrice": 317282.76,
+    "SalePrice": 429852.14,
+    "StockSymbol": "CRNT",
+    "PurchaseDate": "10/31/2020",
+    "SaleDate": "9/6/2015"
+  },
+  {
+    "BuyerName": "Audi Schuchmacher",
+    "PurchasePrice": 957463.07,
+    "SalePrice": 302885.44,
+    "StockSymbol": "KRC",
+    "PurchaseDate": "7/27/2018",
+    "SaleDate": "3/9/2017"
+  },
+  {
+    "BuyerName": "Guillema Calendar",
+    "PurchasePrice": 484311.73,
+    "SalePrice": 395432.6,
+    "StockSymbol": "SRUNU",
+    "PurchaseDate": "5/30/2019",
+    "SaleDate": "2/18/2015"
+  },
+  {
+    "BuyerName": "Sharlene Abrahamsson",
+    "PurchasePrice": 572289.92,
+    "SalePrice": 105707.21,
+    "StockSymbol": "VICL",
+    "PurchaseDate": "5/14/2011",
+    "SaleDate": "2/13/2007"
+  },
+  {
+    "BuyerName": "Alexis Wince",
+    "PurchasePrice": 950117.52,
+    "SalePrice": 449035.89,
+    "StockSymbol": "BAM",
+    "PurchaseDate": "3/11/2010",
+    "SaleDate": "9/26/2007"
+  },
+  {
+    "BuyerName": "Kerianne Goodison",
+    "PurchasePrice": 178677.26,
+    "SalePrice": 101215.83,
+    "StockSymbol": "QQEW",
+    "PurchaseDate": "1/25/2008",
+    "SaleDate": "12/15/2005"
+  },
+  {
+    "BuyerName": "Koren Ben",
+    "PurchasePrice": 49801.47,
+    "SalePrice": 64244.77,
+    "StockSymbol": "RAIL",
+    "PurchaseDate": "6/20/2000",
+    "SaleDate": "9/5/2014"
+  },
+  {
+    "BuyerName": "Antonin Vercruysse",
+    "PurchasePrice": 651818.21,
+    "SalePrice": 909258.6,
+    "StockSymbol": "MARPS",
+    "PurchaseDate": "8/20/2003",
+    "SaleDate": "9/13/2004"
+  },
+  {
+    "BuyerName": "Tressa Ogden",
+    "PurchasePrice": 84139.97,
+    "SalePrice": 370426.15,
+    "StockSymbol": "HEP",
+    "PurchaseDate": "4/19/2001",
+    "SaleDate": "12/28/2016"
+  },
+  {
+    "BuyerName": "Aurea Lepick",
+    "PurchasePrice": 660724.33,
+    "SalePrice": 450495.55,
+    "StockSymbol": "PCK",
+    "PurchaseDate": "8/6/2017",
+    "SaleDate": "6/1/2008"
+  },
+  {
+    "BuyerName": "Marylinda Higbin",
+    "PurchasePrice": 905175.67,
+    "SalePrice": 662654.44,
+    "StockSymbol": "UONEK",
+    "PurchaseDate": "5/3/2015",
+    "SaleDate": "8/15/2006"
+  },
+  {
+    "BuyerName": "Wenonah Acott",
+    "PurchasePrice": 222493.74,
+    "SalePrice": 390103.72,
+    "StockSymbol": "UDR",
+    "PurchaseDate": "12/27/2006",
+    "SaleDate": "4/23/2019"
+  },
+  {
+    "BuyerName": "Nerita Leathart",
+    "PurchasePrice": 387113.72,
+    "SalePrice": 853484.82,
+    "StockSymbol": "OKSB",
+    "PurchaseDate": "7/21/2003",
+    "SaleDate": "1/26/2018"
+  },
+  {
+    "BuyerName": "Nicolea Macken",
+    "PurchasePrice": 209280.18,
+    "SalePrice": 200217.42,
+    "StockSymbol": "FMCIR",
+    "PurchaseDate": "2/25/2012",
+    "SaleDate": "8/8/2020"
+  },
+  {
+    "BuyerName": "Nadya Seedull",
+    "PurchasePrice": 535483.77,
+    "SalePrice": 403219.06,
+    "StockSymbol": "GRMN",
+    "PurchaseDate": "6/3/2021",
+    "SaleDate": "5/10/2016"
+  },
+  {
+    "BuyerName": "Abel Moller",
+    "PurchasePrice": 741910.45,
+    "SalePrice": 784363.36,
+    "StockSymbol": "CNAT",
+    "PurchaseDate": "12/22/2020",
+    "SaleDate": "4/1/2005"
+  },
+  {
+    "BuyerName": "Eddy Neathway",
+    "PurchasePrice": 54312.13,
+    "SalePrice": 563263.78,
+    "StockSymbol": "BBGI",
+    "PurchaseDate": "8/27/2006",
+    "SaleDate": "7/8/2005"
+  },
+  {
+    "BuyerName": "Katleen Mattiassi",
+    "PurchasePrice": 523977.67,
+    "SalePrice": 404481.95,
+    "StockSymbol": "COR",
+    "PurchaseDate": "11/18/2002",
+    "SaleDate": "3/18/2022"
+  },
+  {
+    "BuyerName": "Dara Barbery",
+    "PurchasePrice": 47088.84,
+    "SalePrice": 164501.62,
+    "StockSymbol": "MTFB",
+    "PurchaseDate": "5/13/2019",
+    "SaleDate": "9/25/2003"
+  },
+  {
+    "BuyerName": "Chrisy Dahlen",
+    "PurchasePrice": 446192.59,
+    "SalePrice": 964939.87,
+    "StockSymbol": "CMCT",
+    "PurchaseDate": "6/25/2008",
+    "SaleDate": "7/18/2022"
+  },
+  {
+    "BuyerName": "Dyna Gasparro",
+    "PurchasePrice": 348264.64,
+    "SalePrice": 455091.54,
+    "StockSymbol": "PBSK",
+    "PurchaseDate": "1/9/2017",
+    "SaleDate": "5/13/2014"
+  },
+  {
+    "BuyerName": "Auberta Farre",
+    "PurchasePrice": 820292.85,
+    "SalePrice": 679734.81,
+    "StockSymbol": "VNO^L",
+    "PurchaseDate": "1/31/2005",
+    "SaleDate": "2/27/2021"
+  },
+  {
+    "BuyerName": "Burt Vannet",
+    "PurchasePrice": 501858.0,
+    "SalePrice": 953367.59,
+    "StockSymbol": "EQGP",
+    "PurchaseDate": "8/14/2009",
+    "SaleDate": "7/19/2015"
+  },
+  {
+    "BuyerName": "Clementine Blowfelde",
+    "PurchasePrice": 593283.13,
+    "SalePrice": 553184.18,
+    "StockSymbol": "LTRX",
+    "PurchaseDate": "12/9/2001",
+    "SaleDate": "8/9/2004"
+  },
+  {
+    "BuyerName": "Norina Juares",
+    "PurchasePrice": 389980.27,
+    "SalePrice": 707471.64,
+    "StockSymbol": "FNWB",
+    "PurchaseDate": "11/16/2011",
+    "SaleDate": "10/9/2001"
+  },
+  {
+    "BuyerName": "Shelba Sworder",
+    "PurchasePrice": 922627.2,
+    "SalePrice": 685637.45,
+    "StockSymbol": "NTRA",
+    "PurchaseDate": "10/2/2022",
+    "SaleDate": "12/31/2009"
+  },
+  {
+    "BuyerName": "Christen Garmey",
+    "PurchasePrice": 895877.37,
+    "SalePrice": 413161.67,
+    "StockSymbol": "NWFL",
+    "PurchaseDate": "1/4/2022",
+    "SaleDate": "11/23/2001"
+  },
+  {
+    "BuyerName": "Tommy Crilly",
+    "PurchasePrice": 830675.11,
+    "SalePrice": 561812.16,
+    "StockSymbol": "BANR",
+    "PurchaseDate": "1/31/2018",
+    "SaleDate": "3/4/2001"
+  },
+  {
+    "BuyerName": "Clay Easum",
+    "PurchasePrice": 146745.91,
+    "SalePrice": 870224.77,
+    "StockSymbol": "SZC",
+    "PurchaseDate": "3/1/2012",
+    "SaleDate": "11/6/2003"
+  },
+  {
+    "BuyerName": "Thomasina Veillard",
+    "PurchasePrice": 761198.72,
+    "SalePrice": 490358.67,
+    "StockSymbol": "VIA",
+    "PurchaseDate": "7/12/2001",
+    "SaleDate": "1/10/2010"
+  },
+  {
+    "BuyerName": "Bea McCrum",
+    "PurchasePrice": 728021.16,
+    "SalePrice": 107869.11,
+    "StockSymbol": "PCYO",
+    "PurchaseDate": "11/26/2021",
+    "SaleDate": "6/11/2009"
+  },
+  {
+    "BuyerName": "De witt Cubbini",
+    "PurchasePrice": 552014.83,
+    "SalePrice": 696844.24,
+    "StockSymbol": "CDTX",
+    "PurchaseDate": "7/25/2009",
+    "SaleDate": "8/23/2015"
+  },
+  {
+    "BuyerName": "Vin Breche",
+    "PurchasePrice": 301135.31,
+    "SalePrice": 645031.03,
+    "StockSymbol": "LXP^C",
+    "PurchaseDate": "9/6/2011",
+    "SaleDate": "8/20/2000"
+  },
+  {
+    "BuyerName": "Burke de Cullip",
+    "PurchasePrice": 824343.65,
+    "SalePrice": 25842.18,
+    "StockSymbol": "BGT",
+    "PurchaseDate": "6/16/2015",
+    "SaleDate": "10/2/2009"
+  },
+  {
+    "BuyerName": "Malcolm Alessandretti",
+    "PurchasePrice": 761351.75,
+    "SalePrice": 377442.98,
+    "StockSymbol": "GEF.B",
+    "PurchaseDate": "9/24/2003",
+    "SaleDate": "2/21/2022"
+  },
+  {
+    "BuyerName": "Murvyn Spark",
+    "PurchasePrice": 788406.19,
+    "SalePrice": 925375.45,
+    "StockSymbol": "TCPC",
+    "PurchaseDate": "8/14/2004",
+    "SaleDate": "9/1/2018"
+  },
+  {
+    "BuyerName": "Jordon Layfield",
+    "PurchasePrice": 188.53,
+    "SalePrice": 977891.09,
+    "StockSymbol": "NEWTL",
+    "PurchaseDate": "12/7/2020",
+    "SaleDate": "6/19/2000"
+  },
+  {
+    "BuyerName": "Rhianna Lampkin",
+    "PurchasePrice": 221846.63,
+    "SalePrice": 859160.69,
+    "StockSymbol": "PDBC",
+    "PurchaseDate": "2/27/2022",
+    "SaleDate": "1/16/2005"
+  },
+  {
+    "BuyerName": "Ondrea Greenset",
+    "PurchasePrice": 786114.66,
+    "SalePrice": 63980.41,
+    "StockSymbol": "SIFY",
+    "PurchaseDate": "10/16/2013",
+    "SaleDate": "6/6/2003"
+  },
+  {
+    "BuyerName": "Arly Hayton",
+    "PurchasePrice": 40372.8,
+    "SalePrice": 932934.83,
+    "StockSymbol": "TIG",
+    "PurchaseDate": "3/24/2001",
+    "SaleDate": "6/27/2014"
+  },
+  {
+    "BuyerName": "Tate Allingham",
+    "PurchasePrice": 649595.39,
+    "SalePrice": 966430.76,
+    "StockSymbol": "KORS",
+    "PurchaseDate": "3/4/2000",
+    "SaleDate": "4/17/2000"
+  },
+  {
+    "BuyerName": "Korrie Maysor",
+    "PurchasePrice": 918017.38,
+    "SalePrice": 897153.34,
+    "StockSymbol": "PAI",
+    "PurchaseDate": "8/26/2021",
+    "SaleDate": "1/17/2004"
+  },
+  {
+    "BuyerName": "Dionne Cambridge",
+    "PurchasePrice": 624415.24,
+    "SalePrice": 911921.28,
+    "StockSymbol": "CUBI^D",
+    "PurchaseDate": "10/28/2020",
+    "SaleDate": "12/31/2004"
+  },
+  {
+    "BuyerName": "Hadrian Varvell",
+    "PurchasePrice": 162310.16,
+    "SalePrice": 791626.22,
+    "StockSymbol": "PSL",
+    "PurchaseDate": "6/21/2000",
+    "SaleDate": "3/19/2000"
+  },
+  {
+    "BuyerName": "Ciro Paddell",
+    "PurchasePrice": 963996.44,
+    "SalePrice": 533530.65,
+    "StockSymbol": "USCR",
+    "PurchaseDate": "11/1/2012",
+    "SaleDate": "4/5/2008"
+  },
+  {
+    "BuyerName": "Herbie Drejer",
+    "PurchasePrice": 366839.41,
+    "SalePrice": 330748.41,
+    "StockSymbol": "VGLT",
+    "PurchaseDate": "3/7/2017",
+    "SaleDate": "12/18/2014"
+  },
+  {
+    "BuyerName": "Othilia Haddinton",
+    "PurchasePrice": 985285.82,
+    "SalePrice": 305267.62,
+    "StockSymbol": "ABIO",
+    "PurchaseDate": "6/20/2012",
+    "SaleDate": "2/26/2005"
+  },
+  {
+    "BuyerName": "Jim Mahon",
+    "PurchasePrice": 542701.43,
+    "SalePrice": 335672.31,
+    "StockSymbol": "NAVI",
+    "PurchaseDate": "6/5/2022",
+    "SaleDate": "12/9/2007"
+  },
+  {
+    "BuyerName": "Tomi Cutill",
+    "PurchasePrice": 386195.46,
+    "SalePrice": 180260.12,
+    "StockSymbol": "ANH^C",
+    "PurchaseDate": "4/10/2015",
+    "SaleDate": "6/7/2003"
+  },
+  {
+    "BuyerName": "Gale Aslam",
+    "PurchasePrice": 525144.12,
+    "SalePrice": 207523.65,
+    "StockSymbol": "FNF",
+    "PurchaseDate": "3/20/2004",
+    "SaleDate": "5/31/2010"
+  },
+  {
+    "BuyerName": "Florentia Bocock",
+    "PurchasePrice": 764098.33,
+    "SalePrice": 83990.94,
+    "StockSymbol": "SHLM",
+    "PurchaseDate": "7/13/2022",
+    "SaleDate": "7/4/2005"
+  },
+  {
+    "BuyerName": "Erwin McCambridge",
+    "PurchasePrice": 738423.73,
+    "SalePrice": 692576.14,
+    "StockSymbol": "ATH",
+    "PurchaseDate": "9/5/2004",
+    "SaleDate": "2/27/2003"
+  },
+  {
+    "BuyerName": "Travers Penner",
+    "PurchasePrice": 780421.49,
+    "SalePrice": 447819.29,
+    "StockSymbol": "FCCO",
+    "PurchaseDate": "3/22/2008",
+    "SaleDate": "7/30/2016"
+  },
+  {
+    "BuyerName": "Mallissa Devany",
+    "PurchasePrice": 414676.25,
+    "SalePrice": 949484.04,
+    "StockSymbol": "WPPGY",
+    "PurchaseDate": "5/31/2009",
+    "SaleDate": "9/7/2007"
+  },
+  {
+    "BuyerName": "Melonie Stears",
+    "PurchasePrice": 733979.53,
+    "SalePrice": 532917.51,
+    "StockSymbol": "MTB^C",
+    "PurchaseDate": "6/12/2003",
+    "SaleDate": "11/23/2002"
+  },
+  {
+    "BuyerName": "Francyne Ilymanov",
+    "PurchasePrice": 125871.9,
+    "SalePrice": 339216.22,
+    "StockSymbol": "DFFN",
+    "PurchaseDate": "5/3/2010",
+    "SaleDate": "2/24/2021"
+  },
+  {
+    "BuyerName": "Gonzalo Heinssen",
+    "PurchasePrice": 181993.07,
+    "SalePrice": 837813.1,
+    "StockSymbol": "CRSP",
+    "PurchaseDate": "4/28/2007",
+    "SaleDate": "6/15/2022"
+  },
+  {
+    "BuyerName": "Jerry Bolstridge",
+    "PurchasePrice": 416754.17,
+    "SalePrice": 151780.61,
+    "StockSymbol": "STML",
+    "PurchaseDate": "9/22/2019",
+    "SaleDate": "6/10/2021"
+  },
+  {
+    "BuyerName": "Schuyler Lownie",
+    "PurchasePrice": 390864.44,
+    "SalePrice": 503141.08,
+    "StockSymbol": "BOFI",
+    "PurchaseDate": "2/13/2019",
+    "SaleDate": "11/1/2004"
+  },
+  {
+    "BuyerName": "Kendre Elvish",
+    "PurchasePrice": 778890.69,
+    "SalePrice": 184411.05,
+    "StockSymbol": "GWR",
+    "PurchaseDate": "3/26/2021",
+    "SaleDate": "7/10/2010"
+  },
+  {
+    "BuyerName": "Rodrique Gullefant",
+    "PurchasePrice": 802300.98,
+    "SalePrice": 688316.54,
+    "StockSymbol": "BOFI",
+    "PurchaseDate": "7/1/2009",
+    "SaleDate": "5/18/2015"
+  },
+  {
+    "BuyerName": "Dean Meatyard",
+    "PurchasePrice": 920785.12,
+    "SalePrice": 975370.25,
+    "StockSymbol": "SGMS",
+    "PurchaseDate": "10/4/2004",
+    "SaleDate": "12/14/2015"
+  },
+  {
+    "BuyerName": "Danya Grealy",
+    "PurchasePrice": 514715.91,
+    "SalePrice": 283957.87,
+    "StockSymbol": "CUBI^E",
+    "PurchaseDate": "2/17/2005",
+    "SaleDate": "9/20/2001"
+  },
+  {
+    "BuyerName": "Neila Becks",
+    "PurchasePrice": 560588.5,
+    "SalePrice": 113155.26,
+    "StockSymbol": "ATOS",
+    "PurchaseDate": "2/19/2007",
+    "SaleDate": "2/13/2003"
+  },
+  {
+    "BuyerName": "Gunther Anstead",
+    "PurchasePrice": 761150.92,
+    "SalePrice": 412003.34,
+    "StockSymbol": "BGY",
+    "PurchaseDate": "10/30/2015",
+    "SaleDate": "5/18/2017"
+  },
+  {
+    "BuyerName": "Nora Syseland",
+    "PurchasePrice": 221132.09,
+    "SalePrice": 158775.34,
+    "StockSymbol": "WPG^I",
+    "PurchaseDate": "10/24/2001",
+    "SaleDate": "7/11/2020"
+  },
+  {
+    "BuyerName": "Melli Maly",
+    "PurchasePrice": 789105.03,
+    "SalePrice": 837582.55,
+    "StockSymbol": "ACN",
+    "PurchaseDate": "2/26/2019",
+    "SaleDate": "4/29/2018"
+  },
+  {
+    "BuyerName": "Zackariah Balaam",
+    "PurchasePrice": 436237.26,
+    "SalePrice": 598011.69,
+    "StockSymbol": "ASNA",
+    "PurchaseDate": "7/23/2018",
+    "SaleDate": "6/9/2020"
+  },
+  {
+    "BuyerName": "Haslett Jobbins",
+    "PurchasePrice": 888982.49,
+    "SalePrice": 505716.22,
+    "StockSymbol": "PFIN",
+    "PurchaseDate": "6/24/2010",
+    "SaleDate": "7/25/2002"
+  },
+  {
+    "BuyerName": "Aldric Olivella",
+    "PurchasePrice": 665646.66,
+    "SalePrice": 215180.73,
+    "StockSymbol": "GLADO",
+    "PurchaseDate": "3/9/2018",
+    "SaleDate": "6/3/2006"
+  },
+  {
+    "BuyerName": "Olag Janikowski",
+    "PurchasePrice": 271243.97,
+    "SalePrice": 965500.97,
+    "StockSymbol": "ASPS",
+    "PurchaseDate": "5/5/2020",
+    "SaleDate": "3/23/2006"
+  },
+  {
+    "BuyerName": "Vi Quilleash",
+    "PurchasePrice": 21210.06,
+    "SalePrice": 94571.15,
+    "StockSymbol": "WMB",
+    "PurchaseDate": "5/28/2003",
+    "SaleDate": "5/18/2006"
+  },
+  {
+    "BuyerName": "Shay Belham",
+    "PurchasePrice": 421280.67,
+    "SalePrice": 630565.9,
+    "StockSymbol": "SLTB",
+    "PurchaseDate": "6/10/2010",
+    "SaleDate": "10/17/2011"
+  },
+  {
+    "BuyerName": "Bradly Fielden",
+    "PurchasePrice": 390202.63,
+    "SalePrice": 779118.42,
+    "StockSymbol": "SPTN",
+    "PurchaseDate": "8/16/2012",
+    "SaleDate": "7/31/2011"
+  },
+  {
+    "BuyerName": "Kimberli Frenchum",
+    "PurchasePrice": 760303.86,
+    "SalePrice": 355163.26,
+    "StockSymbol": "DISCK",
+    "PurchaseDate": "1/28/2016",
+    "SaleDate": "7/11/2010"
+  },
+  {
+    "BuyerName": "Junie Pallent",
+    "PurchasePrice": 29104.87,
+    "SalePrice": 369842.1,
+    "StockSymbol": "BML^H",
+    "PurchaseDate": "12/30/2004",
+    "SaleDate": "5/11/2005"
+  },
+  {
+    "BuyerName": "Gleda Ropars",
+    "PurchasePrice": 31973.95,
+    "SalePrice": 611690.98,
+    "StockSymbol": "CWCO",
+    "PurchaseDate": "7/7/2006",
+    "SaleDate": "2/8/2006"
+  },
+  {
+    "BuyerName": "Elle Howsley",
+    "PurchasePrice": 580061.27,
+    "SalePrice": 59096.84,
+    "StockSymbol": "SLD",
+    "PurchaseDate": "7/4/2000",
+    "SaleDate": "6/27/2012"
+  },
+  {
+    "BuyerName": "Jonathon Jeens",
+    "PurchasePrice": 439912.6,
+    "SalePrice": 812732.96,
+    "StockSymbol": "LLL",
+    "PurchaseDate": "12/20/2003",
+    "SaleDate": "2/3/2000"
+  },
+  {
+    "BuyerName": "Ginnifer Orht",
+    "PurchasePrice": 638110.27,
+    "SalePrice": 208532.24,
+    "StockSymbol": "OPGN",
+    "PurchaseDate": "2/2/2012",
+    "SaleDate": "5/28/2021"
+  },
+  {
+    "BuyerName": "Gerri Gerding",
+    "PurchasePrice": 293439.12,
+    "SalePrice": 792025.39,
+    "StockSymbol": "MSB",
+    "PurchaseDate": "12/29/2022",
+    "SaleDate": "6/13/2011"
+  },
+  {
+    "BuyerName": "Emlynn Butterly",
+    "PurchasePrice": 5395.19,
+    "SalePrice": 634774.86,
+    "StockSymbol": "ASBB",
+    "PurchaseDate": "1/18/2013",
+    "SaleDate": "7/4/2011"
+  },
+  {
+    "BuyerName": "Chaunce Streather",
+    "PurchasePrice": 958970.05,
+    "SalePrice": 88239.94,
+    "StockSymbol": "PML",
+    "PurchaseDate": "7/29/2012",
+    "SaleDate": "12/25/2006"
+  },
+  {
+    "BuyerName": "Avigdor Brose",
+    "PurchasePrice": 873214.54,
+    "SalePrice": 192657.58,
+    "StockSymbol": "PRTY",
+    "PurchaseDate": "5/2/2003",
+    "SaleDate": "5/27/2002"
+  },
+  {
+    "BuyerName": "Kimbra Renfield",
+    "PurchasePrice": 704970.63,
+    "SalePrice": 739984.58,
+    "StockSymbol": "CR",
+    "PurchaseDate": "1/9/2001",
+    "SaleDate": "8/18/2021"
+  },
+  {
+    "BuyerName": "Ardys Avieson",
+    "PurchasePrice": 16087.15,
+    "SalePrice": 238568.69,
+    "StockSymbol": "JBLU",
+    "PurchaseDate": "2/7/2001",
+    "SaleDate": "7/31/2005"
+  },
+  {
+    "BuyerName": "Errick Scudamore",
+    "PurchasePrice": 881625.13,
+    "SalePrice": 399782.63,
+    "StockSymbol": "FTXG",
+    "PurchaseDate": "6/7/2004",
+    "SaleDate": "8/15/2000"
+  },
+  {
+    "BuyerName": "Bobina Ogger",
+    "PurchasePrice": 79437.2,
+    "SalePrice": 933863.71,
+    "StockSymbol": "CJJD",
+    "PurchaseDate": "8/27/2014",
+    "SaleDate": "10/31/2005"
+  },
+  {
+    "BuyerName": "Jemmie Gligorijevic",
+    "PurchasePrice": 710062.23,
+    "SalePrice": 749279.79,
+    "StockSymbol": "AB",
+    "PurchaseDate": "7/8/2006",
+    "SaleDate": "9/1/2008"
+  },
+  {
+    "BuyerName": "Gail Klehyn",
+    "PurchasePrice": 173920.79,
+    "SalePrice": 537936.3,
+    "StockSymbol": "RELY",
+    "PurchaseDate": "8/29/2021",
+    "SaleDate": "9/2/2004"
+  },
+  {
+    "BuyerName": "Philip Tremblet",
+    "PurchasePrice": 492725.25,
+    "SalePrice": 973156.9,
+    "StockSymbol": "HRZN",
+    "PurchaseDate": "7/18/2017",
+    "SaleDate": "11/19/2012"
+  },
+  {
+    "BuyerName": "Keen Farens",
+    "PurchasePrice": 30602.69,
+    "SalePrice": 303111.11,
+    "StockSymbol": "OXM",
+    "PurchaseDate": "1/16/2001",
+    "SaleDate": "2/21/2007"
+  },
+  {
+    "BuyerName": "Hermione Coke",
+    "PurchasePrice": 417911.15,
+    "SalePrice": 337612.02,
+    "StockSymbol": "GNBC",
+    "PurchaseDate": "4/25/2010",
+    "SaleDate": "12/19/2002"
+  },
+  {
+    "BuyerName": "Rois Delgadillo",
+    "PurchasePrice": 858030.4,
+    "SalePrice": 459537.84,
+    "StockSymbol": "GFNCP",
+    "PurchaseDate": "12/5/2013",
+    "SaleDate": "2/2/2014"
+  },
+  {
+    "BuyerName": "Ellyn Werndly",
+    "PurchasePrice": 246868.69,
+    "SalePrice": 840074.21,
+    "StockSymbol": "VVUS",
+    "PurchaseDate": "4/21/2006",
+    "SaleDate": "11/30/2014"
+  },
+  {
+    "BuyerName": "Ira Bunyan",
+    "PurchasePrice": 223061.73,
+    "SalePrice": 990499.33,
+    "StockSymbol": "AHH",
+    "PurchaseDate": "8/1/2017",
+    "SaleDate": "2/1/2009"
+  },
+  {
+    "BuyerName": "Fannie Buckberry",
+    "PurchasePrice": 71390.63,
+    "SalePrice": 502945.14,
+    "StockSymbol": "PPH",
+    "PurchaseDate": "4/7/2020",
+    "SaleDate": "5/31/2005"
+  },
+  {
+    "BuyerName": "Kelley McAirt",
+    "PurchasePrice": 903906.77,
+    "SalePrice": 944137.2,
+    "StockSymbol": "FTCS",
+    "PurchaseDate": "11/2/2006",
+    "SaleDate": "2/28/2004"
+  },
+  {
+    "BuyerName": "Matty Dunguy",
+    "PurchasePrice": 962234.2,
+    "SalePrice": 229437.91,
+    "StockSymbol": "RYN",
+    "PurchaseDate": "8/15/2016",
+    "SaleDate": "3/14/2006"
+  },
+  {
+    "BuyerName": "Daryle Loudwell",
+    "PurchasePrice": 898852.94,
+    "SalePrice": 247815.9,
+    "StockSymbol": "SDR",
+    "PurchaseDate": "6/19/2014",
+    "SaleDate": "9/23/2006"
+  },
+  {
+    "BuyerName": "Rowen Murrells",
+    "PurchasePrice": 500660.39,
+    "SalePrice": 710115.99,
+    "StockSymbol": "WOOF",
+    "PurchaseDate": "8/8/2011",
+    "SaleDate": "2/21/2001"
+  },
+  {
+    "BuyerName": "Conny Challenor",
+    "PurchasePrice": 631226.49,
+    "SalePrice": 870009.16,
+    "StockSymbol": "IRET^B",
+    "PurchaseDate": "10/19/2006",
+    "SaleDate": "4/20/2008"
+  },
+  {
+    "BuyerName": "Siusan Confort",
+    "PurchasePrice": 642971.66,
+    "SalePrice": 198675.88,
+    "StockSymbol": "NEWM",
+    "PurchaseDate": "10/21/2015",
+    "SaleDate": "11/4/2015"
+  },
+  {
+    "BuyerName": "Kordula Druhan",
+    "PurchasePrice": 211011.34,
+    "SalePrice": 599826.78,
+    "StockSymbol": "CMRE^D",
+    "PurchaseDate": "12/10/2006",
+    "SaleDate": "11/9/2019"
+  },
+  {
+    "BuyerName": "Kristel Ravilus",
+    "PurchasePrice": 119045.02,
+    "SalePrice": 719762.71,
+    "StockSymbol": "FTK",
+    "PurchaseDate": "8/10/2015",
+    "SaleDate": "12/20/2001"
+  },
+  {
+    "BuyerName": "Ashley Larkcum",
+    "PurchasePrice": 871481.03,
+    "SalePrice": 680753.28,
+    "StockSymbol": "PAACU",
+    "PurchaseDate": "4/14/2021",
+    "SaleDate": "9/15/2013"
+  },
+  {
+    "BuyerName": "Ruthanne Jerche",
+    "PurchasePrice": 285384.78,
+    "SalePrice": 66170.34,
+    "StockSymbol": "MOH",
+    "PurchaseDate": "9/29/2022",
+    "SaleDate": "5/30/2012"
+  },
+  {
+    "BuyerName": "Archy Yearron",
+    "PurchasePrice": 544953.52,
+    "SalePrice": 691352.48,
+    "StockSymbol": "TIF",
+    "PurchaseDate": "2/3/2019",
+    "SaleDate": "8/16/2009"
+  },
+  {
+    "BuyerName": "Nike Hutcheons",
+    "PurchasePrice": 33872.38,
+    "SalePrice": 946271.0,
+    "StockSymbol": "JBK",
+    "PurchaseDate": "1/7/2019",
+    "SaleDate": "11/14/2014"
+  },
+  {
+    "BuyerName": "Angeline Forth",
+    "PurchasePrice": 392472.74,
+    "SalePrice": 251012.51,
+    "StockSymbol": "AMRK",
+    "PurchaseDate": "11/29/2006",
+    "SaleDate": "7/13/2001"
+  },
+  {
+    "BuyerName": "Terrell Hurton",
+    "PurchasePrice": 284024.9,
+    "SalePrice": 701806.18,
+    "StockSymbol": "FCFP",
+    "PurchaseDate": "12/28/2001",
+    "SaleDate": "7/22/2009"
+  },
+  {
+    "BuyerName": "Farlie Harmson",
+    "PurchasePrice": 536747.47,
+    "SalePrice": 126891.45,
+    "StockSymbol": "NSIT",
+    "PurchaseDate": "5/17/2005",
+    "SaleDate": "6/26/2011"
+  },
+  {
+    "BuyerName": "Kissee Moylan",
+    "PurchasePrice": 527598.78,
+    "SalePrice": 223695.23,
+    "StockSymbol": "ASRV",
+    "PurchaseDate": "6/10/2018",
+    "SaleDate": "8/11/2021"
+  },
+  {
+    "BuyerName": "Dyana Hackford",
+    "PurchasePrice": 85359.62,
+    "SalePrice": 891536.47,
+    "StockSymbol": "BCRX",
+    "PurchaseDate": "9/8/2007",
+    "SaleDate": "7/29/2014"
+  },
+  {
+    "BuyerName": "Paton Kenninghan",
+    "PurchasePrice": 690408.67,
+    "SalePrice": 14167.72,
+    "StockSymbol": "RKDA",
+    "PurchaseDate": "6/26/2009",
+    "SaleDate": "11/23/2006"
+  },
+  {
+    "BuyerName": "Jay Childerley",
+    "PurchasePrice": 109010.27,
+    "SalePrice": 120330.3,
+    "StockSymbol": "GALT",
+    "PurchaseDate": "9/16/2012",
+    "SaleDate": "5/7/2001"
+  },
+  {
+    "BuyerName": "Erich Hellin",
+    "PurchasePrice": 401840.71,
+    "SalePrice": 159680.21,
+    "StockSymbol": "NFJ",
+    "PurchaseDate": "5/28/2002",
+    "SaleDate": "8/3/2022"
+  },
+  {
+    "BuyerName": "Maurie Keme",
+    "PurchasePrice": 607384.65,
+    "SalePrice": 685673.96,
+    "StockSymbol": "NAII",
+    "PurchaseDate": "2/26/2015",
+    "SaleDate": "11/21/2019"
+  },
+  {
+    "BuyerName": "Petr Fidock",
+    "PurchasePrice": 833876.68,
+    "SalePrice": 132524.85,
+    "StockSymbol": "WHLRP",
+    "PurchaseDate": "4/9/2008",
+    "SaleDate": "3/3/2009"
+  },
+  {
+    "BuyerName": "Wain McKernan",
+    "PurchasePrice": 731263.69,
+    "SalePrice": 428894.74,
+    "StockSymbol": "GNTX",
+    "PurchaseDate": "1/28/2020",
+    "SaleDate": "10/18/2016"
+  },
+  {
+    "BuyerName": "Kile Huffadine",
+    "PurchasePrice": 818283.24,
+    "SalePrice": 483704.24,
+    "StockSymbol": "COO",
+    "PurchaseDate": "9/7/2015",
+    "SaleDate": "10/14/2002"
+  },
+  {
+    "BuyerName": "Jerrilee Demanche",
+    "PurchasePrice": 610080.66,
+    "SalePrice": 128940.41,
+    "StockSymbol": "AMBC",
+    "PurchaseDate": "2/5/2022",
+    "SaleDate": "4/2/2012"
+  },
+  {
+    "BuyerName": "Beatrisa Cornu",
+    "PurchasePrice": 751284.14,
+    "SalePrice": 386493.3,
+    "StockSymbol": "TVPT",
+    "PurchaseDate": "8/5/2000",
+    "SaleDate": "1/21/2005"
+  },
+  {
+    "BuyerName": "Diandra Hansen",
+    "PurchasePrice": 54712.0,
+    "SalePrice": 533255.87,
+    "StockSymbol": "DTUL",
+    "PurchaseDate": "11/22/2007",
+    "SaleDate": "6/2/2019"
+  },
+  {
+    "BuyerName": "Gunilla Mountjoy",
+    "PurchasePrice": 463626.96,
+    "SalePrice": 303016.93,
+    "StockSymbol": "CDC",
+    "PurchaseDate": "11/23/2012",
+    "SaleDate": "10/10/2018"
+  },
+  {
+    "BuyerName": "Joni Beedom",
+    "PurchasePrice": 177170.39,
+    "SalePrice": 207717.88,
+    "StockSymbol": "ICBK",
+    "PurchaseDate": "8/8/2009",
+    "SaleDate": "11/23/2006"
+  },
+  {
+    "BuyerName": "Frants Martine",
+    "PurchasePrice": 818494.57,
+    "SalePrice": 582383.94,
+    "StockSymbol": "FWRD",
+    "PurchaseDate": "2/10/2002",
+    "SaleDate": "7/29/2005"
+  },
+  {
+    "BuyerName": "Izak Firle",
+    "PurchasePrice": 628629.51,
+    "SalePrice": 321478.14,
+    "StockSymbol": "ALLY",
+    "PurchaseDate": "8/27/2011",
+    "SaleDate": "3/14/2013"
+  },
+  {
+    "BuyerName": "Floria Mohan",
+    "PurchasePrice": 675358.67,
+    "SalePrice": 469159.59,
+    "StockSymbol": "GURE",
+    "PurchaseDate": "2/8/2001",
+    "SaleDate": "10/3/2009"
+  },
+  {
+    "BuyerName": "Zonnya Squirrel",
+    "PurchasePrice": 655359.73,
+    "SalePrice": 760382.56,
+    "StockSymbol": "SCYX",
+    "PurchaseDate": "9/20/2007",
+    "SaleDate": "4/15/2005"
+  },
+  {
+    "BuyerName": "Audre Fishbourne",
+    "PurchasePrice": 775658.29,
+    "SalePrice": 876310.71,
+    "StockSymbol": "AFGH",
+    "PurchaseDate": "6/4/2013",
+    "SaleDate": "6/9/2013"
+  },
+  {
+    "BuyerName": "Gertrudis Finnemore",
+    "PurchasePrice": 171054.63,
+    "SalePrice": 405096.49,
+    "StockSymbol": "BLVDW",
+    "PurchaseDate": "5/1/2012",
+    "SaleDate": "12/19/2005"
+  },
+  {
+    "BuyerName": "Auberon Wardesworth",
+    "PurchasePrice": 991397.43,
+    "SalePrice": 411888.1,
+    "StockSymbol": "ENPH",
+    "PurchaseDate": "9/15/2010",
+    "SaleDate": "9/12/2007"
+  },
+  {
+    "BuyerName": "Town Osgerby",
+    "PurchasePrice": 755552.96,
+    "SalePrice": 198766.24,
+    "StockSymbol": "FRBK",
+    "PurchaseDate": "10/1/2022",
+    "SaleDate": "9/16/2001"
+  },
+  {
+    "BuyerName": "Theodoric Bertomieu",
+    "PurchasePrice": 621325.82,
+    "SalePrice": 470871.69,
+    "StockSymbol": "CNNX",
+    "PurchaseDate": "11/12/2011",
+    "SaleDate": "1/31/2005"
+  },
+  {
+    "BuyerName": "Annabelle Whithalgh",
+    "PurchasePrice": 996257.78,
+    "SalePrice": 900514.64,
+    "StockSymbol": "SOJB",
+    "PurchaseDate": "9/12/2022",
+    "SaleDate": "9/11/2017"
+  },
+  {
+    "BuyerName": "Anallise Ziemen",
+    "PurchasePrice": 510330.33,
+    "SalePrice": 765869.85,
+    "StockSymbol": "CVNA",
+    "PurchaseDate": "3/27/2021",
+    "SaleDate": "11/26/2001"
+  },
+  {
+    "BuyerName": "Faun Fitzmaurice",
+    "PurchasePrice": 204248.19,
+    "SalePrice": 708842.13,
+    "StockSymbol": "ACSF",
+    "PurchaseDate": "4/18/2022",
+    "SaleDate": "3/31/2001"
+  },
+  {
+    "BuyerName": "Alicea Billin",
+    "PurchasePrice": 297942.66,
+    "SalePrice": 933983.99,
+    "StockSymbol": "MODN",
+    "PurchaseDate": "10/16/2018",
+    "SaleDate": "4/20/2009"
+  },
+  {
+    "BuyerName": "Creight Mathonnet",
+    "PurchasePrice": 430372.57,
+    "SalePrice": 705884.68,
+    "StockSymbol": "GOODO",
+    "PurchaseDate": "12/23/2011",
+    "SaleDate": "5/12/2008"
+  },
+  {
+    "BuyerName": "Penny Wisam",
+    "PurchasePrice": 652240.15,
+    "SalePrice": 14949.37,
+    "StockSymbol": "ARCB",
+    "PurchaseDate": "5/3/2017",
+    "SaleDate": "9/28/2017"
+  },
+  {
+    "BuyerName": "Carly Matthai",
+    "PurchasePrice": 841964.69,
+    "SalePrice": 491417.37,
+    "StockSymbol": "KFFB",
+    "PurchaseDate": "3/2/2020",
+    "SaleDate": "4/13/2009"
+  },
+  {
+    "BuyerName": "Jerrilyn Dumbrill",
+    "PurchasePrice": 906109.18,
+    "SalePrice": 526454.78,
+    "StockSymbol": "KRG",
+    "PurchaseDate": "2/20/2007",
+    "SaleDate": "1/13/2001"
+  },
+  {
+    "BuyerName": "Filip Urling",
+    "PurchasePrice": 904289.7,
+    "SalePrice": 204348.63,
+    "StockSymbol": "MFNC",
+    "PurchaseDate": "11/9/2018",
+    "SaleDate": "5/2/2009"
+  },
+  {
+    "BuyerName": "Hanson Tidcombe",
+    "PurchasePrice": 918298.21,
+    "SalePrice": 530242.88,
+    "StockSymbol": "BYBK",
+    "PurchaseDate": "6/21/2013",
+    "SaleDate": "7/3/2008"
+  },
+  {
+    "BuyerName": "Abraham Midden",
+    "PurchasePrice": 85548.13,
+    "SalePrice": 721198.83,
+    "StockSymbol": "IPDN",
+    "PurchaseDate": "9/8/2015",
+    "SaleDate": "6/4/2003"
+  },
+  {
+    "BuyerName": "Dalila Minigo",
+    "PurchasePrice": 553402.29,
+    "SalePrice": 149234.4,
+    "StockSymbol": "EVF",
+    "PurchaseDate": "3/27/2018",
+    "SaleDate": "9/17/2006"
+  },
+  {
+    "BuyerName": "Dewitt Womersley",
+    "PurchasePrice": 843828.4,
+    "SalePrice": 928374.48,
+    "StockSymbol": "ORI",
+    "PurchaseDate": "6/14/2010",
+    "SaleDate": "6/8/2014"
+  },
+  {
+    "BuyerName": "Barrett Trout",
+    "PurchasePrice": 650994.38,
+    "SalePrice": 698791.99,
+    "StockSymbol": "KEP",
+    "PurchaseDate": "11/16/2016",
+    "SaleDate": "9/2/2004"
+  },
+  {
+    "BuyerName": "Melitta Mimmack",
+    "PurchasePrice": 53226.61,
+    "SalePrice": 746666.96,
+    "StockSymbol": "AER",
+    "PurchaseDate": "8/4/2021",
+    "SaleDate": "9/20/2002"
+  },
+  {
+    "BuyerName": "Jessalyn Bleyman",
+    "PurchasePrice": 31507.53,
+    "SalePrice": 688155.95,
+    "StockSymbol": "CEMI",
+    "PurchaseDate": "6/26/2004",
+    "SaleDate": "4/16/2018"
+  },
+  {
+    "BuyerName": "Chancey Hornig",
+    "PurchasePrice": 935611.84,
+    "SalePrice": 247442.72,
+    "StockSymbol": "PSCE",
+    "PurchaseDate": "12/13/2002",
+    "SaleDate": "9/20/2018"
+  },
+  {
+    "BuyerName": "Alberta Kyndred",
+    "PurchasePrice": 780906.63,
+    "SalePrice": 407225.33,
+    "StockSymbol": "ANGI",
+    "PurchaseDate": "11/18/2000",
+    "SaleDate": "1/12/2000"
+  },
+  {
+    "BuyerName": "Ardelia Mewrcik",
+    "PurchasePrice": 597073.86,
+    "SalePrice": 887535.89,
+    "StockSymbol": "STBZ",
+    "PurchaseDate": "1/25/2011",
+    "SaleDate": "1/26/2009"
+  },
+  {
+    "BuyerName": "Maryanna McElree",
+    "PurchasePrice": 958717.96,
+    "SalePrice": 487622.27,
+    "StockSymbol": "VG",
+    "PurchaseDate": "11/9/2006",
+    "SaleDate": "12/8/2005"
+  },
+  {
+    "BuyerName": "Janith Edgar",
+    "PurchasePrice": 357007.38,
+    "SalePrice": 657162.48,
+    "StockSymbol": "CGA",
+    "PurchaseDate": "7/30/2005",
+    "SaleDate": "6/20/2000"
+  },
+  {
+    "BuyerName": "Dedra Fellnee",
+    "PurchasePrice": 786418.82,
+    "SalePrice": 852719.95,
+    "StockSymbol": "DX^B",
+    "PurchaseDate": "1/23/2017",
+    "SaleDate": "9/13/2007"
+  },
+  {
+    "BuyerName": "Laina Aldins",
+    "PurchasePrice": 848509.23,
+    "SalePrice": 789403.81,
+    "StockSymbol": "DWTR",
+    "PurchaseDate": "3/24/2002",
+    "SaleDate": "6/23/2014"
+  },
+  {
+    "BuyerName": "Jewelle Fowlston",
+    "PurchasePrice": 199828.72,
+    "SalePrice": 2588.9,
+    "StockSymbol": "MRUS",
+    "PurchaseDate": "2/24/2008",
+    "SaleDate": "12/17/2015"
+  },
+  {
+    "BuyerName": "Nikita Sandlin",
+    "PurchasePrice": 35965.92,
+    "SalePrice": 722909.57,
+    "StockSymbol": "MHNC",
+    "PurchaseDate": "7/12/2018",
+    "SaleDate": "9/11/2000"
+  },
+  {
+    "BuyerName": "Carlynn Olliver",
+    "PurchasePrice": 722184.74,
+    "SalePrice": 22071.53,
+    "StockSymbol": "SPLS",
+    "PurchaseDate": "9/27/2010",
+    "SaleDate": "10/23/2007"
+  },
+  {
+    "BuyerName": "Lorilee Magill",
+    "PurchasePrice": 926403.08,
+    "SalePrice": 685106.76,
+    "StockSymbol": "BFIT",
+    "PurchaseDate": "7/13/2006",
+    "SaleDate": "5/21/2017"
+  },
+  {
+    "BuyerName": "Tandie Batisse",
+    "PurchasePrice": 995776.64,
+    "SalePrice": 122993.44,
+    "StockSymbol": "SOFO",
+    "PurchaseDate": "1/6/2010",
+    "SaleDate": "1/4/2019"
+  },
+  {
+    "BuyerName": "Pooh Drakes",
+    "PurchasePrice": 810474.79,
+    "SalePrice": 229389.46,
+    "StockSymbol": "ETV",
+    "PurchaseDate": "2/22/2006",
+    "SaleDate": "5/23/2015"
+  },
+  {
+    "BuyerName": "Brander Davydenko",
+    "PurchasePrice": 934487.91,
+    "SalePrice": 312613.72,
+    "StockSymbol": "BBT^E",
+    "PurchaseDate": "8/17/2015",
+    "SaleDate": "4/22/2003"
+  },
+  {
+    "BuyerName": "Beulah Maraga",
+    "PurchasePrice": 958670.34,
+    "SalePrice": 733645.47,
+    "StockSymbol": "GCH",
+    "PurchaseDate": "5/12/2013",
+    "SaleDate": "8/14/2018"
+  },
+  {
+    "BuyerName": "Konstantin Ferenczy",
+    "PurchasePrice": 27990.7,
+    "SalePrice": 74437.03,
+    "StockSymbol": "CNMD",
+    "PurchaseDate": "9/19/2010",
+    "SaleDate": "11/19/2003"
+  },
+  {
+    "BuyerName": "Marius Banham",
+    "PurchasePrice": 587587.7,
+    "SalePrice": 462352.65,
+    "StockSymbol": "FTXD",
+    "PurchaseDate": "8/16/2000",
+    "SaleDate": "1/6/2021"
+  },
+  {
+    "BuyerName": "Shandee Coupland",
+    "PurchasePrice": 390844.95,
+    "SalePrice": 500399.28,
+    "StockSymbol": "SCON",
+    "PurchaseDate": "12/20/2004",
+    "SaleDate": "9/13/2012"
+  },
+  {
+    "BuyerName": "Lemar Tofanini",
+    "PurchasePrice": 215544.77,
+    "SalePrice": 61224.99,
+    "StockSymbol": "CTRE",
+    "PurchaseDate": "1/27/2017",
+    "SaleDate": "10/3/2011"
+  },
+  {
+    "BuyerName": "Burgess Middas",
+    "PurchasePrice": 84915.2,
+    "SalePrice": 129468.66,
+    "StockSymbol": "DS",
+    "PurchaseDate": "8/26/2004",
+    "SaleDate": "4/28/2011"
+  },
+  {
+    "BuyerName": "Tatum Corter",
+    "PurchasePrice": 394354.56,
+    "SalePrice": 897908.03,
+    "StockSymbol": "JSYNR",
+    "PurchaseDate": "2/25/2000",
+    "SaleDate": "9/24/2010"
+  },
+  {
+    "BuyerName": "Andy Yule",
+    "PurchasePrice": 644284.49,
+    "SalePrice": 396686.78,
+    "StockSymbol": "PRMW",
+    "PurchaseDate": "3/11/2011",
+    "SaleDate": "7/29/2010"
+  },
+  {
+    "BuyerName": "Greta Bartlosz",
+    "PurchasePrice": 861076.32,
+    "SalePrice": 446916.59,
+    "StockSymbol": "NXC",
+    "PurchaseDate": "3/2/2020",
+    "SaleDate": "3/31/2005"
+  },
+  {
+    "BuyerName": "Sean Jerzycowski",
+    "PurchasePrice": 83809.84,
+    "SalePrice": 873845.51,
+    "StockSymbol": "AHPAW",
+    "PurchaseDate": "2/7/2011",
+    "SaleDate": "1/18/2003"
+  },
+  {
+    "BuyerName": "Charyl Kmieciak",
+    "PurchasePrice": 239348.63,
+    "SalePrice": 67009.44,
+    "StockSymbol": "BKU",
+    "PurchaseDate": "3/11/2006",
+    "SaleDate": "5/22/2011"
+  },
+  {
+    "BuyerName": "Milt Crampsey",
+    "PurchasePrice": 439117.02,
+    "SalePrice": 669332.66,
+    "StockSymbol": "THFF",
+    "PurchaseDate": "4/26/2006",
+    "SaleDate": "6/14/2006"
+  },
+  {
+    "BuyerName": "Cicely Gabe",
+    "PurchasePrice": 667436.47,
+    "SalePrice": 551483.68,
+    "StockSymbol": "CRDS",
+    "PurchaseDate": "11/27/2004",
+    "SaleDate": "9/19/2020"
+  },
+  {
+    "BuyerName": "Sergeant Langtree",
+    "PurchasePrice": 829321.15,
+    "SalePrice": 252315.55,
+    "StockSymbol": "MQY",
+    "PurchaseDate": "12/10/2019",
+    "SaleDate": "6/1/2005"
+  },
+  {
+    "BuyerName": "Rana Charlon",
+    "PurchasePrice": 578187.55,
+    "SalePrice": 634309.72,
+    "StockSymbol": "FCVT",
+    "PurchaseDate": "3/2/2013",
+    "SaleDate": "8/5/2012"
+  },
+  {
+    "BuyerName": "Hynda Forton",
+    "PurchasePrice": 997150.87,
+    "SalePrice": 265894.05,
+    "StockSymbol": "REX",
+    "PurchaseDate": "8/12/2009",
+    "SaleDate": "2/23/2017"
+  },
+  {
+    "BuyerName": "Kiele O'Dowd",
+    "PurchasePrice": 532370.0,
+    "SalePrice": 663654.56,
+    "StockSymbol": "HMSY",
+    "PurchaseDate": "12/21/2018",
+    "SaleDate": "10/24/2008"
+  },
+  {
+    "BuyerName": "Putnam Taffee",
+    "PurchasePrice": 613677.06,
+    "SalePrice": 254729.71,
+    "StockSymbol": "SEDG",
+    "PurchaseDate": "8/19/2018",
+    "SaleDate": "6/13/2022"
+  },
+  {
+    "BuyerName": "Sophey Youson",
+    "PurchasePrice": 503892.09,
+    "SalePrice": 912301.71,
+    "StockSymbol": "JJSF",
+    "PurchaseDate": "4/3/2003",
+    "SaleDate": "1/19/2016"
+  },
+  {
+    "BuyerName": "Elias Schout",
+    "PurchasePrice": 400894.29,
+    "SalePrice": 718112.69,
+    "StockSymbol": "BMRN",
+    "PurchaseDate": "11/22/2018",
+    "SaleDate": "2/13/2021"
+  },
+  {
+    "BuyerName": "Elysha Handmore",
+    "PurchasePrice": 339616.27,
+    "SalePrice": 753391.82,
+    "StockSymbol": "VKTXW",
+    "PurchaseDate": "8/31/2006",
+    "SaleDate": "5/22/2015"
+  },
+  {
+    "BuyerName": "Corinna Gouthier",
+    "PurchasePrice": 37879.31,
+    "SalePrice": 393323.82,
+    "StockSymbol": "LPG",
+    "PurchaseDate": "12/21/2010",
+    "SaleDate": "7/29/2021"
+  },
+  {
+    "BuyerName": "Felipe Reddoch",
+    "PurchasePrice": 708734.2,
+    "SalePrice": 564783.5,
+    "StockSymbol": "FRAN",
+    "PurchaseDate": "2/28/2010",
+    "SaleDate": "4/22/2001"
+  },
+  {
+    "BuyerName": "Shaylah Reichert",
+    "PurchasePrice": 278553.51,
+    "SalePrice": 982158.33,
+    "StockSymbol": "C^S",
+    "PurchaseDate": "11/23/2004",
+    "SaleDate": "7/5/2018"
+  },
+  {
+    "BuyerName": "Maressa Pervoe",
+    "PurchasePrice": 146313.9,
+    "SalePrice": 772773.56,
+    "StockSymbol": "LKOR",
+    "PurchaseDate": "2/10/2021",
+    "SaleDate": "3/14/2002"
+  },
+  {
+    "BuyerName": "Eustace Earlam",
+    "PurchasePrice": 316482.17,
+    "SalePrice": 895929.13,
+    "StockSymbol": "EVGBC",
+    "PurchaseDate": "3/24/2006",
+    "SaleDate": "12/15/2014"
+  },
+  {
+    "BuyerName": "Pavia Bereford",
+    "PurchasePrice": 868298.92,
+    "SalePrice": 366338.25,
+    "StockSymbol": "CIEN",
+    "PurchaseDate": "9/11/2006",
+    "SaleDate": "10/3/2016"
+  },
+  {
+    "BuyerName": "Anabel Di Carlo",
+    "PurchasePrice": 129844.1,
+    "SalePrice": 362778.07,
+    "StockSymbol": "ESGE",
+    "PurchaseDate": "7/19/2003",
+    "SaleDate": "8/9/2006"
+  },
+  {
+    "BuyerName": "Karola Shewan",
+    "PurchasePrice": 599540.06,
+    "SalePrice": 724404.75,
+    "StockSymbol": "HCAP",
+    "PurchaseDate": "5/4/2016",
+    "SaleDate": "12/25/2015"
+  },
+  {
+    "BuyerName": "Wini Conrart",
+    "PurchasePrice": 742719.41,
+    "SalePrice": 704929.01,
+    "StockSymbol": "CATO",
+    "PurchaseDate": "4/21/2021",
+    "SaleDate": "7/2/2022"
+  },
+  {
+    "BuyerName": "Alphonso Copins",
+    "PurchasePrice": 643144.43,
+    "SalePrice": 348360.3,
+    "StockSymbol": "SMM",
+    "PurchaseDate": "6/15/2009",
+    "SaleDate": "12/25/2010"
+  },
+  {
+    "BuyerName": "Ervin Headingham",
+    "PurchasePrice": 497825.29,
+    "SalePrice": 711766.45,
+    "StockSymbol": "BMI",
+    "PurchaseDate": "2/23/2016",
+    "SaleDate": "9/30/2021"
+  },
+  {
+    "BuyerName": "Alexandro Sauven",
+    "PurchasePrice": 605910.66,
+    "SalePrice": 241778.87,
+    "StockSymbol": "LL",
+    "PurchaseDate": "1/31/2015",
+    "SaleDate": "4/1/2000"
+  },
+  {
+    "BuyerName": "Phil Livesay",
+    "PurchasePrice": 526692.8,
+    "SalePrice": 598141.61,
+    "StockSymbol": "NGHCO",
+    "PurchaseDate": "3/26/2011",
+    "SaleDate": "7/17/2003"
+  },
+  {
+    "BuyerName": "Hunter Knappe",
+    "PurchasePrice": 832891.91,
+    "SalePrice": 961944.46,
+    "StockSymbol": "ESCA",
+    "PurchaseDate": "12/21/2019",
+    "SaleDate": "2/10/2019"
+  },
+  {
+    "BuyerName": "Adam Andreopolos",
+    "PurchasePrice": 267629.83,
+    "SalePrice": 21252.13,
+    "StockSymbol": "TUES",
+    "PurchaseDate": "11/6/2022",
+    "SaleDate": "1/18/2018"
+  },
+  {
+    "BuyerName": "Alfie Patrickson",
+    "PurchasePrice": 758251.21,
+    "SalePrice": 684527.0,
+    "StockSymbol": "HYXE",
+    "PurchaseDate": "1/12/2011",
+    "SaleDate": "10/10/2000"
+  },
+  {
+    "BuyerName": "Allyson Aleevy",
+    "PurchasePrice": 365648.55,
+    "SalePrice": 838119.84,
+    "StockSymbol": "TTOO",
+    "PurchaseDate": "6/20/2018",
+    "SaleDate": "1/12/2004"
+  },
+  {
+    "BuyerName": "Robbie Boshard",
+    "PurchasePrice": 671313.86,
+    "SalePrice": 195989.13,
+    "StockSymbol": "TRPX",
+    "PurchaseDate": "1/22/2014",
+    "SaleDate": "10/9/2002"
+  },
+  {
+    "BuyerName": "Bird Magner",
+    "PurchasePrice": 824952.13,
+    "SalePrice": 92595.43,
+    "StockSymbol": "AFGH",
+    "PurchaseDate": "10/2/2012",
+    "SaleDate": "10/26/2008"
+  },
+  {
+    "BuyerName": "Tanner Mayor",
+    "PurchasePrice": 347240.76,
+    "SalePrice": 310006.58,
+    "StockSymbol": "BLDP",
+    "PurchaseDate": "9/19/2014",
+    "SaleDate": "4/3/2000"
+  },
+  {
+    "BuyerName": "Joan Gudde",
+    "PurchasePrice": 167589.98,
+    "SalePrice": 638214.76,
+    "StockSymbol": "ECA",
+    "PurchaseDate": "10/10/2018",
+    "SaleDate": "1/31/2017"
+  },
+  {
+    "BuyerName": "Jammie Greenhill",
+    "PurchasePrice": 993141.52,
+    "SalePrice": 444269.21,
+    "StockSymbol": "KTEC",
+    "PurchaseDate": "2/2/2009",
+    "SaleDate": "4/10/2006"
+  },
+  {
+    "BuyerName": "Harriett Hussy",
+    "PurchasePrice": 227260.11,
+    "SalePrice": 803147.25,
+    "StockSymbol": "TG",
+    "PurchaseDate": "7/28/2007",
+    "SaleDate": "4/4/2003"
+  },
+  {
+    "BuyerName": "Timothea Muggleston",
+    "PurchasePrice": 229375.37,
+    "SalePrice": 421779.9,
+    "StockSymbol": "HSEA",
+    "PurchaseDate": "11/9/2006",
+    "SaleDate": "3/19/2011"
+  },
+  {
+    "BuyerName": "Nessi Lumbly",
+    "PurchasePrice": 687025.18,
+    "SalePrice": 985776.18,
+    "StockSymbol": "COF^H",
+    "PurchaseDate": "2/5/2015",
+    "SaleDate": "4/1/2019"
+  },
+  {
+    "BuyerName": "Pepita Rothchild",
+    "PurchasePrice": 104140.05,
+    "SalePrice": 265641.23,
+    "StockSymbol": "SPH",
+    "PurchaseDate": "9/21/2000",
+    "SaleDate": "8/17/2012"
+  },
+  {
+    "BuyerName": "Carita Fray",
+    "PurchasePrice": 280692.35,
+    "SalePrice": 345010.44,
+    "StockSymbol": "DWIN",
+    "PurchaseDate": "11/2/2021",
+    "SaleDate": "5/7/2000"
+  },
+  {
+    "BuyerName": "Jillayne Eick",
+    "PurchasePrice": 155225.23,
+    "SalePrice": 673218.13,
+    "StockSymbol": "TMHC",
+    "PurchaseDate": "1/11/2008",
+    "SaleDate": "5/5/2000"
+  },
+  {
+    "BuyerName": "Corney Korneichuk",
+    "PurchasePrice": 138510.44,
+    "SalePrice": 706810.71,
+    "StockSymbol": "MSP",
+    "PurchaseDate": "1/18/2008",
+    "SaleDate": "12/31/2002"
+  },
+  {
+    "BuyerName": "Rochester McPhelim",
+    "PurchasePrice": 439632.4,
+    "SalePrice": 852895.27,
+    "StockSymbol": "SEDG",
+    "PurchaseDate": "9/11/2013",
+    "SaleDate": "5/14/2000"
+  },
+  {
+    "BuyerName": "Derk Nutkin",
+    "PurchasePrice": 280196.1,
+    "SalePrice": 292543.36,
+    "StockSymbol": "AAPL",
+    "PurchaseDate": "1/23/2013",
+    "SaleDate": "10/20/2006"
+  },
+  {
+    "BuyerName": "Malva Zellick",
+    "PurchasePrice": 81150.18,
+    "SalePrice": 907217.03,
+    "StockSymbol": "DVCR",
+    "PurchaseDate": "9/6/2017",
+    "SaleDate": "4/6/2008"
+  },
+  {
+    "BuyerName": "Carmelia Lightwing",
+    "PurchasePrice": 93839.83,
+    "SalePrice": 283358.53,
+    "StockSymbol": "PRIM",
+    "PurchaseDate": "10/16/2021",
+    "SaleDate": "9/22/2007"
+  },
+  {
+    "BuyerName": "Ruggiero Ickov",
+    "PurchasePrice": 480916.74,
+    "SalePrice": 974496.79,
+    "StockSymbol": "FMBI",
+    "PurchaseDate": "2/7/2010",
+    "SaleDate": "9/25/2016"
+  },
+  {
+    "BuyerName": "Gray Evert",
+    "PurchasePrice": 260044.53,
+    "SalePrice": 967343.86,
+    "StockSymbol": "SAN^I",
+    "PurchaseDate": "1/19/2022",
+    "SaleDate": "9/28/2002"
+  },
+  {
+    "BuyerName": "Vasilis Lowdeane",
+    "PurchasePrice": 930949.13,
+    "SalePrice": 482135.27,
+    "StockSymbol": "PLT",
+    "PurchaseDate": "3/3/2008",
+    "SaleDate": "4/7/2022"
+  },
+  {
+    "BuyerName": "Clarine Bonnyson",
+    "PurchasePrice": 640266.38,
+    "SalePrice": 322935.41,
+    "StockSymbol": "MEDP",
+    "PurchaseDate": "4/29/2022",
+    "SaleDate": "6/1/2011"
+  },
+  {
+    "BuyerName": "Mia Foulgham",
+    "PurchasePrice": 461834.71,
+    "SalePrice": 542639.35,
+    "StockSymbol": "VR^A",
+    "PurchaseDate": "10/7/2019",
+    "SaleDate": "9/3/2015"
+  },
+  {
+    "BuyerName": "Batsheva Harback",
+    "PurchasePrice": 459693.88,
+    "SalePrice": 385938.09,
+    "StockSymbol": "CELGZ",
+    "PurchaseDate": "1/4/2017",
+    "SaleDate": "5/22/2017"
+  },
+  {
+    "BuyerName": "Justina Mainson",
+    "PurchasePrice": 104567.1,
+    "SalePrice": 461298.37,
+    "StockSymbol": "IIVI",
+    "PurchaseDate": "12/17/2021",
+    "SaleDate": "7/19/2001"
+  },
+  {
+    "BuyerName": "Dirk Hankin",
+    "PurchasePrice": 35044.15,
+    "SalePrice": 76028.75,
+    "StockSymbol": "CHRW",
+    "PurchaseDate": "12/20/2003",
+    "SaleDate": "3/28/2001"
+  },
+  {
+    "BuyerName": "Anna-diane Deeney",
+    "PurchasePrice": 747803.43,
+    "SalePrice": 929263.49,
+    "StockSymbol": "EVH",
+    "PurchaseDate": "7/11/2007",
+    "SaleDate": "8/17/2008"
+  },
+  {
+    "BuyerName": "Elvina Deverose",
+    "PurchasePrice": 407969.32,
+    "SalePrice": 984465.82,
+    "StockSymbol": "CX",
+    "PurchaseDate": "1/20/2019",
+    "SaleDate": "4/28/2011"
+  },
+  {
+    "BuyerName": "Fraze Fried",
+    "PurchasePrice": 971697.39,
+    "SalePrice": 990601.62,
+    "StockSymbol": "CDI",
+    "PurchaseDate": "7/19/2011",
+    "SaleDate": "4/10/2015"
+  },
+  {
+    "BuyerName": "Adams Trudgian",
+    "PurchasePrice": 444794.68,
+    "SalePrice": 383106.32,
+    "StockSymbol": "CTT           ",
+    "PurchaseDate": "12/10/2010",
+    "SaleDate": "4/5/2018"
+  },
+  {
+    "BuyerName": "Ida Dudill",
+    "PurchasePrice": 352597.87,
+    "SalePrice": 946571.47,
+    "StockSymbol": "EIX",
+    "PurchaseDate": "8/7/2011",
+    "SaleDate": "5/13/2003"
+  },
+  {
+    "BuyerName": "Leonore Knight",
+    "PurchasePrice": 507427.09,
+    "SalePrice": 711420.74,
+    "StockSymbol": "CPE^A",
+    "PurchaseDate": "8/26/2011",
+    "SaleDate": "8/29/2008"
+  },
+  {
+    "BuyerName": "Ansel Lerohan",
+    "PurchasePrice": 433612.83,
+    "SalePrice": 494564.72,
+    "StockSymbol": "CORR",
+    "PurchaseDate": "9/5/2017",
+    "SaleDate": "5/12/2021"
+  },
+  {
+    "BuyerName": "Cyndia Grayshan",
+    "PurchasePrice": 689971.49,
+    "SalePrice": 574502.55,
+    "StockSymbol": "BSET",
+    "PurchaseDate": "11/9/2020",
+    "SaleDate": "9/16/2019"
+  },
+  {
+    "BuyerName": "Joanna Van Hove",
+    "PurchasePrice": 797059.89,
+    "SalePrice": 387288.68,
+    "StockSymbol": "HIVE",
+    "PurchaseDate": "3/13/2020",
+    "SaleDate": "3/16/2011"
+  },
+  {
+    "BuyerName": "Pablo Alves",
+    "PurchasePrice": 95409.05,
+    "SalePrice": 492461.27,
+    "StockSymbol": "KEP",
+    "PurchaseDate": "6/21/2020",
+    "SaleDate": "6/11/2006"
+  },
+  {
+    "BuyerName": "Alistair Elderidge",
+    "PurchasePrice": 928031.05,
+    "SalePrice": 222421.99,
+    "StockSymbol": "NAO",
+    "PurchaseDate": "2/18/2021",
+    "SaleDate": "9/19/2007"
+  },
+  {
+    "BuyerName": "Chalmers Kares",
+    "PurchasePrice": 861988.26,
+    "SalePrice": 159127.0,
+    "StockSymbol": "PMD",
+    "PurchaseDate": "5/24/2004",
+    "SaleDate": "9/21/2007"
+  },
+  {
+    "BuyerName": "Web Klimpt",
+    "PurchasePrice": 307742.99,
+    "SalePrice": 511618.83,
+    "StockSymbol": "ICAD",
+    "PurchaseDate": "4/25/2002",
+    "SaleDate": "1/25/2015"
+  },
+  {
+    "BuyerName": "Alyson Robardley",
+    "PurchasePrice": 145789.47,
+    "SalePrice": 704469.15,
+    "StockSymbol": "CBLI",
+    "PurchaseDate": "6/22/2014",
+    "SaleDate": "7/14/2016"
+  },
+  {
+    "BuyerName": "Paco Amer",
+    "PurchasePrice": 873119.41,
+    "SalePrice": 497725.16,
+    "StockSymbol": "SYT",
+    "PurchaseDate": "1/16/2018",
+    "SaleDate": "2/21/2016"
+  },
+  {
+    "BuyerName": "Matthias Gathercoal",
+    "PurchasePrice": 682638.46,
+    "SalePrice": 931863.6,
+    "StockSymbol": "EVSTC",
+    "PurchaseDate": "9/30/2013",
+    "SaleDate": "3/4/2007"
+  },
+  {
+    "BuyerName": "Bertrando Menendez",
+    "PurchasePrice": 81823.0,
+    "SalePrice": 951939.17,
+    "StockSymbol": "INTL",
+    "PurchaseDate": "3/8/2012",
+    "SaleDate": "1/6/2004"
+  },
+  {
+    "BuyerName": "Arleta Schofield",
+    "PurchasePrice": 985439.86,
+    "SalePrice": 243016.62,
+    "StockSymbol": "EYESW",
+    "PurchaseDate": "8/30/2017",
+    "SaleDate": "12/9/2022"
+  },
+  {
+    "BuyerName": "Yvonne Kedslie",
+    "PurchasePrice": 491960.75,
+    "SalePrice": 723841.77,
+    "StockSymbol": "ANET",
+    "PurchaseDate": "12/17/2007",
+    "SaleDate": "1/31/2022"
+  },
+  {
+    "BuyerName": "Cheston Inchan",
+    "PurchasePrice": 467597.14,
+    "SalePrice": 638828.68,
+    "StockSymbol": "SMG",
+    "PurchaseDate": "9/7/2010",
+    "SaleDate": "10/5/2002"
+  },
+  {
+    "BuyerName": "Blondell Masse",
+    "PurchasePrice": 272455.88,
+    "SalePrice": 166050.46,
+    "StockSymbol": "FANG",
+    "PurchaseDate": "11/1/2006",
+    "SaleDate": "8/25/2004"
+  },
+  {
+    "BuyerName": "Mufinella Spenton",
+    "PurchasePrice": 613250.54,
+    "SalePrice": 159125.46,
+    "StockSymbol": "ARE",
+    "PurchaseDate": "8/29/2004",
+    "SaleDate": "1/30/2004"
+  },
+  {
+    "BuyerName": "Kirsti Vasyushkhin",
+    "PurchasePrice": 433068.21,
+    "SalePrice": 151272.1,
+    "StockSymbol": "NUTR",
+    "PurchaseDate": "6/27/2012",
+    "SaleDate": "12/10/2008"
+  },
+  {
+    "BuyerName": "Eldridge Harradence",
+    "PurchasePrice": 131729.29,
+    "SalePrice": 136784.99,
+    "StockSymbol": "AVD",
+    "PurchaseDate": "5/22/2008",
+    "SaleDate": "2/16/2000"
+  },
+  {
+    "BuyerName": "Gray Michieli",
+    "PurchasePrice": 227064.13,
+    "SalePrice": 765991.63,
+    "StockSymbol": "LUV",
+    "PurchaseDate": "12/19/2021",
+    "SaleDate": "7/30/2014"
+  },
+  {
+    "BuyerName": "Tailor Trever",
+    "PurchasePrice": 389260.53,
+    "SalePrice": 796010.68,
+    "StockSymbol": "VR^A",
+    "PurchaseDate": "8/25/2005",
+    "SaleDate": "4/17/2010"
+  },
+  {
+    "BuyerName": "Ferdy Selly",
+    "PurchasePrice": 65886.47,
+    "SalePrice": 171419.57,
+    "StockSymbol": "EXEL",
+    "PurchaseDate": "1/18/2001",
+    "SaleDate": "2/4/2018"
+  },
+  {
+    "BuyerName": "Lief Ingyon",
+    "PurchasePrice": 405701.07,
+    "SalePrice": 291261.89,
+    "StockSymbol": "HMLP",
+    "PurchaseDate": "5/7/2015",
+    "SaleDate": "3/8/2009"
+  },
+  {
+    "BuyerName": "Cam McDougal",
+    "PurchasePrice": 486016.96,
+    "SalePrice": 681909.36,
+    "StockSymbol": "ANAB",
+    "PurchaseDate": "1/30/2016",
+    "SaleDate": "8/18/2005"
+  },
+  {
+    "BuyerName": "Filbert Cutbirth",
+    "PurchasePrice": 49374.91,
+    "SalePrice": 214058.39,
+    "StockSymbol": "SB",
+    "PurchaseDate": "4/17/2009",
+    "SaleDate": "12/8/2004"
+  },
+  {
+    "BuyerName": "Krystalle Dahl",
+    "PurchasePrice": 202047.83,
+    "SalePrice": 103867.82,
+    "StockSymbol": "GPK",
+    "PurchaseDate": "2/2/2004",
+    "SaleDate": "8/14/2005"
+  },
+  {
+    "BuyerName": "Aldrich Hayer",
+    "PurchasePrice": 880037.45,
+    "SalePrice": 473215.18,
+    "StockSymbol": "LAUR",
+    "PurchaseDate": "7/20/2013",
+    "SaleDate": "9/27/2016"
+  },
+  {
+    "BuyerName": "Audre Keveren",
+    "PurchasePrice": 479105.61,
+    "SalePrice": 319037.64,
+    "StockSymbol": "BOSC",
+    "PurchaseDate": "6/14/2009",
+    "SaleDate": "1/11/2011"
+  },
+  {
+    "BuyerName": "Pearline Stiant",
+    "PurchasePrice": 124832.86,
+    "SalePrice": 266206.85,
+    "StockSymbol": "UVV",
+    "PurchaseDate": "10/3/2004",
+    "SaleDate": "11/12/2009"
+  },
+  {
+    "BuyerName": "Vladimir Rockall",
+    "PurchasePrice": 644184.76,
+    "SalePrice": 917452.73,
+    "StockSymbol": "VRML",
+    "PurchaseDate": "9/7/2010",
+    "SaleDate": "1/21/2022"
+  },
+  {
+    "BuyerName": "Gris Muddicliffe",
+    "PurchasePrice": 757318.92,
+    "SalePrice": 984788.23,
+    "StockSymbol": "FEO",
+    "PurchaseDate": "6/3/2009",
+    "SaleDate": "10/2/2001"
+  },
+  {
+    "BuyerName": "Frannie Middle",
+    "PurchasePrice": 553929.04,
+    "SalePrice": 39226.76,
+    "StockSymbol": "HPQ",
+    "PurchaseDate": "1/23/2020",
+    "SaleDate": "6/6/2008"
+  },
+  {
+    "BuyerName": "Frazer Brimicombe",
+    "PurchasePrice": 567944.45,
+    "SalePrice": 402564.28,
+    "StockSymbol": "BLDR",
+    "PurchaseDate": "6/3/2001",
+    "SaleDate": "8/13/2002"
+  }
+]
