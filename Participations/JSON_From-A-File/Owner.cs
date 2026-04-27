@@ -27,7 +27,8 @@ namespace JSON_From_A_File
 
         public override string ToString()
         {
-            return $"{FirstName} {LastName} owns a {Make} that is {Color} ....";
+            // display all information
+            return $"{FirstName} {LastName} owns a {Make} {Model} that is {Color} made in {Year}";
         }
 
     }
