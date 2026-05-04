@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="API_ChuckNorrisJokes-Part1/API_ChuckNorrisJokes-Part1.csproj" Id="f799d285-19c7-40a8-97c9-a2017971829d" />
   <Project Path="Classes_Cereal/Classes_Cereal.csproj" Id="7c19445c-1f90-452c-b466-1d159897a33f" />
   <Project Path="Classes_Easterbunny/Classes_Easterbunny.csproj" Id="436ff959-b8d0-4b04-82cb-580a98d800d9" />
   <Project Path="Classes_Pharmaceutical/Classes_Pharmaceutical.csproj" Id="c1edd292-52e2-4909-b728-d2e6c945790e" />
